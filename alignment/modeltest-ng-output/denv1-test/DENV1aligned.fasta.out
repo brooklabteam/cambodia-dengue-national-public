@@ -1,0 +1,180 @@
+--------------------------------------------------------------------------------
+ModelTest-NG v0.1.7
+
+Input data:
+  MSA:        /home/cbrook/modeltest-ng/denv1-test/DENV1aligned.fasta
+  Tree:       Maximum likelihood
+    file:           -
+  #taxa:            401
+  #sites:           11302
+  #patterns:        5289
+  Max. thread mem:  1048 MB
+
+Output:
+  Log:           /home/cbrook/modeltest-ng/denv1-test/DENV1aligned.fasta.log
+  Starting tree: /home/cbrook/modeltest-ng/denv1-test/DENV1aligned.fasta.tree
+  Results:       /home/cbrook/modeltest-ng/denv1-test/DENV1aligned.fasta.out
+
+Selection options:
+  # dna schemes:      11
+  # dna models:       88
+  include model parameters:
+    Uniform:         true
+    p-inv (+I):      true
+    gamma (+G):      true
+    both (+I+G):     true
+    free rates (+R): false
+    fixed freqs:     true
+    estimated freqs: true
+    #categories:     4
+  gamma rates mode:   mean
+  asc bias:           none
+  epsilon (opt):      0.01
+  epsilon (par):      0.05
+  keep branches:      false
+
+Additional options:
+  verbosity:        very low
+  threads:          1/14
+  RNG seed:         12345
+  subtree repeats:  enabled
+--------------------------------------------------------------------------------
+
+BIC       model              K            lnL          score          delta    weight
+--------------------------------------------------------------------------------
+       1  GTR+I+G4          10   -118051.1753    243652.5332         0.0000    1.0000
+       2  TIM2+I+G4          8   -118085.1740    243701.8652        49.3321    0.0000
+       3  TIM3+I+G4          8   -118085.3169    243702.1509        49.6178    0.0000
+       4  TrN+I+G4           7   -118118.2679    243758.7203       106.1871    0.0000
+       5  TIM1+I+G4          8   -118115.0185    243761.5541       109.0209    0.0000
+       6  GTR+G4             9   -118323.3578    244187.5656       535.0324    0.0000
+       7  TIM2+G4            7   -118352.5728    244227.3301       574.7969    0.0000
+       8  TIM3+G4            7   -118365.1371    244252.4587       599.9255    0.0000
+       9  SYM+I+G4           7   -118368.3839    244258.9522       606.4191    0.0000
+      10  TIM2ef+I+G4        5   -118388.2829    244280.0847       627.5516    0.0000
+--------------------------------------------------------------------------------
+Best model according to BIC
+---------------------------
+Model:              GTR+I+G4
+lnL:                -118051.1753
+Frequencies:        0.3304 0.2249 0.2435 0.2011
+Subst. Rates:       1.0167 9.7374 1.6150 0.6710 28.8007 1.0000 
+Inv. sites prop:    0.4280
+Gamma shape:        1.3389
+Score:              243652.5332
+Weight:             1.0000
+---------------------------
+Parameter importances
+---------------------------
+P.Inv:              -
+Gamma:              0.0000
+Gamma-Inv:          1.0000
+Frequencies:        1.0000
+---------------------------
+Model averaged estimates
+---------------------------
+P.Inv:              -
+Alpha:              0.2875
+Alpha-P.Inv:        1.3389
+P.Inv-Alpha:        0.4280
+Frequencies:        0.3304 0.2249 0.2435 0.2011 
+
+Commands:
+  > phyml  -i /home/cbrook/modeltest-ng/denv1-test/DENV1aligned.fasta -m 012345 -f m -v e -a e -c 4 -o tlr
+  > raxmlHPC-SSE3 -s /home/cbrook/modeltest-ng/denv1-test/DENV1aligned.fasta -m GTRGAMMAIX -n EXEC_NAME -p PARSIMONY_SEED
+  > raxml-ng --msa /home/cbrook/modeltest-ng/denv1-test/DENV1aligned.fasta --model GTR+I+G4
+  > paup -s /home/cbrook/modeltest-ng/denv1-test/DENV1aligned.fasta
+  > iqtree -s /home/cbrook/modeltest-ng/denv1-test/DENV1aligned.fasta -m GTR+I+G4
+
+AIC       model              K            lnL          score          delta    weight
+--------------------------------------------------------------------------------
+       1  GTR+I+G4          10   -118051.1753    237720.3506         0.0000    1.0000
+       2  TIM2+I+G4          8   -118085.1740    237784.3481        63.9975    0.0000
+       3  TIM3+I+G4          8   -118085.3169    237784.6338        64.2832    0.0000
+       4  TIM1+I+G4          8   -118115.0185    237844.0369       123.6864    0.0000
+       5  TrN+I+G4           7   -118118.2679    237848.5359       128.1853    0.0000
+       6  GTR+G4             9   -118323.3578    238262.7157       542.3651    0.0000
+       7  TIM2+G4            7   -118352.5728    238317.1457       596.7951    0.0000
+       8  TIM3+G4            7   -118365.1371    238342.2743       621.9237    0.0000
+       9  SYM+I+G4           7   -118368.3839    238348.7678       628.4173    0.0000
+      10  TIM2ef+I+G4        5   -118388.2829    238384.5658       664.2153    0.0000
+--------------------------------------------------------------------------------
+Best model according to AIC
+---------------------------
+Model:              GTR+I+G4
+lnL:                -118051.1753
+Frequencies:        0.3304 0.2249 0.2435 0.2011
+Subst. Rates:       1.0167 9.7374 1.6150 0.6710 28.8007 1.0000 
+Inv. sites prop:    0.4280
+Gamma shape:        1.3389
+Score:              237720.3506
+Weight:             1.0000
+---------------------------
+Parameter importances
+---------------------------
+P.Inv:              -
+Gamma:              0.0000
+Gamma-Inv:          1.0000
+Frequencies:        1.0000
+---------------------------
+Model averaged estimates
+---------------------------
+P.Inv:              -
+Alpha:              0.2875
+Alpha-P.Inv:        1.3389
+P.Inv-Alpha:        0.4280
+Frequencies:        0.3304 0.2249 0.2435 0.2011 
+
+Commands:
+  > phyml  -i /home/cbrook/modeltest-ng/denv1-test/DENV1aligned.fasta -m 012345 -f m -v e -a e -c 4 -o tlr
+  > raxmlHPC-SSE3 -s /home/cbrook/modeltest-ng/denv1-test/DENV1aligned.fasta -m GTRGAMMAIX -n EXEC_NAME -p PARSIMONY_SEED
+  > raxml-ng --msa /home/cbrook/modeltest-ng/denv1-test/DENV1aligned.fasta --model GTR+I+G4
+  > paup -s /home/cbrook/modeltest-ng/denv1-test/DENV1aligned.fasta
+  > iqtree -s /home/cbrook/modeltest-ng/denv1-test/DENV1aligned.fasta -m GTR+I+G4
+
+AICc      model              K            lnL          score          delta    weight
+--------------------------------------------------------------------------------
+       1  GTR+I+G4          10   -118051.1753    237844.3506         0.0000    1.0000
+       2  TIM2+I+G4          8   -118085.1740    237908.3481        63.9975    0.0000
+       3  TIM3+I+G4          8   -118085.3169    237908.6338        64.2832    0.0000
+       4  TIM1+I+G4          8   -118115.0185    237968.0369       123.6864    0.0000
+       5  TrN+I+G4           7   -118118.2679    237971.5359       127.1853    0.0000
+       6  GTR+G4             9   -118323.3578    238386.7157       542.3651    0.0000
+       7  TIM2+G4            7   -118352.5728    238440.1457       595.7951    0.0000
+       8  TIM3+G4            7   -118365.1371    238465.2743       620.9237    0.0000
+       9  SYM+I+G4           7   -118368.3839    238471.7678       627.4173    0.0000
+      10  TIM2ef+I+G4        5   -118388.2829    238507.5658       663.2153    0.0000
+--------------------------------------------------------------------------------
+Best model according to AICc
+---------------------------
+Model:              GTR+I+G4
+lnL:                -118051.1753
+Frequencies:        0.3304 0.2249 0.2435 0.2011
+Subst. Rates:       1.0167 9.7374 1.6150 0.6710 28.8007 1.0000 
+Inv. sites prop:    0.4280
+Gamma shape:        1.3389
+Score:              237844.3506
+Weight:             1.0000
+---------------------------
+Parameter importances
+---------------------------
+P.Inv:              -
+Gamma:              0.0000
+Gamma-Inv:          1.0000
+Frequencies:        1.0000
+---------------------------
+Model averaged estimates
+---------------------------
+P.Inv:              -
+Alpha:              0.2875
+Alpha-P.Inv:        1.3389
+P.Inv-Alpha:        0.4280
+Frequencies:        0.3304 0.2249 0.2435 0.2011 
+
+Commands:
+  > phyml  -i /home/cbrook/modeltest-ng/denv1-test/DENV1aligned.fasta -m 012345 -f m -v e -a e -c 4 -o tlr
+  > raxmlHPC-SSE3 -s /home/cbrook/modeltest-ng/denv1-test/DENV1aligned.fasta -m GTRGAMMAIX -n EXEC_NAME -p PARSIMONY_SEED
+  > raxml-ng --msa /home/cbrook/modeltest-ng/denv1-test/DENV1aligned.fasta --model GTR+I+G4
+  > paup -s /home/cbrook/modeltest-ng/denv1-test/DENV1aligned.fasta
+  > iqtree -s /home/cbrook/modeltest-ng/denv1-test/DENV1aligned.fasta -m GTR+I+G4
+Done
