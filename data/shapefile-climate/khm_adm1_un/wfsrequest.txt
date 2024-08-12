@@ -1,0 +1,1 @@
+https://geonode.wfp.org/geoserver/wfs?format_options=charset:UTF-8&typename=geonode:khm_adm1_un&outputFormat=SHAPE-ZIP&version=1.0.0&service=WFS&request=GetFeature
