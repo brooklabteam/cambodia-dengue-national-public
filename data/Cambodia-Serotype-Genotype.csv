@@ -1,0 +1,273 @@
+sample_name,sample_type,Serotype,Genotype,Top_BLAST_Hit,age,sex,date,site,commune,district,province,genbank_accession,sequence_completeness,lat,long,notes,study
+100-0752,Serum,DENV-1,DENV-1,,3,M,contact author for access,,,,Kampong Speu,OK159935,complete,contact author for access,contact author for access,lat-long is exact,PAGODAS
+100-0052,Serum,DENV-1,DENV-1,,6,F,contact author for access,,,,Kampong Speu,OK159936,complete,contact author for access,contact author for access,lat-long is exact,PAGODAS
+100-0632,Serum,DENV-1,DENV-1,,4,F,contact author for access,,,,Kampong Speu,OK159937,complete,contact author for access,contact author for access,lat-long is exact,PAGODAS
+100-0702,Serum,DENV-1,DENV-1,,5,F,contact author for access,,,,Kampong Speu,OK159938,complete,contact author for access,contact author for access,lat-long is exact,PAGODAS
+100-0682,Serum,DENV-1,DENV-1,,7,M,contact author for access,,,,Kampong Speu,OK159939,complete,contact author for access,contact author for access,lat-long is exact,PAGODAS
+100-0658,Serum,DENV-1,DENV-1,,5,M,contact author for access,,,,Kampong Speu,OK159940,complete,contact author for access,contact author for access,lat-long is exact,PAGODAS
+100-0618,Serum,DENV-1,DENV-1,,7,M,contact author for access,,,,Kampong Speu,OK159941,complete,contact author for access,contact author for access,lat-long is exact,PAGODAS
+100-0608,Serum,DENV-1,DENV-1,,5,M,contact author for access,,,,Kampong Speu,OK159942,complete,contact author for access,contact author for access,lat-long is exact,PAGODAS
+100-0562,Serum,DENV-1,DENV-1,,9,M,contact author for access,,,,Kampong Speu,OK159943,complete,contact author for access,contact author for access,lat-long is exact,PAGODAS
+100-0479,Serum,DENV-1,DENV-1,,3,M,contact author for access,,,,Kampong Speu,OK159944,complete,contact author for access,contact author for access,lat-long is exact,PAGODAS
+100-0418,Serum,DENV-1,DENV-1,,9,F,contact author for access,,,,Kampong Speu,OK159945,complete,contact author for access,contact author for access,lat-long is exact,PAGODAS
+109-0078,Serum,DENV-1,DENV-1,,5,F,contact author for access,,,,Kampong Speu,OK159946,complete,contact author for access,contact author for access,lat-long is exact,IDSeq
+109-0074,Serum,DENV-1,DENV-1,,5,M,contact author for access,Tbes,Voa Sar,Samraong Tong,Kampong Speu,OK159947,complete,contact author for access,contact author for access,lat-long is centroid of province,IDSeq
+109-0073,Serum,DENV-1,DENV-1,,7,M,contact author for access,,,,Kampong Speu,OK159948,complete,contact author for access,contact author for access,lat-long is exact,IDSeq
+109-0068,Serum,DENV-1,DENV-1,,8,F,contact author for access,,,,Kampong Speu,OK159949,complete,contact author for access,contact author for access,lat-long is exact,IDSeq
+109-0057,Serum,DENV-1,DENV-1,,6,M,contact author for access,,,,Kampong Speu,OK159950,complete,contact author for access,contact author for access,lat-long is exact,IDSeq
+109-0056,Serum,DENV-1,DENV-1,,4,M,contact author for access,,,,Kampong Speu,OK159951,complete,contact author for access,contact author for access,lat-long is exact,IDSeq
+109-0052,Serum,DENV-1,DENV-1,,7,F,contact author for access,,,,Kampong Speu,OK159952,complete,contact author for access,contact author for access,lat-long is exact,IDSeq
+109-0050,Serum,DENV-1,DENV-1,,23,M,contact author for access,,,,Kampong Speu,OK159953,complete,contact author for access,contact author for access,lat-long is exact,IDSeq
+109-0048,Serum,DENV-1,DENV-1,,13,F,contact author for access,,,,Kampong Speu,OK159954,complete,contact author for access,contact author for access,lat-long is exact,IDSeq
+109-0042,Serum,DENV-1,DENV-1,,3,M,contact author for access,,,,Kampong Speu,OK159955,complete,contact author for access,contact author for access,lat-long is exact,IDSeq
+109-0032,Serum,DENV-1,DENV-1,,15,M,contact author for access,,,,Kampong Speu,OK159956,complete,contact author for access,contact author for access,lat-long is exact,IDSeq
+109-0030,Serum,DENV-1,DENV-1,,4,F,contact author for access,,,,Kampong Speu,OK159957,complete,contact author for access,contact author for access,lat-long is exact,IDSeq
+109-0007,Serum,DENV-1,DENV-1,,14,M,contact author for access,,,,Kampong Speu,OK159958,complete,contact author for access,contact author for access,lat-long is exact,IDSeq
+109-0002,Serum,DENV-1,DENV-1,,37,F,contact author for access,,,,Kampong Speu,OK159959,complete,contact author for access,contact author for access,lat-long is exact,IDSeq
+109-0236,Serum,DENV-1,DENV-1,,4,M,contact author for access,,,,Kampong Speu,OK159960,complete,contact author for access,contact author for access,lat-long is exact,IDSeq
+109-0230,Serum,DENV-1,DENV-1,,10,F,contact author for access,,,,Kampong Speu,OK159961,complete,contact author for access,contact author for access,lat-long is exact,IDSeq
+100-0623,Serum,DENV-1,DENV-1,,9,M,contact author for access,,,,Kampong Speu,OK159962,complete,contact author for access,contact author for access,lat-long is exact,PAGODAS
+100-0734,Serum,DENV-1,DENV-1,,6,M,contact author for access,,,,Kampong Speu,OK159963,complete,contact author for access,contact author for access,lat-long is exact,PAGODAS
+100-0692,Serum,DENV-1,DENV-1,,6,M,contact author for access,,,,Kampong Speu,OK159964,complete,contact author for access,contact author for access,lat-long is exact,PAGODAS
+100-0661,Serum,DENV-1,DENV-1,,8,F,contact author for access,,,,Kampong Speu,OK159965,complete,contact author for access,contact author for access,lat-long is exact,PAGODAS
+100-0599,Serum,DENV-1,DENV-1,,8,M,contact author for access,,,,Kampong Speu,OK159966,complete,contact author for access,contact author for access,lat-long is exact,PAGODAS
+100-0422,Serum,DENV-1,DENV-1,,4,F,contact author for access,,,,Kampong Speu,OK159967,complete,contact author for access,contact author for access,lat-long is exact,PAGODAS
+100-0222,Serum,DENV-1,DENV-1,,7,M,contact author for access,,,,Kampong Speu,OK159968,complete,contact author for access,contact author for access,lat-long is exact,PAGODAS
+100-0154,Serum,DENV-1,DENV-1,,3,M,contact author for access,,,,Kampong Speu,OK159969,complete,contact author for access,contact author for access,lat-long is exact,PAGODAS
+109-0085,Serum,DENV-1,DENV-1,,18,F,contact author for access,,,,Kampong Speu,OK159970,complete,contact author for access,contact author for access,lat-long is exact,IDSeq
+109-0081,Serum,DENV-1,DENV-1,,8,F,contact author for access,,,,Kampong Speu,OK159971,complete,contact author for access,contact author for access,lat-long is exact,IDSeq
+109-0080,Serum,DENV-1,DENV-1,,14,F,contact author for access,,,,Kampong Speu,OK159972,complete,contact author for access,contact author for access,lat-long is exact,IDSeq
+109-0055,Serum,DENV-1,DENV-1,,14,F,contact author for access,,,,Kampong Speu,OK159973,complete,contact author for access,contact author for access,lat-long is exact,IDSeq
+109-0034,Serum,DENV-1,DENV-1,,1,M,contact author for access,,,,Kampong Speu,OK159974,complete,contact author for access,contact author for access,lat-long is exact,IDSeq
+109-0022,Serum,DENV-1,DENV-1,,14,M,contact author for access,,,,Kampong Speu,OK159975,complete,contact author for access,contact author for access,lat-long is exact,IDSeq
+109-0014,Serum,DENV-1,DENV-1,,10,M,contact author for access,,,,Kampong Speu,OK159976,complete,contact author for access,contact author for access,lat-long is exact,IDSeq
+109-0316,Serum,DENV-1,DENV-1,,34,M,contact author for access,,,,Kampong Speu,OL411495,complete,contact author for access,contact author for access,lat-long is exact,IDSeq
+100-0642,Serum,DENV-1,DENV-1,,9,F,contact author for access,,,,Kampong Speu,OL411496,complete,contact author for access,contact author for access,lat-long is exact,PAGODAS
+109-0245,Serum,DENV-1,DENV-1,,12,M,contact author for access,,,,Kampong Speu,OL411497,complete,contact author for access,contact author for access,lat-long is exact,IDSeq
+109-0067,Serum,DENV-1,DENV-1,,7,M,contact author for access,,,,Kampong Speu,OL411498,complete,contact author for access,contact author for access,lat-long is exact,IDSeq
+100-0610,Serum,DENV-1,DENV-1,,6,M,contact author for access,,,,Kampong Speu,OL411499,complete,contact author for access,contact author for access,lat-long is exact,PAGODAS
+100-0622,Serum,DENV-1,DENV-1,,2,M,contact author for access,,,,Kampong Speu,OL412140,complete,contact author for access,contact author for access,lat-long is exact,PAGODAS
+109-0011,Serum,DENV-1,DENV-1,,6,F,contact author for access,,,,Kampong Speu,OL412678,complete,contact author for access,contact author for access,lat-long is exact,IDSeq
+109-0060,Serum,DENV-1,DENV-1,,2,F,contact author for access,,,,Kampong Speu,OL412703,complete,contact author for access,contact author for access,lat-long is exact,IDSeq
+109-0129,Serum,DENV-1,DENV-1,,12,F,contact author for access,,,,Kampong Speu,OM033409,complete,contact author for access,contact author for access,lat-long is exact,IDSeq
+100-0652,Serum,DENV-1,DENV-1,,9,M,contact author for access,,,,Kampong Speu,OQ678009,complete,contact author for access,contact author for access,lat-long is exact,PAGODAS
+100-0245,Serum,DENV-1,DENV-1,,3,M,contact author for access,,,,Kampong Speu,OQ678018,complete,contact author for access,contact author for access,lat-long is exact,PAGODAS
+109-0169,Serum,DENV-1,DENV-1,,3,M,contact author for access,Snao Ti Pir,Sopoar Tep,Krong Chbar Mon,Kampong Speu,OQ678060,complete,contact author for access,contact author for access,lat-long is centroid of province,IDSeq
+109-0181,Serum,DENV-1,DENV-1,,8,M,contact author for access,,,,Kampong Speu,OQ678061,complete,contact author for access,contact author for access,lat-long is exact,IDSeq
+109-0195 ,Serum,DENV-1,DENV-1,,6,M,contact author for access,,,,Kampong Speu,OQ678099,complete,contact author for access,contact author for access,lat-long is exact,IDSeq
+100-0747,Serum,DENV-1,DENV-1,,6,M,contact author for access,,,,Kampong Speu,OQ678244,complete,contact author for access,contact author for access,lat-long is exact,PAGODAS
+109-0187,Serum,DENV-1,DENV-1,,8,F,contact author for access,,,,Kampong Speu,OQ678252,complete,contact author for access,contact author for access,lat-long is exact,IDSeq
+100-0587,Serum,DENV-1,DENV-1,,6,M,contact author for access,,,,Kampong Speu,OQ683856,complete,contact author for access,contact author for access,lat-long is exact,PAGODAS
+109-0340,Serum,DENV-1,DENV-1,,8,M,contact author for access,Snuol Chrum,Tuek L'ak,Kong Pisei,Kampong Speu,OQ683880,complete,contact author for access,contact author for access,lat-long is centroid of province,IDSeq
+DENS-OB-067,Serum,DENV-1,DENV-1,,2.5,F,contact author for access,Lorm Thmey,Ma Lik,An DoungMeas,Ratanakiri,PP470671,complete,contact author for access,contact author for access,lat-long is centroid of province,NDCP
+DENS-OB-068,Serum,DENV-1,DENV-1,,30,M,contact author for access,Dal,Nhang,An DoungMeas,Ratanakiri,PP470672,complete,contact author for access,contact author for access,lat-long is centroid of province,NDCP
+DENS-OB-070,Serum,DENV-1,DENV-1,,16,M,contact author for access,Dal,Nhang,An DoungMeas,Ratanakiri,PP470673,complete,contact author for access,contact author for access,lat-long is centroid of province,NDCP
+100-0670,Serum,DENV-2,Cosmopolitan,,5,F,contact author for access,,,,Kampong Speu,OL412740,complete,contact author for access,contact author for access,lat-long is exact,PAGODAS
+100-0430,Serum,DENV-2,Cosmopolitan,,3,F,contact author for access,,,,Kampong Speu,OL414717,complete,contact author for access,contact author for access,lat-long is exact,PAGODAS
+100-0160,Serum,DENV-2,Cosmopolitan,,7,M,contact author for access,,,,Kampong Speu,OL414718,complete,contact author for access,contact author for access,lat-long is exact,PAGODAS
+100-0156,Serum,DENV-2,Asian-1,,9,M,contact author for access,,,,Kampong Speu,OL414719,complete,contact author for access,contact author for access,lat-long is exact,PAGODAS
+100-0068,Serum,DENV-2,Asian-1,,8,M,contact author for access,,,,Kampong Speu,OL414720,complete,contact author for access,contact author for access,lat-long is exact,PAGODAS
+100-0067,Serum,DENV-2,Asian-1,,6,F,contact author for access,,,,Kampong Speu,OL414721,complete,contact author for access,contact author for access,lat-long is exact,PAGODAS
+109-0093,Serum,DENV-2,Cosmopolitan,,9,F,contact author for access,,,,Kampong Speu,OL414722,complete,contact author for access,contact author for access,lat-long is exact,IDSeq
+109-0087,Serum,DENV-2,Cosmopolitan,,7,M,contact author for access,,,,Kampong Speu,OL414723,complete,contact author for access,contact author for access,lat-long is exact,IDSeq
+109-0086,Serum,DENV-2,Cosmopolitan,,4,M,contact author for access,,,,Kampong Speu,OL414724,complete,contact author for access,contact author for access,lat-long is exact,IDSeq
+109-0059,Serum,DENV-2,Cosmopolitan,,13,M,contact author for access,,,,Kampong Speu,OL414725,complete,contact author for access,contact author for access,lat-long is exact,IDSeq
+109-0053,Serum,DENV-2,Cosmopolitan,,15,F,contact author for access,,,,Kampong Speu,OL414726,complete,contact author for access,contact author for access,lat-long is exact,IDSeq
+109-0049,Serum,DENV-2,Cosmopolitan,,5,F,contact author for access,,,,Kampong Speu,OL414727,complete,contact author for access,contact author for access,lat-long is exact,IDSeq
+109-0023,Serum,DENV-2,Asian-1,,12,F,contact author for access,,,,Kampong Speu,OL414728,complete,contact author for access,contact author for access,lat-long is exact,IDSeq
+109-0019,Serum,DENV-2,Asian-1,,2,F,contact author for access,,,,Kampong Speu,OL414729,complete,contact author for access,contact author for access,lat-long is exact,IDSeq
+109-0003,Serum,DENV-2,Cosmopolitan,,2,M,contact author for access,,,,Kampong Speu,OL414730,complete,contact author for access,contact author for access,lat-long is exact,IDSeq
+109-0376,Serum,DENV-2,Cosmopolitan,,3,M,contact author for access,,,,Kampong Speu,OL414732,complete,contact author for access,contact author for access,lat-long is exact,IDSeq
+109-0350,Serum,DENV-2,Cosmopolitan,,13,M,contact author for access,,,,Kampong Speu,OL414733,complete,contact author for access,contact author for access,lat-long is exact,IDSeq
+109-0298,Serum,DENV-2,Asian-1,,10,F,contact author for access,,,,Kampong Speu,OL414734,complete,contact author for access,contact author for access,lat-long is exact,IDSeq
+109-0295,Serum,DENV-2,Asian-1,,7,M,contact author for access,,,,Kampong Speu,OL414735,complete,contact author for access,contact author for access,lat-long is exact,IDSeq
+109-0294,Serum,DENV-2,Cosmopolitan,,8,F,contact author for access,,,,Kampong Speu,OL414736,complete,contact author for access,contact author for access,lat-long is exact,IDSeq
+100-0477,Serum,DENV-2,Cosmopolitan,,5,F,contact author for access,,,,Kampong Speu,OL414737,complete,contact author for access,contact author for access,lat-long is exact,PAGODAS
+100-0428,Serum,DENV-2,Cosmopolitan,,3,F,contact author for access,,,,Kampong Speu,OL414738,complete,contact author for access,contact author for access,lat-long is exact,PAGODAS
+100-0427,Serum,DENV-2,Cosmopolitan,,9,M,contact author for access,,,,Kampong Speu,OL414739,complete,contact author for access,contact author for access,lat-long is exact,PAGODAS
+100-0405,Serum,DENV-2,Cosmopolitan,,4,F,contact author for access,,,,Kampong Speu,OL414740,complete,contact author for access,contact author for access,lat-long is exact,PAGODAS
+100-0277,Serum,DENV-2,Cosmopolitan,,9,F,contact author for access,,,,Kampong Speu,OL414741,complete,contact author for access,contact author for access,lat-long is exact,PAGODAS
+100-0153,Serum,DENV-2,Cosmopolitan,,9,F,contact author for access,,,,Kampong Speu,OL414742,complete,contact author for access,contact author for access,lat-long is exact,PAGODAS
+100-0072,Serum,DENV-2,Asian-1,,4,M,contact author for access,,,,Kampong Speu,OL414743,complete,contact author for access,contact author for access,lat-long is exact,PAGODAS
+100-0039,Serum,DENV-2,Asian-1,,7,M,contact author for access,,,,Kampong Speu,OL414744,complete,contact author for access,contact author for access,lat-long is exact,PAGODAS
+109-0045,Serum,DENV-2,Cosmopolitan,,11,M,contact author for access,,,,Kampong Speu,OL414745,complete,contact author for access,contact author for access,lat-long is exact,IDSeq
+109-0292,Serum,DENV-2,Cosmopolitan,,11,F,contact author for access,,,,Kampong Speu,OL414746,complete,contact author for access,contact author for access,lat-long is exact,IDSeq
+100-0034,Serum,DENV-2,Cosmopolitan,,9,M,contact author for access,,,,Kampong Speu,OL414747,complete,contact author for access,contact author for access,lat-long is exact,PAGODAS
+109-0293,Serum,DENV-2,Cosmopolitan,,13,M,contact author for access,,,,Kampong Speu,OL414749,complete,contact author for access,contact author for access,lat-long is exact,IDSeq
+109-0304,Serum,DENV-2,Cosmopolitan,,10,M,contact author for access,,,,Kampong Speu,OL414750,complete,contact author for access,contact author for access,lat-long is exact,IDSeq
+109-0318,Serum,DENV-2,Cosmopolitan,,10,M,contact author for access,,,,Kampong Speu,OL414751,complete,contact author for access,contact author for access,lat-long is exact,IDSeq
+109-0334,Serum,DENV-2,Cosmopolitan,,32,F,contact author for access,,,,Kampong Speu,OL414752,complete,contact author for access,contact author for access,lat-long is exact,IDSeq
+109-0352,Serum,DENV-2,Cosmopolitan,,9,M,contact author for access,,,,Kampong Speu,OL414753,complete,contact author for access,contact author for access,lat-long is exact,IDSeq
+109-0353,Serum,DENV-2,Cosmopolitan,,17,F,contact author for access,,,,Kampong Speu,OL414754,complete,contact author for access,contact author for access,lat-long is exact,IDSeq
+109-0363,Serum,DENV-2,Cosmopolitan,,14,M,contact author for access,,,,Kampong Speu,OL414755,complete,contact author for access,contact author for access,lat-long is exact,IDSeq
+109-0377,Serum,DENV-2,Cosmopolitan,,8,F,contact author for access,,,,Kampong Speu,OL414756,complete,contact author for access,contact author for access,lat-long is exact,IDSeq
+109-0384,Serum,DENV-2,Cosmopolitan,,10,F,contact author for access,,,,Kampong Speu,OL414757,complete,contact author for access,contact author for access,lat-long is exact,IDSeq
+109-0408,Serum,DENV-2,Cosmopolitan,,13,M,contact author for access,,,,Kampong Speu,OL414758,complete,contact author for access,contact author for access,lat-long is exact,IDSeq
+100-0432,Serum,DENV-2,Cosmopolitan,,9,M,contact author for access,,,,Kampong Speu,OL414759,complete,contact author for access,contact author for access,lat-long is exact,PAGODAS
+100-0215,Serum,DENV-2,Cosmopolitan,,3,F,contact author for access,,,,Kampong Speu,OL414760,complete,contact author for access,contact author for access,lat-long is exact,PAGODAS
+109-0020,Serum,DENV-2,Asian-1,,12,M,contact author for access,,,,Kampong Speu,OL414761,complete,contact author for access,contact author for access,lat-long is exact,IDSeq
+109-0001,Serum,DENV-2,Cosmopolitan,,5,M,contact author for access,,,,Kampong Speu,OL414762,complete,contact author for access,contact author for access,lat-long is exact,IDSeq
+109-0039,Serum,DENV-2,Cosmopolitan,,12,M,contact author for access,,,,Kampong Speu,OL414763,complete,contact author for access,contact author for access,lat-long is exact,IDSeq
+109-0372,Serum,DENV-2,Cosmopolitan,,6,F,contact author for access,,,,Kampong Speu,OL414764,complete,contact author for access,contact author for access,lat-long is exact,IDSeq
+109-0349,Serum,DENV-2,Cosmopolitan,,12,M,contact author for access,,,,Kampong Speu,OL414765,complete,contact author for access,contact author for access,lat-long is exact,IDSeq
+109-0008,Serum,DENV-2,Cosmopolitan,,7,M,contact author for access,,,,Kampong Speu,OL420733,complete,contact author for access,contact author for access,lat-long is exact,IDSeq
+109-0358,Serum,DENV-2,Cosmopolitan,,9,M,contact author for access,,,,Kampong Speu,OL435143,complete,contact author for access,contact author for access,lat-long is exact,IDSeq
+109-0389,Serum,DENV-2,Cosmopolitan,,NA,NA,contact author for access,,,,Kampong Speu,OP999336,complete,contact author for access,contact author for access,lat-long is exact,IDSeq
+100-0390,Serum,DENV-2,Cosmopolitan,,9,F,contact author for access,,,,Kampong Speu,OQ674509,complete,contact author for access,contact author for access,lat-long is exact,PAGODAS
+109-0128,Serum,DENV-2,Asian-1,,14,M,contact author for access,,,,Kampong Speu,OQ678012,complete,contact author for access,contact author for access,lat-long is exact,IDSeq
+109-0145,Serum,DENV-2,Cosmopolitan,,14,M,contact author for access,,,,Kampong Speu,OQ678017,complete,contact author for access,contact author for access,lat-long is exact,IDSeq
+109-0147,Serum,DENV-2,Cosmopolitan,,8,F,contact author for access,,,,Kampong Speu,OQ678059,complete,contact author for access,contact author for access,lat-long is exact,IDSeq
+109-0284,Serum,DENV-2,Cosmopolitan,,9,M,contact author for access,,,,Kampong Speu,OQ678101,complete,contact author for access,contact author for access,lat-long is exact,IDSeq
+109-0338,Serum,DENV-2,Cosmopolitan,,5,F,contact author for access,,,,Kampong Speu,OQ678102,complete,contact author for access,contact author for access,lat-long is exact,IDSeq
+109-0283,Serum,DENV-2,Cosmopolitan,,29,M,contact author for access,,,,Kampong Speu,OQ683881,complete,contact author for access,contact author for access,lat-long is exact,IDSeq
+109-1034,Serum,DENV-2,Cosmopolitan,,12,M,contact author for access,,,,Kampong Speu,PP396279,complete,contact author for access,contact author for access,lat-long is exact,IDSeq
+109-0998,Serum,DENV-2,Cosmopolitan,,8,F,contact author for access,,,,Kampong Speu,PP396280,complete,contact author for access,contact author for access,lat-long is exact,IDSeq
+109-1123,Serum,DENV-2,Cosmopolitan,,14,F,contact author for access,,,,Kampong Speu,PP406368,complete,contact author for access,contact author for access,lat-long is exact,IDSeq
+109-1240,Serum,DENV-2,Cosmopolitan,,5,M,contact author for access,,,,Kampong Speu,PP406369,complete,contact author for access,contact author for access,lat-long is exact,IDSeq
+109-1272,Serum,DENV-2,Cosmopolitan,,12,F,contact author for access,,,,Kampong Speu,PP406370,complete,contact author for access,contact author for access,lat-long is exact,IDSeq
+109-1281,Serum,DENV-2,Cosmopolitan,,12,F,contact author for access,,,,Kampong Speu,PP406371,complete,contact author for access,contact author for access,lat-long is exact,IDSeq
+109-1458,Serum,DENV-2,Cosmopolitan,,12,M,contact author for access,,,,Kampong Speu,PP406372,complete,contact author for access,contact author for access,lat-long is exact,IDSeq
+109-1462,Serum,DENV-2,Cosmopolitan,,3,M,contact author for access,,,,Kampong Speu,PP406373,complete,contact author for access,contact author for access,lat-long is exact,IDSeq
+109-1546,Serum,DENV-2,Cosmopolitan,,13,M,contact author for access,,,,Kampong Speu,PP406374,complete,contact author for access,contact author for access,lat-long is exact,IDSeq
+109-1724,Serum,DENV-2,Cosmopolitan,,2,M,contact author for access,,,,Kampong Speu,PP406375,complete,contact author for access,contact author for access,lat-long is exact,IDSeq
+109-1733,Serum,DENV-2,Cosmopolitan,,1,M,contact author for access,,,,Kampong Speu,PP406376,complete,contact author for access,contact author for access,lat-long is exact,IDSeq
+109-1751,Serum,DENV-2,Cosmopolitan,,12,F,contact author for access,,,,Kampong Speu,PP406447,complete,contact author for access,contact author for access,lat-long is exact,IDSeq
+109-1752,Serum,DENV-2,Cosmopolitan,,9,F,contact author for access,,,,Kampong Speu,PP406448,complete,contact author for access,contact author for access,lat-long is exact,IDSeq
+109-1758,Serum,DENV-2,Cosmopolitan,,9,F,contact author for access,,,,Kampong Speu,PP406449,complete,contact author for access,contact author for access,lat-long is exact,IDSeq
+109-1759,Serum,DENV-2,Cosmopolitan,,13,F,contact author for access,,,,Kampong Speu,PP406450,complete,contact author for access,contact author for access,lat-long is exact,IDSeq
+109-1760,Serum,DENV-2,Cosmopolitan,,10,M,contact author for access,,,,Kampong Speu,PP406451,complete,contact author for access,contact author for access,lat-long is exact,IDSeq
+109-1787,Serum,DENV-2,Cosmopolitan,,12,F,contact author for access,,,,Kampong Speu,PP406452,complete,contact author for access,contact author for access,lat-long is exact,IDSeq
+109-1796,Serum,DENV-2,Cosmopolitan,,12,F,contact author for access,,,,Kampong Speu,PP406453,complete,contact author for access,contact author for access,lat-long is exact,IDSeq
+109-1806,Serum,DENV-2,Cosmopolitan,,4,M,contact author for access,,,,Kampong Speu,PP406454,complete,contact author for access,contact author for access,lat-long is exact,IDSeq
+109-1815,Serum,DENV-2,Cosmopolitan,,13,F,contact author for access,,,,Kampong Speu,PP406455,complete,contact author for access,contact author for access,lat-long is exact,IDSeq
+109-1833,Serum,DENV-2,Cosmopolitan,,10,M,contact author for access,,,,Kampong Speu,PP411227,complete,contact author for access,contact author for access,lat-long is exact,IDSeq
+109-1835,Serum,DENV-2,Cosmopolitan,,10,F,contact author for access,,,,Kampong Speu,PP411228,complete,contact author for access,contact author for access,lat-long is exact,IDSeq
+109-1837,Serum,DENV-2,Cosmopolitan,,10,F,contact author for access,,,,Kampong Speu,PP411229,complete,contact author for access,contact author for access,lat-long is exact,IDSeq
+109-1848,Serum,DENV-2,Cosmopolitan,,7,M,contact author for access,,,,Kampong Speu,PP411230,complete,contact author for access,contact author for access,lat-long is exact,IDSeq
+109-1851,Serum,DENV-2,Cosmopolitan,,6,M,contact author for access,,,,Kampong Speu,PP411231,complete,contact author for access,contact author for access,lat-long is exact,IDSeq
+109-1852,Serum,DENV-2,Cosmopolitan,,5,F,contact author for access,,,,Kampong Speu,PP411232,complete,contact author for access,contact author for access,lat-long is exact,IDSeq
+109-1855,Serum,DENV-2,Cosmopolitan,,5,M,contact author for access,,,,Kampong Speu,PP411233,complete,contact author for access,contact author for access,lat-long is exact,IDSeq
+109-1863,Serum,DENV-2,Cosmopolitan,,11,M,contact author for access,,,,Kampong Speu,PP411234,complete,contact author for access,contact author for access,lat-long is exact,IDSeq
+109-1864,Serum,DENV-2,Cosmopolitan,,3,F,contact author for access,,,,Kampong Speu,PP411235,complete,contact author for access,contact author for access,lat-long is exact,IDSeq
+109-1880,Serum,DENV-2,Cosmopolitan,,13,F,contact author for access,,,,Kampong Speu,PP411249,complete,contact author for access,contact author for access,lat-long is exact,IDSeq
+109-1882,Serum,DENV-2,Cosmopolitan,,7,F,contact author for access,,,,Kampong Speu,PP411250,complete,contact author for access,contact author for access,lat-long is exact,IDSeq
+109-1911,Serum,DENV-2,Cosmopolitan,,31,F,contact author for access,,,,Kampong Speu,PP411251,complete,contact author for access,contact author for access,lat-long is exact,IDSeq
+109-1925,Serum,DENV-2,Cosmopolitan,,13,F,contact author for access,,,,Kampong Speu,PP411252,complete,contact author for access,contact author for access,lat-long is exact,IDSeq
+109-1954,Serum,DENV-2,Cosmopolitan,,6,M,contact author for access,,,,Kampong Speu,PP411253,complete,contact author for access,contact author for access,lat-long is exact,IDSeq
+109-1972,Serum,DENV-2,Cosmopolitan,,9,F,contact author for access,,,,Kampong Speu,PP411254,complete,contact author for access,contact author for access,lat-long is exact,IDSeq
+109-1990,Serum,DENV-2,Asian-1,,22,F,contact author for access,,,,Kampong Speu,PP411255,complete,contact author for access,contact author for access,lat-long is exact,IDSeq
+109-2002,Serum,DENV-2,Cosmopolitan,,9,F,contact author for access,,,,Kampong Speu,PP411256,complete,contact author for access,contact author for access,lat-long is exact,IDSeq
+109-2015,Serum,DENV-2,Cosmopolitan,,6,F,contact author for access,,,,Kampong Speu,PP411257,complete,contact author for access,contact author for access,lat-long is exact,IDSeq
+109-0773,Serum,DENV-2,Cosmopolitan,,1,F,contact author for access,,,,Kampong Speu,PP439574,complete,contact author for access,contact author for access,lat-long is exact,IDSeq
+109-0806,Serum,DENV-2,Cosmopolitan,,13,F,contact author for access,,,,Kampong Speu,PP439575,complete,contact author for access,contact author for access,lat-long is exact,IDSeq
+109-0678,Serum,DENV-2,Cosmopolitan,,13,M,contact author for access,,,,Kampong Speu,PP439576,complete,contact author for access,contact author for access,lat-long is exact,IDSeq
+109-0705,Serum,DENV-2,Cosmopolitan,,10,M,contact author for access,,,,Kampong Speu,PP439577,complete,contact author for access,contact author for access,lat-long is exact,IDSeq
+109-0723,Serum,DENV-2,Cosmopolitan,,7,M,contact author for access,,,,Kampong Speu,PP439578,complete,contact author for access,contact author for access,lat-long is exact,IDSeq
+109-0734,Serum,DENV-2,Cosmopolitan,,16,F,contact author for access,,,,Kampong Speu,PP439579,complete,contact author for access,contact author for access,lat-long is exact,IDSeq
+109-0836,Serum,DENV-2,Cosmopolitan,,13,F,contact author for access,,,,Kampong Speu,PP439580,complete,contact author for access,contact author for access,lat-long is exact,IDSeq
+109-2031,Serum,DENV-2,Cosmopolitan,,6,M,contact author for access,,,,Kampong Speu,PP439581,complete,contact author for access,contact author for access,lat-long is exact,IDSeq
+109-2032,Serum,DENV-2,Cosmopolitan,,6,M,contact author for access,,,,Kampong Speu,PP439582,complete,contact author for access,contact author for access,lat-long is exact,IDSeq
+109-2034,Serum,DENV-2,Cosmopolitan,,9,M,contact author for access,,,,Kampong Speu,PP446688,complete,contact author for access,contact author for access,lat-long is exact,IDSeq
+109-2071,Serum,DENV-2,Cosmopolitan,,9,M,contact author for access,,,,Kampong Speu,PP446689,complete,contact author for access,contact author for access,lat-long is exact,IDSeq
+109-2079,Serum,DENV-2,Cosmopolitan,,9,M,contact author for access,,,,Kampong Speu,PP446690,complete,contact author for access,contact author for access,lat-long is exact,IDSeq
+109-2116,Serum,DENV-2,Cosmopolitan,,1,F,contact author for access,,,,Kampong Speu,PP446691,complete,contact author for access,contact author for access,lat-long is exact,IDSeq
+109-2325,Serum,DENV-2,Cosmopolitan,,11,F,contact author for access,,,,Kampong Speu,PP446692,complete,contact author for access,contact author for access,lat-long is exact,IDSeq
+109-2425,Serum,DENV-2,Cosmopolitan,,11,M,contact author for access,,,,Kampong Speu,PP446693,complete,contact author for access,contact author for access,lat-long is exact,IDSeq
+109-2430,Serum,DENV-2,Cosmopolitan,,5,F,contact author for access,,,,Kampong Speu,PP446694,complete,contact author for access,contact author for access,lat-long is exact,IDSeq
+109-1816,Serum,DENV-2,Cosmopolitan,,12,F,contact author for access,,,,Kampong Speu,PP469533,complete,contact author for access,contact author for access,lat-long is exact,IDSeq
+109-2279,Serum,DENV-2,Cosmopolitan,,15,F,contact author for access,,,,Kampong Speu,PP469534,complete,contact author for access,contact author for access,lat-long is exact,IDSeq
+DENS-093,Serum,DENV-2,Cosmopolitan,,3,F,contact author for access,Tang Tonle,Sopor Tep,Jba Mon,Kompong Speu,PP470598,complete,contact author for access,contact author for access,lat-long is centroid of province,NDCP
+DENS-124,Serum,DENV-2,Cosmopolitan,,18,M,contact author for access,Soun Tmey,Prey Chhlak,Svay Reang,Svay Reang,PP470599,complete,contact author for access,contact author for access,lat-long is centroid of province,NDCP
+DENS-OB-145,Serum,DENV-2,Cosmopolitan,,17,M,contact author for access,Veal,Veal,Kandeang,Pursat,PP470600,complete,contact author for access,contact author for access,lat-long is centroid of province,NDCP
+DENS-167,Serum,DENV-2,Cosmopolitan,,16,M,contact author for access,ReuSsey Prey ,Kampong Chamlang,Svay Jrom,Svay Reang,PP470601,complete,contact author for access,contact author for access,lat-long is centroid of province,NDCP
+DENS-177,Serum,DENV-2,Cosmopolitan,,11,F,contact author for access,Ti 1,Treng Troyeng,Phnom Srouch,Kompong Speu,PP470602,complete,contact author for access,contact author for access,lat-long is centroid of province,NDCP
+DENS-187,Serum,DENV-2,Cosmopolitan,,16,M,contact author for access,Rong Bonler,Svay Reang,Svay Reang,Svay Reang,PP470603,complete,contact author for access,contact author for access,lat-long is centroid of province,NDCP
+100-0653,Serum,DENV-4,DENV-4,,9,F,contact author for access,NA,NA,NA,Kampong Speu,MZ976858,complete,contact author for access,contact author for access,lat-long is centroid of province,PAGODAS
+109-0051,Serum,DENV-4,DENV-4,,8,F,contact author for access,Krang Metrei,Skuh,Samraong Tong,Kampong Speu,MZ976859,complete,contact author for access,contact author for access,lat-long is centroid of province,IDSeq
+109-0342,Serum,DENV-4,DENV-4,,12,M,contact author for access,Phsar Kantuot,Sangkae Satob,Aoral,Kampong Speu,MZ976860,complete,contact author for access,contact author for access,lat-long is centroid of province,IDSeq
+109-0142,Serum,DENV-4,DENV-4,,14,M,contact author for access,Tras Sala,Svay Kravan,Krong Chbar Mon,Kampong Speu,OQ678015,complete,contact author for access,contact author for access,lat-long is centroid of province,IDSeq
+109-1230,Serum,DENV-4,DENV-4,,7,F,contact author for access,,,,Kampong Speu,PP396732,complete,contact author for access,contact author for access,lat-long is exact,IDSeq
+109-1707,Serum,DENV-4,DENV-4,,12,F,contact author for access,,,,Kampong Speu,PP447197,complete,contact author for access,contact author for access,lat-long is exact,IDSeq
+109-2001,Serum,DENV-4,DENV-4,,14,M,contact author for access,,,,Kampong Speu,PP447198,complete,contact author for access,contact author for access,lat-long is exact,IDSeq
+109-2038,Serum,DENV-4,DENV-4,,19,M,contact author for access,,,,Kampong Speu,PP447199,complete,contact author for access,contact author for access,lat-long is exact,IDSeq
+109-2396,Serum,DENV-4,DENV-4,,23,F,contact author for access,,,,Kampong Speu,PP447200,complete,contact author for access,contact author for access,lat-long is exact,IDSeq
+DENS-OB-146,Serum,DENV-2,Cosmopolitan,MN018344,6,F,contact author for access,Po,Sre Sdok,Kandeang,Pursat,not_submitted,partial,contact author for access,contact author for access,lat-long is centroid of province,NDCP
+109-0115,Serum,DENV-1,DENV-1,MK905537,4,M,contact author for access,Svay Kravan,Svay Kravan,Krong Chbar Mon,Kampong Speu,not_submitted,partial,contact author for access,contact author for access,lat-long is centroid of province,IDSeq
+109-0122,Serum,DENV-1,DENV-1,LC428062,6,F,contact author for access,Phsar Sameakki,Kandaol Dom,Krong Chbar Mon,Kampong Speu,not_submitted,partial,contact author for access,contact author for access,lat-long is centroid of province,IDSeq
+109-2055,Serum,DENV-1,DENV-1,MN912109,1,M,contact author for access,Trea,Stueng Mean Chey,Mean Chey,Phnom Penh,not_submitted,partial,contact author for access,contact author for access,lat-long is centroid of province,IDSeq
+109-0211,Serum,DENV-2,Cosmopolitan,PP470602,11,F,contact author for access,Khaob,Rokar Thum,Krong Chbar Mon,Kampong Speu,not_submitted,partial,contact author for access,contact author for access,lat-long is centroid of province,IDSeq
+109-0331,Serum,DENV-2,Cosmopolitan,PP564550,21,M,contact author for access,Kandal,Tang Samraong,Phnum Sruoch,Kampong Speu,not_submitted,partial,contact author for access,contact author for access,lat-long is centroid of province,IDSeq
+109-0717,Serum,DENV-2,Cosmopolitan,PP470603,9,F,contact author for access,Phnum Dei,Chbar Mon,Krong Chbar Mon,Kampong Speu,not_submitted,partial,contact author for access,contact author for access,lat-long is centroid of province,IDSeq
+109-0718,Serum,DENV-2,Cosmopolitan,PP439578,14,M,contact author for access,Ta Koam,Voa Sar,Samraong Tong,Kampong Speu,not_submitted,partial,contact author for access,contact author for access,lat-long is centroid of province,IDSeq
+109-0742,Serum,DENV-2,Cosmopolitan,PP439576,7,M,contact author for access,Tuol Samnang,Voa Sar,Samraong Tong,Kampong Speu,not_submitted,partial,contact author for access,contact author for access,lat-long is centroid of province,IDSeq
+109-0744,Serum,DENV-2,Cosmopolitan,PP439576,2,M,contact author for access,Angkor Chea,Pneay,Samraong Tong,Kampong Speu,not_submitted,partial,contact author for access,contact author for access,lat-long is centroid of province,IDSeq
+109-0745,Serum,DENV-2,Cosmopolitan,PP439576,2,M,contact author for access,Dak Por,Svay Kravan,Krong Chbar Mon,Kampong Speu,not_submitted,partial,contact author for access,contact author for access,lat-long is centroid of province,IDSeq
+109-0760,Serum,DENV-2,Cosmopolitan,PP439576,4,M,contact author for access,Beng,Pneay,Samraong Tong,Kampong Speu,not_submitted,partial,contact author for access,contact author for access,lat-long is centroid of province,IDSeq
+109-0764,Serum,DENV-2,Cosmopolitan,PP470602,11,M,contact author for access,Rumlich Tnaot,Voa Sar,Samraong Tong,Kampong Speu,not_submitted,partial,contact author for access,contact author for access,lat-long is centroid of province,IDSeq
+109-0765,Serum,DENV-2,Cosmopolitan,PP439578,11,F,contact author for access,Snao Ti Muoy,Rokar Thum,Krong Chbar Mon,Kampong Speu,not_submitted,partial,contact author for access,contact author for access,lat-long is centroid of province,IDSeq
+109-0779,Serum,DENV-2,Cosmopolitan,PP470602,13,F,contact author for access,Prey Tuol,Voa Sar,Samraong Tong,Kampong Speu,not_submitted,partial,contact author for access,contact author for access,lat-long is centroid of province,IDSeq
+109-0785,Serum,DENV-2,Cosmopolitan,PP439579,5,M,contact author for access,Chamkar Bos,Voa Sar,Samraong Tong,Kampong Speu,not_submitted,partial,contact author for access,contact author for access,lat-long is centroid of province,IDSeq
+109-0789,Serum,DENV-2,Cosmopolitan,PP439579,10,M,contact author for access,Chamkar Bos,Voa Sar,Samraong Tong,Kampong Speu,not_submitted,partial,contact author for access,contact author for access,lat-long is centroid of province,IDSeq
+109-0792,Serum,DENV-2,Cosmopolitan,PP439580,12,F,contact author for access,Tuol Samnang,Voa Sar,Samraong Tong,Kampong Speu,not_submitted,partial,contact author for access,contact author for access,lat-long is centroid of province,IDSeq
+109-0799,Serum,DENV-2,Cosmopolitan,PP446692,13,F,contact author for access,Chamkar Bos,Voa Sar,Samraong Tong,Kampong Speu,not_submitted,partial,contact author for access,contact author for access,lat-long is centroid of province,IDSeq
+109-0835,Serum,DENV-2,Cosmopolitan,PP439578,6,F,contact author for access,Kandal,Voa Sar,Samraong Tong,Kampong Speu,not_submitted,partial,contact author for access,contact author for access,lat-long is centroid of province,IDSeq
+109-1143,Serum,DENV-2,Cosmopolitan,PP411227,16,M,contact author for access,Ou Bek Kam,Tuek Thla,Saensokh,Phnom Penh,not_submitted,partial,contact author for access,contact author for access,lat-long is centroid of province,IDSeq
+109-1231,Serum,DENV-2,Cosmopolitan,PP439578,18,M,contact author for access,Sangkruoh Cheat,Trapeang Kong,Samraong Tong,Kampong Speu,not_submitted,partial,contact author for access,contact author for access,lat-long is centroid of province,IDSeq
+109-1709,Serum,DENV-2,Cosmopolitan,PP439582,9,F,contact author for access,Pech Sangvar,Khtum Krang,Samraong Tong,Kampong Speu,not_submitted,partial,contact author for access,contact author for access,lat-long is centroid of province,IDSeq
+109-1720,Serum,DENV-2,Cosmopolitan,PP439582,13,M,contact author for access,Srei Sampoung,Khtum Krang,Samraong Tong,Kampong Speu,not_submitted,partial,contact author for access,contact author for access,lat-long is centroid of province,IDSeq
+109-1721,Serum,DENV-2,Cosmopolitan,PP446693,8,M,contact author for access,Krang Phka,Sopoar Tep,Krong Chbar Mon,Kampong Speu,not_submitted,partial,contact author for access,contact author for access,lat-long is centroid of province,IDSeq
+109-1730,Serum,DENV-2,Cosmopolitan,PP406369,12,M,contact author for access,Krang Pongro,Voa Sar,Samraong Tong,Kampong Speu,not_submitted,partial,contact author for access,contact author for access,lat-long is centroid of province,IDSeq
+109-1746,Serum,DENV-2,Cosmopolitan,PP406376,12,M,contact author for access,Thlok Andas,Saen Dei,Samraong Tong,Kampong Speu,not_submitted,partial,contact author for access,contact author for access,lat-long is centroid of province,IDSeq
+109-1788,Serum,DENV-2,Cosmopolitan,PP439582,5,F,contact author for access,Snao Ti Muoy,Rokar Thum,Krong Chbar Mon,Kampong Speu,not_submitted,partial,contact author for access,contact author for access,lat-long is centroid of province,IDSeq
+109-1790,Serum,DENV-2,Cosmopolitan,PP406454,8,F,contact author for access,Sangke Chrum,Chbar Mon,Krong Chbar Mon,Kampong Speu,not_submitted,partial,contact author for access,contact author for access,lat-long is centroid of province,IDSeq
+109-1792,Serum,DENV-2,Cosmopolitan, KX452018,5,M,contact author for access,Roluos,Chbar Mon,Krong Chbar Mon,Kampong Speu,not_submitted,partial,contact author for access,contact author for access,lat-long is centroid of province,IDSeq
+109-1793,Serum,DENV-2,Cosmopolitan,PP439582,10,F,contact author for access,Angk Serei,Rokar Thum,Krong Chbar Mon,Kampong Speu,not_submitted,partial,contact author for access,contact author for access,lat-long is centroid of province,IDSeq
+109-1794,Serum,DENV-2,Cosmopolitan,PP446693,13,F,contact author for access,Chrolong Phlov,Roleang Chak,Krong Chbar Mon,Kampong Speu,not_submitted,partial,contact author for access,contact author for access,lat-long is centroid of province,IDSeq
+109-1807,Serum,DENV-2,Cosmopolitan,PP439582,8,F,contact author for access,Sangke Chrum,Chbar Mon,Krong Chbar Mon,Kampong Speu,not_submitted,partial,contact author for access,contact author for access,lat-long is centroid of province,IDSeq
+109-1808,Serum,DENV-2,Cosmopolitan,PP446688,12,M,contact author for access,Krang Phka,Sopoar Tep,Krong Chbar Mon,Kampong Speu,not_submitted,partial,contact author for access,contact author for access,lat-long is centroid of province,IDSeq
+109-1812,Serum,DENV-2,Cosmopolitan,PP446691,11,M,contact author for access,Tras,Svay Kravan,Krong Chbar Mon,Kampong Speu,not_submitted,partial,contact author for access,contact author for access,lat-long is centroid of province,IDSeq
+109-1842,Serum,DENV-2,Cosmopolitan,PP470603,10,M,contact author for access,Trapeang Kong,Trapeang Kong,Samraong Tong,Kampong Speu,not_submitted,partial,contact author for access,contact author for access,lat-long is centroid of province,IDSeq
+109-1844,Serum,DENV-2,Cosmopolitan,MN923109,11,M,contact author for access,Roleang Sangke,Sopoar Tep,Krong Chbar Mon,Kampong Speu,not_submitted,partial,contact author for access,contact author for access,lat-long is centroid of province,IDSeq
+109-1847,Serum,DENV-2,Cosmopolitan,PP510625,26,M,contact author for access,Prey Sloek,Chbar Mon,Krong Chbar Mon,Kampong Speu,not_submitted,partial,contact author for access,contact author for access,lat-long is centroid of province,IDSeq
+109-1856,Serum,DENV-2,Cosmopolitan,PP446688,8,F,contact author for access,Snao Ti Muoy,Rokar Thum,Krong Chbar Mon,Kampong Speu,not_submitted,partial,contact author for access,contact author for access,lat-long is centroid of province,IDSeq
+109-1860,Serum,DENV-2,Cosmopolitan,MN923109,23,M,contact author for access,Phnom Penh Thmei,Phnom Penh Thmei,Saensokh,Phnom Penh,not_submitted,partial,contact author for access,contact author for access,lat-long is centroid of province,IDSeq
+109-1870,Serum,DENV-2,Cosmopolitan,PP406452,13,F,contact author for access,Trapeang Russei,Sambour,Samraong Tong,Kampong Speu,not_submitted,partial,contact author for access,contact author for access,lat-long is centroid of province,IDSeq
+109-1871,Serum,DENV-2,Cosmopolitan,PP406374,13,F,contact author for access,Kandaol Dom,Kandaol Dom,Krong Chbar Mon,Kampong Speu,not_submitted,partial,contact author for access,contact author for access,lat-long is centroid of province,IDSeq
+109-1879,Serum,DENV-2,Cosmopolitan,PP446688,12,M,contact author for access,Chrolong Phlov,Roleang Chak,Krong Chbar Mon,Kampong Speu,not_submitted,partial,contact author for access,contact author for access,lat-long is centroid of province,IDSeq
+109-1881,Serum,DENV-2,Cosmopolitan,PP470602,7,M,contact author for access,Sangke Chrum,Chbar Mon,Krong Chbar Mon,Kampong Speu,not_submitted,partial,contact author for access,contact author for access,lat-long is centroid of province,IDSeq
+109-1889,Serum,DENV-2,Cosmopolitan,PP406372,13,M,contact author for access,Pel Hel,Sopoar Tep,Krong Chbar Mon,Kampong Speu,not_submitted,partial,contact author for access,contact author for access,lat-long is centroid of province,IDSeq
+109-1907,Serum,DENV-2,Cosmopolitan,PP470602,12,M,contact author for access,Tras Sala,Svay Kravan,Krong Chbar Mon,Kampong Speu,not_submitted,partial,contact author for access,contact author for access,lat-long is centroid of province,IDSeq
+109-1932,Serum,DENV-2,Cosmopolitan,PP439582,8,M,contact author for access,Angk Ta Mau,Tang Krouch,Samraong Tong,Kampong Speu,not_submitted,partial,contact author for access,contact author for access,lat-long is centroid of province,IDSeq
+109-1941,Serum,DENV-2,Cosmopolitan,PP439582,NA,F,contact author for access,Roluos,Chbar Mon,Krong Chbar Mon,Kampong Speu,not_submitted,partial,contact author for access,contact author for access,lat-long is centroid of province,IDSeq
+109-1959,Serum,DENV-2,Cosmopolitan,PP411253,13,F,contact author for access,Thom,Krang Yov,S'ang,Kandal,not_submitted,partial,contact author for access,contact author for access,lat-long is centroid of province,IDSeq
+109-1974,Serum,DENV-2,Cosmopolitan,PP411232,13,F,contact author for access,Skuh,Svay Kravan,Krong Chbar Mon,Kampong Speu,not_submitted,partial,contact author for access,contact author for access,lat-long is centroid of province,IDSeq
+109-1975,Serum,DENV-2,Cosmopolitan,PP470602,7,F,contact author for access,Krang Chek,Krang Chek,Odongk,Kampong Speu,not_submitted,partial,contact author for access,contact author for access,lat-long is centroid of province,IDSeq
+109-1980,Serum,DENV-2,Cosmopolitan,PP446689,3,M,contact author for access,Krang Angkrang,Krang Thnong,Saensokh,Phnom Penh,not_submitted,partial,contact author for access,contact author for access,lat-long is centroid of province,IDSeq
+109-2017,Serum,DENV-2,Cosmopolitan,PP446694,5,M,contact author for access,Phum 11,Tuek L'ak Pir,Tuol Kouk,Phnom Penh,not_submitted,partial,contact author for access,contact author for access,lat-long is centroid of province,IDSeq
+109-2033,Serum,DENV-2,Cosmopolitan,PP446691,10,M,contact author for access,Kouk Pnov,Voa Sar,Samraong Tong,Kampong Speu,not_submitted,partial,contact author for access,contact author for access,lat-long is centroid of province,IDSeq
+109-2037,Serum,DENV-2,Cosmopolitan,PP564696,18,M,contact author for access,Thma Bang,Samraong Tong,Samraong Tong,Kampong Speu,not_submitted,partial,contact author for access,contact author for access,lat-long is centroid of province,IDSeq
+109-2057,Serum,DENV-2,Cosmopolitan,PP446693,18,M,contact author for access,Dak Por,Voa Sar,Samraong Tong,Kampong Speu,not_submitted,partial,contact author for access,contact author for access,lat-long is centroid of province,IDSeq
+109-2083,Serum,DENV-2,Cosmopolitan,PP406373,12,M,contact author for access,Bak Thmenh,Roleang Chak,Samraong Tong,Kampong Speu,not_submitted,partial,contact author for access,contact author for access,lat-long is centroid of province,IDSeq
+109-2139,Serum,DENV-2,Cosmopolitan,PP446693,13,F,contact author for access,Borei Kammeakkar,Chbar Mon,Krong Chbar Mon,Kampong Speu,not_submitted,partial,contact author for access,contact author for access,lat-long is centroid of province,IDSeq
+109-2186,Serum,DENV-2,Cosmopolitan,PP469534,8,F,contact author for access,Thmei,Pou,Kampong Leaeng,Kampong Chhnang,not_submitted,partial,contact author for access,contact author for access,lat-long is centroid of province,IDSeq
+109-2312,Serum,DENV-2,Cosmopolitan,PP469534,11,M,contact author for access,Prek Ta Long,Chak Angrae Kraom,Mean Chey,Phnom Penh,not_submitted,partial,contact author for access,contact author for access,lat-long is centroid of province,IDSeq
+109-2340,Serum,DENV-2,Cosmopolitan,PP470602,20,M,contact author for access,Sampov,Chbar Mon,Krong Chbar Mon,Kampong Speu,not_submitted,partial,contact author for access,contact author for access,lat-long is centroid of province,IDSeq
+109-2341,Serum,DENV-2,Cosmopolitan,PP406369,18,M,contact author for access,Sampov,Chbar Mon,Krong Chbar Mon,Kampong Speu,not_submitted,partial,contact author for access,contact author for access,lat-long is centroid of province,IDSeq
+109-2355,Serum,DENV-2,Cosmopolitan,PP470602,50,M,contact author for access,Luengk,Angkor Reach,Preah Sdach,Prey Veng,not_submitted,partial,contact author for access,contact author for access,lat-long is centroid of province,IDSeq
+109-2397,Serum,DENV-2,Cosmopolitan,PP406371,12,F,contact author for access,Bak Thmenh,Roleang Chak,Samraong Tong,Kampong Speu,not_submitted,partial,contact author for access,contact author for access,lat-long is centroid of province,IDSeq
+109-2479,Serum,DENV-2,Cosmopolitan,PP411253,15,F,contact author for access,Chbar Mon,Komar Reachea,Bati,Takeo,not_submitted,partial,contact author for access,contact author for access,lat-long is centroid of province,IDSeq
+109-2480,Serum,DENV-2,Cosmopolitan,PP446691,14,M,contact author for access,Trach Toul,Baek Chan,Angk Snuol,Kandal,not_submitted,partial,contact author for access,contact author for access,lat-long is centroid of province,IDSeq
+DENS-003,Serum,DENV-2,Cosmopolitan,PP564696,12,M,contact author for access,Trach Chhroum,So por tep,Chhbar Mon,Kompong Speu,not_submitted,partial,contact author for access,contact author for access,lat-long is centroid of province,NDCP
+DENS-004,Serum,DENV-2,Cosmopolitan,PP564696,11,M,contact author for access,Kandal,Vor Sor,Somrong Tong,Kompong Speu,not_submitted,partial,contact author for access,contact author for access,lat-long is centroid of province,NDCP
+DENS-089,Serum,DENV-2,Cosmopolitan,PP564696,5,M,contact author for access,Roulous,Chba Mon,Chba Mon,Kompong Speu,not_submitted,partial,contact author for access,contact author for access,lat-long is centroid of province,NDCP
+DENS-100,Serum,DENV-2,Cosmopolitan,PP564696,14,F,contact author for access,Chhuk,Chhuk,krouch Chmar,Tbong Kmom,not_submitted,partial,contact author for access,contact author for access,lat-long is centroid of province,NDCP
+DENS-132,Serum,DENV-2,Cosmopolitan,PP470603,12,F,contact author for access,Kandal,Jronok,Kompong Loung,Kompong Chhnang,not_submitted,partial,contact author for access,contact author for access,lat-long is centroid of province,NDCP
+DENS-143,Serum,DENV-2,Cosmopolitan,MN923109,12,M,contact author for access,Roleang Jork,Roleang Krel,Somrong Tong,Kompong Speu,not_submitted,partial,contact author for access,contact author for access,lat-long is centroid of province,NDCP
+DENS-144,Serum,DENV-2,Cosmopolitan,MG895163,9,M,contact author for access,Pel Hel,Sopor Tep,Somrong Tong,Kompong Speu,not_submitted,partial,contact author for access,contact author for access,lat-long is centroid of province,NDCP
+DENS-174,Serum,DENV-2,Cosmopolitan,MN018344,27,F,contact author for access,N/A,N/A,N/A,Kompong Speu,not_submitted,partial,contact author for access,contact author for access,lat-long is centroid of province,NDCP
+DENS-176,Serum,DENV-2,Cosmopolitan,MK564485,19,F,contact author for access,Jombok,Vor Sor,Somrong Tong,Kompong Speu,not_submitted,partial,contact author for access,contact author for access,lat-long is centroid of province,NDCP
+DENS-OB-125,Serum,DENV-2,Cosmopolitan,PP546320,7,M,contact author for access,Ear Lech,Jro Nok,Kompong Loung,Kompong Chhnang,not_submitted,partial,contact author for access,contact author for access,lat-long is centroid of province,NDCP
+109-1245,Serum,DENV-4,DENV-4,KP792537,16,M,contact author for access,Krang Chek,Krang Chek,Odongk,Kampong Speu,not_submitted,partial,contact author for access,contact author for access,lat-long is centroid of province,IDSeq
+109-1853,Serum,DENV-4,DENV-4,KP792537,26,M,contact author for access,Trapeang Prei,Saen Dei,Samraong Tong,Kampong Speu,not_submitted,partial,contact author for access,contact author for access,lat-long is centroid of province,IDSeq
+109-2239,Serum,DENV-4,DENV-4,MK614090,22,F,contact author for access,Tnaot Muoy Daeum,Preah Khae,Basedth,Kampong Speu,not_submitted,partial,contact author for access,contact author for access,lat-long is centroid of province,IDSeq
+DENS-148,Serum,DENV-4,DENV-4,PP396732,14,F,contact author for access,Krosang,Terk Chrov,Dom Bae,Tbong Kmom,not_submitted,partial,contact author for access,contact author for access,lat-long is centroid of province,NDCP

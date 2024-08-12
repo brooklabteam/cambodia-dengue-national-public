@@ -1,0 +1,779 @@
+tip_name,NIH.ID,Accession,date,DENV.serotype,DENV.subtype,country,lat,long,age,sex,notes,year
+AB479041_2002-07-31,NA,AB479041,contact author for access,DENV-2,NA,Vietnam,contact author for access,contact author for access,NA,NA,,2002
+AB479042_2002-07-31,NA,AB479042,contact author for access,DENV-2,NA,Vietnam,contact author for access,contact author for access,NA,NA,,2002
+AY732482_2001-07-31,NA,AY732482,contact author for access,DENV-1,NA,Thailand,contact author for access,contact author for access,NA,NA,,2001
+EU081177_2005-07-31,NA,EU081177,contact author for access,DENV-2,NA,Singapore,contact author for access,contact author for access,NA,NA,,2005
+EU081180_2005-07-31,NA,EU081180,contact author for access,DENV-2,NA,Singapore,contact author for access,contact author for access,NA,NA,,2005
+EU081234_2005-07-31,NA,EU081234,contact author for access,DENV-1,NA,Singapore,contact author for access,contact author for access,NA,NA,,2005
+EU081246_2005-07-31,NA,EU081246,contact author for access,DENV-1,NA,Singapore,contact author for access,contact author for access,NA,NA,,2005
+EU081274_2005-07-31,NA,EU081274,contact author for access,DENV-1,NA,Singapore,contact author for access,contact author for access,NA,NA,,2005
+EU081280_2006-07-31,NA,EU081280,contact author for access,DENV-1,NA,Singapore,contact author for access,contact author for access,NA,NA,,2006
+EU081281_2006-07-31,NA,EU081281,contact author for access,DENV-1,NA,Singapore,contact author for access,contact author for access,NA,NA,,2006
+EU179857_2005-07-31,NA,EU179857,contact author for access,DENV-2,NA,Brunei,contact author for access,contact author for access,NA,NA,,2005
+EU179858_2005-07-31,NA,EU179858,contact author for access,DENV-2,NA,Brunei,contact author for access,contact author for access,NA,NA,,2005
+EU179859_2006-07-31,NA,EU179859,contact author for access,DENV-2,NA,Brunei,contact author for access,contact author for access,NA,NA,,2006
+EU179860_2005-07-31,NA,EU179860,contact author for access,DENV-1,DENV-1,Brunei,contact author for access,contact author for access,NA,NA,,2005
+EU179861_2006-07-31,NA,EU179861,contact author for access,DENV-1,DENV-1,Brunei,contact author for access,contact author for access,NA,NA,,2006
+EU482445_2006-07-31,NA,EU482445,contact author for access,DENV-2,NA,Vietnam,contact author for access,contact author for access,NA,NA,,2006
+EU482450_2006-07-31,NA,EU482450,contact author for access,DENV-2,NA,Vietnam,contact author for access,contact author for access,NA,NA,,2006
+EU482486_2007-07-31,NA,EU482486,contact author for access,DENV-1,NA,Vietnam,contact author for access,contact author for access,NA,NA,,2007
+EU482529_2006-07-31,NA,EU482529,contact author for access,DENV-1,NA,Vietnam,contact author for access,contact author for access,NA,NA,,2006
+EU482658_2006-07-31,NA,EU482658,contact author for access,DENV-2,NA,Vietnam,contact author for access,contact author for access,NA,NA,,2006
+EU482702_2007-07-31,NA,EU482702,contact author for access,DENV-2,NA,Vietnam,contact author for access,contact author for access,NA,NA,,2007
+EU482774_2004-07-31,NA,EU482774,contact author for access,DENV-2,NA,Vietnam,contact author for access,contact author for access,NA,NA,,2004
+EU482776_2005-07-31,NA,EU482776,contact author for access,DENV-2,NA,Vietnam,contact author for access,contact author for access,NA,NA,,2005
+EU482777_2005-07-31,NA,EU482777,contact author for access,DENV-2,NA,Vietnam,contact author for access,contact author for access,NA,NA,,2005
+EU482787_2003-07-31,NA,EU482787,contact author for access,DENV-2,NA,Vietnam,contact author for access,contact author for access,NA,NA,,2003
+EU482791_2003-07-31,NA,EU482791,contact author for access,DENV-1,NA,Vietnam,contact author for access,contact author for access,NA,NA,,2003
+EU482792_2003-07-31,NA,EU482792,contact author for access,DENV-1,NA,Vietnam,contact author for access,contact author for access,NA,NA,,2003
+EU687249_2007-07-31,NA,EU687249,contact author for access,DENV-2,NA,Vietnam,contact author for access,contact author for access,NA,NA,,2007
+FJ024462_2007-07-31,NA,FJ024462,contact author for access,DENV-1,NA,Vietnam,contact author for access,contact author for access,NA,NA,,2007
+FJ410215_2008-07-31,NA,FJ410215,contact author for access,DENV-2,NA,Vietnam,contact author for access,contact author for access,NA,NA,,2008
+FJ410233_2008-07-31,NA,FJ410233,contact author for access,DENV-2,NA,Vietnam,contact author for access,contact author for access,NA,NA,,2008
+FJ410237_2008-07-31,NA,FJ410237,contact author for access,DENV-2,NA,Vietnam,contact author for access,contact author for access,NA,NA,,2008
+FJ410260_2008-07-31,NA,FJ410260,contact author for access,DENV-1,NA,Vietnam,contact author for access,contact author for access,NA,NA,,2008
+FJ467493_2008-07-31,NA,FJ467493,contact author for access,DENV-2,NA,Malaysia,contact author for access,contact author for access,NA,NA,,2008
+FJ469907_2003-07-31,NA,FJ469907,contact author for access,DENV-1,NA,Singapore,contact author for access,contact author for access,NA,NA,,2003
+FJ469908_2003-07-31,NA,FJ469908,contact author for access,DENV-1,NA,Singapore,contact author for access,contact author for access,NA,NA,,2003
+FJ469909_2003-07-31,NA,FJ469909,contact author for access,DENV-1,NA,Singapore,contact author for access,contact author for access,NA,NA,,2003
+FJ639669_2000-07-31,NA,FJ639669,contact author for access,DENV-1,DENV-1,Cambodia,contact author for access,contact author for access,NA,NA,Battambang,2000
+FJ639670_2001-07-31,NA,FJ639670,contact author for access,DENV-1,DENV-1,Cambodia,contact author for access,contact author for access,NA,NA,Phnom Penh,2001
+FJ639671_2001-07-31,NA,FJ639671,contact author for access,DENV-1,DENV-1,Cambodia,contact author for access,contact author for access,NA,NA,Kampong Chhnaang,2001
+FJ639672_2001-07-31,NA,FJ639672,contact author for access,DENV-1,DENV-1,Cambodia,contact author for access,contact author for access,NA,NA,Battambang,2001
+FJ639673_2001-07-31,NA,FJ639673,contact author for access,DENV-1,DENV-1,Cambodia,contact author for access,contact author for access,NA,NA,Kampong Chhnaang,2001
+FJ639674_2002-07-31,NA,FJ639674,contact author for access,DENV-1,DENV-1,Cambodia,contact author for access,contact author for access,NA,NA,Kampong Chhnaang,2002
+FJ639675_2003-07-31,NA,FJ639675,contact author for access,DENV-1,DENV-1,Cambodia,contact author for access,contact author for access,NA,NA,Battambang,2003
+FJ639676_2003-07-31,NA,FJ639676,contact author for access,DENV-1,DENV-1,Cambodia,contact author for access,contact author for access,NA,NA,Phnom Penh,2003
+FJ639677_2003-07-31,NA,FJ639677,contact author for access,DENV-1,DENV-1,Cambodia,contact author for access,contact author for access,NA,NA,Kampong Chhnaang,2003
+FJ639678_2003-07-31,NA,FJ639678,contact author for access,DENV-1,DENV-1,Cambodia,contact author for access,contact author for access,NA,NA,Kratie,2003
+FJ639679_2003-07-31,NA,FJ639679,contact author for access,DENV-1,DENV-1,Cambodia,contact author for access,contact author for access,NA,NA,Kampong Chhnaang,2003
+FJ639680_2003-07-31,NA,FJ639680,contact author for access,DENV-1,DENV-1,Cambodia,contact author for access,contact author for access,NA,NA,Phnom Penh,2003
+FJ639681_2003-07-31,NA,FJ639681,contact author for access,DENV-1,DENV-1,Cambodia,contact author for access,contact author for access,NA,NA,Phnom Penh,2003
+FJ639682_2004-07-31,NA,FJ639682,contact author for access,DENV-1,DENV-1,Cambodia,contact author for access,contact author for access,NA,NA,Phnom Penh,2004
+FJ639683_2005-07-31,NA,FJ639683,contact author for access,DENV-1,DENV-1,Cambodia,contact author for access,contact author for access,NA,NA,Battambang,2005
+FJ639684_2005-07-31,NA,FJ639684,contact author for access,DENV-1,DENV-1,Cambodia,contact author for access,contact author for access,NA,NA,Kampong Speu,2005
+FJ639685_2005-07-31,NA,FJ639685,contact author for access,DENV-1,DENV-1,Cambodia,contact author for access,contact author for access,NA,NA,Battambang,2005
+FJ639686_2006-07-31,NA,FJ639686,contact author for access,DENV-1,DENV-1,Cambodia,contact author for access,contact author for access,NA,NA,Kampong Chhnaang,2006
+FJ639687_2006-07-31,NA,FJ639687,contact author for access,DENV-1,DENV-1,Cambodia,contact author for access,contact author for access,NA,NA,Kampong Chhnaang,2006
+FJ639688_2007-07-31,NA,FJ639688,contact author for access,DENV-1,DENV-1,Cambodia,contact author for access,contact author for access,NA,NA,Kampong Chhnaang,2007
+FJ639689_2007-07-31,NA,FJ639689,contact author for access,DENV-1,DENV-1,Cambodia,contact author for access,contact author for access,NA,NA,Kampong Speu,2007
+FJ639690_2007-07-31,NA,FJ639690,contact author for access,DENV-1,DENV-1,Cambodia,contact author for access,contact author for access,NA,NA,Kampong Speu,2007
+FJ639691_2007-07-31,NA,FJ639691,contact author for access,DENV-1,DENV-1,Cambodia,contact author for access,contact author for access,NA,NA,Battambang,2007
+FJ639692_2007-07-31,NA,FJ639692,contact author for access,DENV-1,DENV-1,Cambodia,contact author for access,contact author for access,NA,NA,Kampong Chhnaang,2007
+FJ639693_2007-07-31,NA,FJ639693,contact author for access,DENV-1,DENV-1,Cambodia,contact author for access,contact author for access,NA,NA,Kampong Speu,2007
+FJ639694_2007-07-31,NA,FJ639694,contact author for access,DENV-1,DENV-1,Cambodia,contact author for access,contact author for access,NA,NA,Kampong Chhnaang,2007
+FJ639695_2007-07-31,NA,FJ639695,contact author for access,DENV-1,DENV-1,Cambodia,contact author for access,contact author for access,NA,NA,Kampong Chhnaang,2007
+FJ639696_2007-07-31,NA,FJ639696,contact author for access,DENV-1,DENV-1,Cambodia,contact author for access,contact author for access,NA,NA,Kampong Chhnaang,2007
+FJ639697_2001-07-31,NA,FJ639697,contact author for access,DENV-2,Asian-1,Cambodia,contact author for access,contact author for access,NA,NA,Kampong Chhnaang,2001
+FJ639698_2002-07-31,NA,FJ639698,contact author for access,DENV-2,DENV-2,Cambodia,contact author for access,contact author for access,NA,NA,Kampong Chhnaang,2002
+FJ639699_2002-07-31,NA,FJ639699,contact author for access,DENV-2,DENV-2,Cambodia,contact author for access,contact author for access,NA,NA,Kampong Chhnaang,2002
+FJ639700_2002-07-31,NA,FJ639700,contact author for access,DENV-2,DENV-2,Cambodia,contact author for access,contact author for access,NA,NA,Kampong Chhnaang,2002
+FJ639701_2002-07-31,NA,FJ639701,contact author for access,DENV-2,DENV-2,Cambodia,contact author for access,contact author for access,NA,NA,Kampong Chhnaang,2002
+FJ639702_2003-07-31,NA,FJ639702,contact author for access,DENV-2,DENV-2,Cambodia,contact author for access,contact author for access,NA,NA,Battambang,2003
+FJ639703_2003-07-31,NA,FJ639703,contact author for access,DENV-2,DENV-2,Cambodia,contact author for access,contact author for access,NA,NA,Battambang,2003
+FJ639704_2003-07-31,NA,FJ639704,contact author for access,DENV-2,DENV-2,Cambodia,contact author for access,contact author for access,NA,NA,Kampong Chhnaang,2003
+FJ639705_2003-07-31,NA,FJ639705,contact author for access,DENV-2,DENV-2,Cambodia,contact author for access,contact author for access,NA,NA,Takeo,2003
+FJ639706_2004-07-31,NA,FJ639706,contact author for access,DENV-2,DENV-2,Cambodia,contact author for access,contact author for access,NA,NA,Phnom Penh,2004
+FJ639707_2004-07-31,NA,FJ639707,contact author for access,DENV-2,DENV-2,Cambodia,contact author for access,contact author for access,NA,NA,Phnom Penh,2004
+FJ639708_2005-07-31,NA,FJ639708,contact author for access,DENV-2,DENV-2,Cambodia,contact author for access,contact author for access,NA,NA,Siem Reap,2005
+FJ639709_2005-07-31,NA,FJ639709,contact author for access,DENV-2,DENV-2,Cambodia,contact author for access,contact author for access,NA,NA,Takeo,2005
+FJ639710_2005-07-31,NA,FJ639710,contact author for access,DENV-2,DENV-2,Cambodia,contact author for access,contact author for access,NA,NA,Phnom Penh,2005
+FJ639711_2005-07-31,NA,FJ639711,contact author for access,DENV-2,DENV-2,Cambodia,contact author for access,contact author for access,NA,NA,Phnom Penh,2005
+FJ639717_2007-07-31,NA,FJ639717,contact author for access,DENV-2,DENV-2,Cambodia,contact author for access,contact author for access,NA,NA,Kampong Chhnaang,2007
+FJ639718_2008-07-31,NA,FJ639718,contact author for access,DENV-2,DENV-2,Cambodia,contact author for access,contact author for access,NA,NA,Prey Veng,2008
+FJ687433_2001-07-31,NA,FJ687433,contact author for access,DENV-1,NA,Thailand,contact author for access,contact author for access,NA,NA,,2001
+FJ687447_2001-07-31,NA,FJ687447,contact author for access,DENV-2,NA,Thailand,contact author for access,contact author for access,NA,NA,,2001
+FJ744702_2006-07-31,NA,FJ744702,contact author for access,DENV-1,DENV-1,Cambodia,contact author for access,contact author for access,NA,NA,Kampong Chhnaang,2006
+FJ744711_2001-07-31,NA,FJ744711,contact author for access,DENV-2,NA,Thailand,contact author for access,contact author for access,NA,NA,,2001
+FJ810411_2001-07-31,NA,FJ810411,contact author for access,DENV-2,NA,Thailand,contact author for access,contact author for access,NA,NA,,2001
+FJ850069_2003-07-31,NA,FJ850069,contact author for access,DENV-1,DENV-1,Cambodia,contact author for access,contact author for access,NA,NA,Takeo,2003
+FJ859028_2007-07-31,NA,FJ859028,contact author for access,DENV-2,NA,Vietnam,contact author for access,contact author for access,NA,NA,,2007
+FJ882522_2006-07-31,NA,FJ882522,contact author for access,DENV-1,NA,Vietnam,contact author for access,contact author for access,NA,NA,,2006
+FJ882569_2004-07-31,NA,FJ882569,contact author for access,DENV-1,NA,Vietnam,contact author for access,contact author for access,NA,NA,,2004
+FJ898388_2005-07-31,NA,FJ898388,contact author for access,DENV-1,NA,Vietnam,contact author for access,contact author for access,NA,NA,,2005
+FJ898389_2005-07-31,NA,FJ898389,contact author for access,DENV-1,NA,Vietnam,contact author for access,contact author for access,NA,NA,,2005
+FJ898393_2005-07-31,NA,FJ898393,contact author for access,DENV-1,NA,Vietnam,contact author for access,contact author for access,NA,NA,,2005
+FJ898396_2006-07-31,NA,FJ898396,contact author for access,DENV-1,NA,Vietnam,contact author for access,contact author for access,NA,NA,,2006
+FM210212_2003-07-31,NA,FM210212,contact author for access,DENV-2,NA,Vietnam,contact author for access,contact author for access,NA,NA,,2003
+FM210224_2001-07-31,NA,FM210224,contact author for access,DENV-2,NA,Vietnam,contact author for access,contact author for access,NA,NA,,2001
+FM210225_2001-07-31,NA,FM210225,contact author for access,DENV-2,NA,Vietnam,contact author for access,contact author for access,NA,NA,,2001
+FM210227_2002-07-31,NA,FM210227,contact author for access,DENV-2,NA,Vietnam,contact author for access,contact author for access,NA,NA,,2002
+FM210233_2004-07-31,NA,FM210233,contact author for access,DENV-2,NA,Vietnam,contact author for access,contact author for access,NA,NA,,2004
+FM210238_2001-07-31,NA,FM210238,contact author for access,DENV-2,NA,Vietnam,contact author for access,contact author for access,NA,NA,,2001
+FM210240_2004-07-31,NA,FM210240,contact author for access,DENV-2,NA,Vietnam,contact author for access,contact author for access,NA,NA,,2004
+FM210245_2005-07-31,NA,FM210245,contact author for access,DENV-2,NA,Vietnam,contact author for access,contact author for access,NA,NA,,2005
+GQ199831_2003-07-31,NA,GQ199831,contact author for access,DENV-1,NA,Vietnam,contact author for access,contact author for access,NA,NA,,2003
+GQ199833_2004-07-31,NA,GQ199833,contact author for access,DENV-1,NA,Vietnam,contact author for access,contact author for access,NA,NA,,2004
+GQ398255_2008-07-31,NA,GQ398255,contact author for access,DENV-1,NA,Singapore,contact author for access,contact author for access,NA,NA,,2008
+GQ398265_2008-07-31,NA,GQ398265,contact author for access,DENV-2,NA,Singapore,contact author for access,contact author for access,NA,NA,,2008
+GQ868602_2004-07-31,NA,GQ868602,contact author for access,DENV-1,NA,Philippines,contact author for access,contact author for access,NA,NA,,2004
+GQ868607_2007-07-31,NA,GQ868607,contact author for access,DENV-1,NA,Vietnam,contact author for access,contact author for access,NA,NA,,2007
+GQ868618_2003-07-31,NA,GQ868618,contact author for access,DENV-1,DENV-1,Cambodia,contact author for access,contact author for access,NA,NA,Kampong Speu,2003
+GQ868619_2003-07-31,NA,GQ868619,contact author for access,DENV-1,DENV-1,Cambodia,contact author for access,contact author for access,NA,NA,Siem Reap,2003
+GQ868620_2003-07-31,NA,GQ868620,contact author for access,DENV-2,DENV-2,Cambodia,contact author for access,contact author for access,NA,NA,Kampong Chhnaang,2003
+GQ868621_2003-07-31,NA,GQ868621,contact author for access,DENV-2,DENV-2,Cambodia,contact author for access,contact author for access,NA,NA,Siem Reap,2003
+GQ868622_2003-07-31,NA,GQ868622,contact author for access,DENV-2,DENV-2,Cambodia,contact author for access,contact author for access,NA,NA,Takeo,2003
+GQ868623_2005-07-31,NA,GQ868623,contact author for access,DENV-2,DENV-2,Cambodia,contact author for access,contact author for access,NA,NA,Battambang,2005
+GQ868624_2007-07-31,NA,GQ868624,contact author for access,DENV-2,DENV-2,Cambodia,contact author for access,contact author for access,NA,NA,Battambang,2007
+GQ868625_2008-07-31,NA,GQ868625,contact author for access,DENV-2,DENV-2,Cambodia,contact author for access,contact author for access,NA,NA,Phnom Penh,2008
+GQ868630_2006-07-31,NA,GQ868630,contact author for access,DENV-1,DENV-1,Cambodia,contact author for access,contact author for access,NA,NA,Kampong Chhnaang,2006
+GQ868631_2008-07-31,NA,GQ868631,contact author for access,DENV-2,DENV-2,Cambodia,contact author for access,contact author for access,NA,NA,Takeo,2008
+GQ868632_2008-07-31,NA,GQ868632,contact author for access,DENV-1,DENV-1,Cambodia,contact author for access,contact author for access,NA,NA,Banteay Meanchey,2008
+GQ868633_2008-07-31,NA,GQ868633,contact author for access,DENV-1,DENV-1,Cambodia,contact author for access,contact author for access,NA,NA,Phnom Penh,2008
+GQ868635_2008-07-31,NA,GQ868635,contact author for access,DENV-1,DENV-1,Cambodia,contact author for access,contact author for access,NA,NA,Kandal,2008
+GQ868636_2008-07-31,NA,GQ868636,contact author for access,DENV-1,DENV-1,Cambodia,contact author for access,contact author for access,NA,NA,Koh Kong,2008
+GQ868637_2000-07-31,NA,GQ868637,contact author for access,DENV-1,DENV-1,Cambodia,contact author for access,contact author for access,NA,NA,Takeo,2000
+GQ868638_2008-07-31,NA,GQ868638,contact author for access,DENV-2,DENV-2,Cambodia,contact author for access,contact author for access,NA,NA,Kampong Chhnaang,2008
+GQ868639_2006-07-31,NA,GQ868639,contact author for access,DENV-1,DENV-1,Cambodia,contact author for access,contact author for access,NA,NA,Kampong Chhnaang,2006
+GU131735_2008-07-31,NA,GU131735,contact author for access,DENV-1,NA,Vietnam,contact author for access,contact author for access,NA,NA,Kampong Chhnaang,2008
+GU131887_2006-07-31,NA,GU131887,contact author for access,DENV-1,DENV-1,Cambodia,contact author for access,contact author for access,NA,NA,Kampong Chhnaang,2006
+GU131888_2006-07-31,NA,GU131888,contact author for access,DENV-1,DENV-1,Cambodia,contact author for access,contact author for access,NA,NA,Kampong Chhnaang,2006
+GU131889_2006-07-31,NA,GU131889,contact author for access,DENV-1,DENV-1,Cambodia,contact author for access,contact author for access,NA,NA,Kampong Chhnaang,2006
+GU131890_2006-07-31,NA,GU131890,contact author for access,DENV-1,DENV-1,Cambodia,contact author for access,contact author for access,NA,NA,Kampong Chhnaang,2006
+GU131891_2006-07-31,NA,GU131891,contact author for access,DENV-1,DENV-1,Cambodia,contact author for access,contact author for access,NA,NA,Kampong Chhnaang,2006
+GU131892_2006-07-31,NA,GU131892,contact author for access,DENV-1,DENV-1,Cambodia,contact author for access,contact author for access,NA,NA,Kampong Chhnaang,2006
+GU131893_2007-07-31,NA,GU131893,contact author for access,DENV-1,DENV-1,Cambodia,contact author for access,contact author for access,NA,NA,Kampong Chhnaang,2007
+GU131894_2008-07-31,NA,GU131894,contact author for access,DENV-1,DENV-1,Cambodia,contact author for access,contact author for access,NA,NA,Phnom Penh,2008
+GU131895_2009-07-31,NA,GU131895,contact author for access,DENV-1,DENV-1,Cambodia,contact author for access,contact author for access,NA,NA,Phnom Penh,2009
+GU131896_2007-07-31,NA,GU131896,contact author for access,DENV-2,Asian-1,Cambodia,contact author for access,contact author for access,NA,NA,Kampong Chhnaang,2007
+GU131897_2007-07-31,NA,GU131897,contact author for access,DENV-2,Asian-1,Cambodia,contact author for access,contact author for access,NA,NA,Kampong Chhnaang,2007
+GU131898_2008-07-31,NA,GU131898,contact author for access,DENV-2,DENV-2,Cambodia,contact author for access,contact author for access,NA,NA,Siem Reap,2008
+GU131899_2008-07-31,NA,GU131899,contact author for access,DENV-2,DENV-2,Cambodia,contact author for access,contact author for access,NA,NA,Phnom Penh,2008
+GU131900_2008-07-31,NA,GU131900,contact author for access,DENV-2,DENV-2,Cambodia,contact author for access,contact author for access,NA,NA,Siem Reap,2008
+GU131901_2008-07-31,NA,GU131901,contact author for access,DENV-2,DENV-2,Cambodia,contact author for access,contact author for access,NA,NA,Siem Reap,2008
+GU131902_2008-07-31,NA,GU131902,contact author for access,DENV-2,DENV-2,Cambodia,contact author for access,contact author for access,NA,NA,Battambang,2008
+GU131919_2008-07-31,NA,GU131919,contact author for access,DENV-1,DENV-1,Cambodia,contact author for access,contact author for access,NA,NA,Kampong Chhnaang,2008
+GU131920_2008-07-31,NA,GU131920,contact author for access,DENV-1,DENV-1,Cambodia,contact author for access,contact author for access,NA,NA,Battambang,2008
+GU131921_2008-07-31,NA,GU131921,contact author for access,DENV-1,DENV-1,Cambodia,contact author for access,contact author for access,NA,NA,Kandal,2008
+GU131922_2008-07-31,NA,GU131922,contact author for access,DENV-1,DENV-1,Cambodia,contact author for access,contact author for access,NA,NA,Phnom Penh,2008
+GU131923_2005-07-31,NA,GU131923,contact author for access,DENV-1,DENV-1,Cambodia,contact author for access,contact author for access,NA,NA,Kampong Chhnaang,2005
+GU131924_2008-07-31,NA,GU131924,contact author for access,DENV-2,DENV-2,Cambodia,contact author for access,contact author for access,NA,NA,Kandal,2008
+GU131925_2006-07-31,NA,GU131925,contact author for access,DENV-1,DENV-1,Cambodia,contact author for access,contact author for access,NA,NA,Kampong Chhnaang,2006
+GU131926_2006-07-31,NA,GU131926,contact author for access,DENV-1,DENV-1,Cambodia,contact author for access,contact author for access,NA,NA,Kampong Chhnaang,2006
+GU131927_2007-07-31,NA,GU131927,contact author for access,DENV-2,DENV-2,Cambodia,contact author for access,contact author for access,NA,NA,Kampong Chhnaang,2007
+GU131928_2008-07-31,NA,GU131928,contact author for access,DENV-2,Asian-1,Cambodia,contact author for access,contact author for access,NA,NA,Kampong Chhnaang,2008
+GU131929_2008-07-31,NA,GU131929,contact author for access,DENV-2,DENV-2,Cambodia,contact author for access,contact author for access,NA,NA,Kampong Chhnaang,2008
+GU131930_2008-07-31,NA,GU131930,contact author for access,DENV-2,DENV-2,Cambodia,contact author for access,contact author for access,NA,NA,Kampong Chhnaang,2008
+GU131931_2008-07-31,NA,GU131931,contact author for access,DENV-2,DENV-2,Cambodia,contact author for access,contact author for access,NA,NA,Kampong Chhnaang,2008
+GU131932_2008-07-31,NA,GU131932,contact author for access,DENV-2,DENV-2,Cambodia,contact author for access,contact author for access,NA,NA,Kampong Chhnaang,2008
+GU370048_2008-02-15,NA,GU370048,contact author for access,DENV-1,NA,Singapore,contact author for access,contact author for access,NA,NA,,2008
+GU370049_2008-09-15,NA,GU370049,contact author for access,DENV-1,NA,Singapore,contact author for access,contact author for access,NA,NA,,2008
+HM181936_2006-07-31,NA,HM181936,contact author for access,DENV-1,DENV-1,Cambodia,contact author for access,contact author for access,NA,NA,Kampong Chhnaang,2006
+HM181937_2006-07-31,NA,HM181937,contact author for access,DENV-1,DENV-1,Cambodia,contact author for access,contact author for access,NA,NA,Kampong Chhnaang,2006
+HM181938_2006-07-31,NA,HM181938,contact author for access,DENV-1,DENV-1,Cambodia,contact author for access,contact author for access,NA,NA,Kampong Chhnaang,2006
+HM181939_2006-07-31,NA,HM181939,contact author for access,DENV-1,DENV-1,Cambodia,contact author for access,contact author for access,NA,NA,Kampong Chhnaang,2006
+HM181940_2006-07-31,NA,HM181940,contact author for access,DENV-1,DENV-1,Cambodia,contact author for access,contact author for access,NA,NA,Kampong Chhnaang,2006
+HM181941_2006-07-31,NA,HM181941,contact author for access,DENV-1,DENV-1,Cambodia,contact author for access,contact author for access,NA,NA,Kampong Chhnaang,2006
+HM181942_2006-07-31,NA,HM181942,contact author for access,DENV-1,DENV-1,Cambodia,contact author for access,contact author for access,NA,NA,Kampong Chhnaang,2006
+HM181943_2007-07-31,NA,HM181943,contact author for access,DENV-1,DENV-1,Cambodia,contact author for access,contact author for access,NA,NA,Kampong Chhnaang,2007
+HM181944_2007-07-31,NA,HM181944,contact author for access,DENV-1,DENV-1,Cambodia,contact author for access,contact author for access,NA,NA,Kampong Chhnaang,2007
+HM181945_2007-07-31,NA,HM181945,contact author for access,DENV-1,DENV-1,Cambodia,contact author for access,contact author for access,NA,NA,Kampong Chhnaang,2007
+HM181946_2007-07-31,NA,HM181946,contact author for access,DENV-1,DENV-1,Cambodia,contact author for access,contact author for access,NA,NA,Kampong Chhnaang,2007
+HM181947_2007-07-31,NA,HM181947,contact author for access,DENV-1,DENV-1,Cambodia,contact author for access,contact author for access,NA,NA,Kampong Chhnaang,2007
+HM181948_2007-07-31,NA,HM181948,contact author for access,DENV-1,DENV-1,Cambodia,contact author for access,contact author for access,NA,NA,Kampong Chhnaang,2007
+HM181949_2007-07-31,NA,HM181949,contact author for access,DENV-1,DENV-1,Cambodia,contact author for access,contact author for access,NA,NA,Kampong Chhnaang,2007
+HM181950_2007-07-31,NA,HM181950,contact author for access,DENV-1,DENV-1,Cambodia,contact author for access,contact author for access,NA,NA,Kampong Chhnaang,2007
+HM181951_2007-07-31,NA,HM181951,contact author for access,DENV-1,DENV-1,Cambodia,contact author for access,contact author for access,NA,NA,Kampong Chhnaang,2007
+HM181952_2007-07-31,NA,HM181952,contact author for access,DENV-1,DENV-1,Cambodia,contact author for access,contact author for access,NA,NA,Kampong Chhnaang,2007
+HM181953_2007-07-31,NA,HM181953,contact author for access,DENV-1,DENV-1,Cambodia,contact author for access,contact author for access,NA,NA,Kampong Chhnaang,2007
+HM181954_2007-07-31,NA,HM181954,contact author for access,DENV-1,DENV-1,Cambodia,contact author for access,contact author for access,NA,NA,Kampong Chhnaang,2007
+HM181955_2007-07-31,NA,HM181955,contact author for access,DENV-1,DENV-1,Cambodia,contact author for access,contact author for access,NA,NA,Kampong Chhnaang,2007
+HM181956_2007-07-31,NA,HM181956,contact author for access,DENV-1,DENV-1,Cambodia,contact author for access,contact author for access,NA,NA,Kampong Chhnaang,2007
+HM181957_2007-07-31,NA,HM181957,contact author for access,DENV-1,DENV-1,Cambodia,contact author for access,contact author for access,NA,NA,Kampong Chhnaang,2007
+HM181958_2007-07-31,NA,HM181958,contact author for access,DENV-1,DENV-1,Cambodia,contact author for access,contact author for access,NA,NA,Kampong Chhnaang,2007
+HM181959_2007-07-31,NA,HM181959,contact author for access,DENV-1,DENV-1,Cambodia,contact author for access,contact author for access,NA,NA,Kampong Chhnaang,2007
+HM469966_2007-07-27,NA,HM469966,contact author for access,DENV-1,NA,Thailand,contact author for access,contact author for access,NA,NA,,2007
+HM469968_2007-07-24,NA,HM469968,contact author for access,DENV-1,NA,Thailand,contact author for access,contact author for access,NA,NA,,2007
+HM488255_2007-07-31,NA,HM488255,contact author for access,DENV-1,DENV-1,Cambodia,contact author for access,contact author for access,NA,NA,Kampong Chhnaang,2007
+HM631852_2006-07-31,NA,HM631852,contact author for access,DENV-1,DENV-1,Cambodia,contact author for access,contact author for access,NA,NA,Kampong Chhnaang,2006
+HM631853_2007-07-31,NA,HM631853,contact author for access,DENV-1,DENV-1,Cambodia,contact author for access,contact author for access,NA,NA,Kampong Chhnaang,2007
+HQ624983_2007-07-31,NA,HQ624983,contact author for access,DENV-1,DENV-1,Cambodia,contact author for access,contact author for access,NA,NA,Kampong Chhnaang,2007
+HQ624984_2007-07-31,NA,HQ624984,contact author for access,DENV-1,DENV-1,Cambodia,contact author for access,contact author for access,NA,NA,Kampong Chhnaang,2007
+JF459993_2002-07-31,NA,JF459993,contact author for access,DENV-1,NA,Myanmar,contact author for access,contact author for access,NA,NA,,2002
+JF730044_2001-07-31,NA,JF730044,contact author for access,DENV-2,Asian-1,Cambodia,contact author for access,contact author for access,NA,NA,,2001
+JF730045_2008-07-31,NA,JF730045,contact author for access,DENV-2,Asian-1,Cambodia,contact author for access,contact author for access,NA,NA,Kampong Chhnaang,2008
+JF730046_2008-07-31,NA,JF730046,contact author for access,DENV-2,Asian-1,Cambodia,contact author for access,contact author for access,NA,NA,Kampong Chhnaang,2008
+JF730047_2008-07-31,NA,JF730047,contact author for access,DENV-2,Asian-1,Cambodia,contact author for access,contact author for access,NA,NA,Kampong Chhnaang,2008
+JF730048_2008-07-31,NA,JF730048,contact author for access,DENV-2,Asian-1,Cambodia,contact author for access,contact author for access,NA,NA,Kampong Chhnaang,2008
+JF937651_2008-07-31,NA,JF937651,contact author for access,DENV-1,DENV-1,Cambodia,contact author for access,contact author for access,NA,NA,Kampong Chhnaang,2008
+JF960211_2009-07-31,NA,JF960211,contact author for access,DENV-1,NA,Singapore,contact author for access,contact author for access,NA,NA,,2009
+JN368476_2007-07-31,NA,JN368476,contact author for access,DENV-2,DENV-2,Cambodia,contact author for access,contact author for access,NA,NA,Kampong Chhnaang,2007
+JN544407_2011-04-15,NA,JN544407,contact author for access,DENV-1,NA,Singapore,contact author for access,contact author for access,NA,NA,,2011
+JN697056_2005-01-01,NA,JN697056,contact author for access,DENV-1,NA,Malaysia,contact author for access,contact author for access,NA,NA,,2005
+JN697057_2005-01-11,NA,JN697057,contact author for access,DENV-1,NA,Malaysia,contact author for access,contact author for access,NA,NA,,2005
+JN697058_2005-01-12,NA,JN697058,contact author for access,DENV-1,NA,Malaysia,contact author for access,contact author for access,NA,NA,,2005
+JN819423_2001-07-31,NA,JN819423,contact author for access,DENV-1,DENV-1,Cambodia,contact author for access,contact author for access,NA,NA,Kampong Chhnaang,2001
+JN851113_2006-07-31,NA,JN851113,contact author for access,DENV-2,NA,Singapore,contact author for access,contact author for access,NA,NA,,2006
+JN851115_2007-07-31,NA,JN851115,contact author for access,DENV-2,NA,Singapore,contact author for access,contact author for access,NA,NA,,2007
+JN851118_2008-07-31,NA,JN851118,contact author for access,DENV-2,NA,Singapore,contact author for access,contact author for access,NA,NA,,2008
+JN851121_2008-07-31,NA,JN851121,contact author for access,DENV-2,NA,Singapore,contact author for access,contact author for access,NA,NA,,2008
+JN851123_2004-07-31,NA,JN851123,contact author for access,DENV-2,NA,Singapore,contact author for access,contact author for access,NA,NA,,2004
+JN851125_2005-07-31,NA,JN851125,contact author for access,DENV-2,NA,Singapore,contact author for access,contact author for access,NA,NA,,2005
+JN851127_2004-07-31,NA,JN851127,contact author for access,DENV-2,NA,Singapore,contact author for access,contact author for access,NA,NA,,2004
+JN851128_2006-07-31,NA,JN851128,contact author for access,DENV-2,NA,Singapore,contact author for access,contact author for access,NA,NA,,2006
+JN851129_2006-07-31,NA,JN851129,contact author for access,DENV-2,NA,Singapore,contact author for access,contact author for access,NA,NA,,2006
+JQ287664_2004-07-31,NA,JQ287664,contact author for access,DENV-1,DENV-1,Cambodia,contact author for access,contact author for access,NA,NA,Kampong Chhnaang,2004
+JQ287665_2007-07-31,NA,JQ287665,contact author for access,DENV-1,DENV-1,Cambodia,contact author for access,contact author for access,NA,NA,Kampong Chhnaang,2007
+KC172829_2008-12-15,NA,KC172829,contact author for access,DENV-1,NA,Laos,contact author for access,contact author for access,NA,NA,,2008
+KC172835_2008-12-24,NA,KC172835,contact author for access,DENV-1,NA,Laos,contact author for access,contact author for access,NA,NA,,2008
+KC762628_2008-02-19,NA,KC762628,contact author for access,DENV-1,NA,Indonesia,contact author for access,contact author for access,NA,NA,,2008
+KC762632_2007-08-31,NA,KC762632,contact author for access,DENV-1,NA,Indonesia,contact author for access,contact author for access,NA,NA,,2007
+KC762633_2008-04-18,NA,KC762633,contact author for access,DENV-1,NA,Indonesia,contact author for access,contact author for access,NA,NA,,2008
+KC762634_2008-04-10,NA,KC762634,contact author for access,DENV-1,NA,Indonesia,contact author for access,contact author for access,NA,NA,,2008
+KC762636_2007-09-27,NA,KC762636,contact author for access,DENV-1,NA,Indonesia,contact author for access,contact author for access,NA,NA,,2007
+KC762639_2010-04-06,NA,KC762639,contact author for access,DENV-1,NA,Indonesia,contact author for access,contact author for access,NA,NA,,2010
+KC762642_2010-07-08,NA,KC762642,contact author for access,DENV-1,NA,Indonesia,contact author for access,contact author for access,NA,NA,,2010
+KC762646_2007-08-08,NA,KC762646,contact author for access,DENV-1,NA,Indonesia,contact author for access,contact author for access,NA,NA,,2007
+KC762657_2008-04-23,NA,KC762657,contact author for access,DENV-2,NA,Indonesia,contact author for access,contact author for access,NA,NA,,2008
+KC762658_2007-08-14,NA,KC762658,contact author for access,DENV-2,NA,Indonesia,contact author for access,contact author for access,NA,NA,,2007
+KC762659_2008-04-15,NA,KC762659,contact author for access,DENV-2,NA,Indonesia,contact author for access,contact author for access,NA,NA,,2008
+KC762661_2007-09-24,NA,KC762661,contact author for access,DENV-2,NA,Indonesia,contact author for access,contact author for access,NA,NA,,2007
+KC762666_2008-02-15,NA,KC762666,contact author for access,DENV-2,NA,Indonesia,contact author for access,contact author for access,NA,NA,,2008
+KC762676_2007-07-17,NA,KC762676,contact author for access,DENV-2,NA,Indonesia,contact author for access,contact author for access,NA,NA,,2007
+KC762678_2010-03-04,NA,KC762678,contact author for access,DENV-2,NA,Indonesia,contact author for access,contact author for access,NA,NA,,2010
+KC762679_2010-03-29,NA,KC762679,contact author for access,DENV-2,NA,Indonesia,contact author for access,contact author for access,NA,NA,,2010
+KC762680_2010-04-05,NA,KC762680,contact author for access,DENV-2,NA,Indonesia,contact author for access,contact author for access,NA,NA,,2010
+KF744397_2001-07-31,NA,KF744397,contact author for access,DENV-2,NA,Philippines,contact author for access,contact author for access,NA,NA,,2001
+KF744398_2005-07-31,NA,KF744398,contact author for access,DENV-2,NA,Philippines,contact author for access,contact author for access,NA,NA,,2005
+KF744400_2000-07-31,NA,KF744400,contact author for access,DENV-2,NA,Philippines,contact author for access,contact author for access,NA,NA,,2000
+KF744401_2000-07-31,NA,KF744401,contact author for access,DENV-2,NA,Philippines,contact author for access,contact author for access,NA,NA,,2000
+KF744402_2000-07-31,NA,KF744402,contact author for access,DENV-2,NA,Philippines,contact author for access,contact author for access,NA,NA,,2000
+KF744408_2005-07-31,NA,KF744408,contact author for access,DENV-2,NA,Philippines,contact author for access,contact author for access,NA,NA,,2005
+KF921930_2002-07-31,NA,KF921930,contact author for access,DENV-2,Asian-1,Cambodia,contact author for access,contact author for access,NA,NA,,2002
+KF921931_2003-07-31,NA,KF921931,contact author for access,DENV-2,Asian-1,Cambodia,contact author for access,contact author for access,NA,NA,,2003
+KF921932_2007-07-31,NA,KF921932,contact author for access,DENV-1,DENV-1,Cambodia,contact author for access,contact author for access,NA,NA,,2007
+KF921933_2007-07-31,NA,KF921933,contact author for access,DENV-1,DENV-1,Cambodia,contact author for access,contact author for access,NA,NA,,2007
+KF921949_2008-07-31,NA,KF921949,contact author for access,DENV-1,NA,Vietnam,contact author for access,contact author for access,NA,NA,,2008
+KF955401_2008-07-31,NA,KF955401,contact author for access,DENV-2,DENV-2,Cambodia,contact author for access,contact author for access,NA,NA,,2008
+KF955402_2008-07-31,NA,KF955402,contact author for access,DENV-2,DENV-2,Cambodia,contact author for access,contact author for access,NA,NA,,2008
+KF955406_2001-07-31,NA,KF955406,contact author for access,DENV-1,DENV-1,Cambodia,contact author for access,contact author for access,NA,NA,,2001
+KF955444_2007-07-31,NA,KF955444,contact author for access,DENV-1,DENV-1,Cambodia,contact author for access,contact author for access,NA,NA,,2007
+KJ806961_2014-07-31,NA,KJ806961,contact author for access,DENV-1,NA,Singapore,contact author for access,contact author for access,NA,NA,,2014
+KM279520_2011-07-31,NA,KM279520,contact author for access,DENV-2,NA,Singapore,contact author for access,contact author for access,NA,NA,,2011
+KM279583_2011-07-31,NA,KM279583,contact author for access,DENV-2,NA,Singapore,contact author for access,contact author for access,NA,NA,,2011
+KM279589_2012-07-31,NA,KM279589,contact author for access,DENV-2,NA,Singapore,contact author for access,contact author for access,NA,NA,,2012
+KM279603_2007-07-31,NA,KM279603,contact author for access,DENV-2,NA,Singapore,contact author for access,contact author for access,NA,NA,,2007
+KM279610_2010-07-31,NA,KM279610,contact author for access,DENV-2,NA,Singapore,contact author for access,contact author for access,NA,NA,,2010
+KM403575_2012-07-31,NA,KM403575,contact author for access,DENV-1,NA,Singapore,contact author for access,contact author for access,NA,NA,,2012
+KM403581_2013-07-31,NA,KM403581,contact author for access,DENV-1,NA,Singapore,contact author for access,contact author for access,NA,NA,,2013
+KM403592_2013-07-31,NA,KM403592,contact author for access,DENV-1,NA,Singapore,contact author for access,contact author for access,NA,NA,,2013
+KM403634_2013-07-31,NA,KM403634,contact author for access,DENV-1,NA,Singapore,contact author for access,contact author for access,NA,NA,,2013
+KR779783_2011-07-31,NA,KR779783,contact author for access,DENV-1,NA,Singapore,contact author for access,contact author for access,NA,NA,,2011
+KT831765_2014-09-15,NA,KT831765,contact author for access,DENV-1,NA,Indonesia,contact author for access,contact author for access,NA,NA,,2014
+KU509257_2008-07-31,NA,KU509257,contact author for access,DENV-1,NA,Thailand,contact author for access,contact author for access,NA,NA,,2008
+KU509259_2008-07-31,NA,KU509259,contact author for access,DENV-1,NA,Thailand,contact author for access,contact author for access,NA,NA,,2008
+KU509260_2008-07-31,NA,KU509260,contact author for access,DENV-1,DENV-1,Cambodia,contact author for access,contact author for access,NA,NA,,2008
+KU509261_2010-07-31,NA,KU509261,contact author for access,DENV-1,NA,Indonesia,contact author for access,contact author for access,NA,NA,,2010
+KU509262_2008-07-31,NA,KU509262,contact author for access,DENV-1,NA,Thailand,contact author for access,contact author for access,NA,NA,,2008
+KU509263_2012-07-31,NA,KU509263,contact author for access,DENV-1,NA,Thailand,contact author for access,contact author for access,NA,NA,,2012
+KU509268_2009-07-31,NA,KU509268,contact author for access,DENV-2,NA,Indonesia,contact author for access,contact author for access,NA,NA,,2009
+KU509269_2009-07-31,NA,KU509269,contact author for access,DENV-2,NA,Philippines,contact author for access,contact author for access,NA,NA,,2009
+KU509274_2010-07-31,NA,KU509274,contact author for access,DENV-2,NA,Philippines,contact author for access,contact author for access,NA,NA,,2010
+KU509275_2008-07-31,NA,KU509275,contact author for access,DENV-2,NA,Philippines,contact author for access,contact author for access,NA,NA,,2008
+KU509276_2008-07-31,NA,KU509276,contact author for access,DENV-2,NA,Philippines,contact author for access,contact author for access,NA,NA,,2008
+KU509277_2010-07-31,NA,KU509277,contact author for access,DENV-2,NA,Philippines,contact author for access,contact author for access,NA,NA,,2010
+KU517846_2014-05-07,NA,KU517846,contact author for access,DENV-2,NA,Indonesia,contact author for access,contact author for access,NA,NA,,2014
+KU517847_2015-08-03,NA,KU517847,contact author for access,DENV-2,NA,Philippines,contact author for access,contact author for access,NA,NA,,2015
+KU666949_2014-01-15,NA,KU666949,contact author for access,DENV-2,NA,Malaysia,contact author for access,contact author for access,NA,NA,,2014
+KX380796_2012-07-31,NA,KX380796,contact author for access,DENV-1,NA,Singapore,contact author for access,contact author for access,NA,NA,,2012
+KX380798_2012-07-31,NA,KX380798,contact author for access,DENV-1,NA,Singapore,contact author for access,contact author for access,NA,NA,,2012
+KX380812_2012-07-31,NA,KX380812,contact author for access,DENV-2,NA,Singapore,contact author for access,contact author for access,NA,NA,,2012
+KX380829_2013-07-31,NA,KX380829,contact author for access,DENV-2,NA,Singapore,contact author for access,contact author for access,NA,NA,,2013
+KX380838_2013-07-31,NA,KX380838,contact author for access,DENV-2,NA,Singapore,contact author for access,contact author for access,NA,NA,,2013
+KX452024_2014-01-15,NA,KX452024,contact author for access,DENV-2,NA,Malaysia,contact author for access,contact author for access,NA,NA,,2014
+KX452033_2014-01-15,NA,KX452033,contact author for access,DENV-2,NA,Malaysia,contact author for access,contact author for access,NA,NA,,2014
+KX452055_2014-01-15,NA,KX452055,contact author for access,DENV-1,NA,Malaysia,contact author for access,contact author for access,NA,NA,,2014
+KX452060_2014-01-15,NA,KX452060,contact author for access,DENV-1,NA,Malaysia,contact author for access,contact author for access,NA,NA,,2014
+KX452064_2014-01-15,NA,KX452064,contact author for access,DENV-1,NA,Malaysia,contact author for access,contact author for access,NA,NA,,2014
+KX595191_2013-07-13,NA,KX595191,contact author for access,DENV-1,NA,Vietnam,contact author for access,contact author for access,NA,NA,,2013
+KY057365_2012-07-31,NA,KY057365,contact author for access,DENV-1,NA,Indonesia,contact author for access,contact author for access,NA,NA,,2012
+KY057371_2012-07-31,NA,KY057371,contact author for access,DENV-1,NA,Indonesia,contact author for access,contact author for access,NA,NA,,2012
+KY057373_2012-07-31,NA,KY057373,contact author for access,DENV-1,NA,Indonesia,contact author for access,contact author for access,NA,NA,,2012
+KY849704_2011-07-02,NA,KY849704,contact author for access,DENV-1,NA,Laos,contact author for access,contact author for access,NA,NA,,2011
+KY849706_2008-10-22,NA,KY849706,contact author for access,DENV-1,NA,Laos,contact author for access,contact author for access,NA,NA,,2008
+KY849707_2009-01-27,NA,KY849707,contact author for access,DENV-1,NA,Laos,contact author for access,contact author for access,NA,NA,,2009
+KY849724_2009-07-07,NA,KY849724,contact author for access,DENV-1,NA,Laos,contact author for access,contact author for access,NA,NA,,2009
+KY849727_2009-10-28,NA,KY849727,contact author for access,DENV-1,NA,Laos,contact author for access,contact author for access,NA,NA,,2009
+KY849734_2010-08-26,NA,KY849734,contact author for access,DENV-1,NA,Laos,contact author for access,contact author for access,NA,NA,,2010
+KY849736_2010-08-30,NA,KY849736,contact author for access,DENV-1,NA,Laos,contact author for access,contact author for access,NA,NA,,2010
+KY849737_2010-10-13,NA,KY849737,contact author for access,DENV-1,NA,Laos,contact author for access,contact author for access,NA,NA,,2010
+KY849752_2008-09-07,NA,KY849752,contact author for access,DENV-2,NA,Laos,contact author for access,contact author for access,NA,NA,,2008
+KY849754_2009-06-23,NA,KY849754,contact author for access,DENV-2,NA,Laos,contact author for access,contact author for access,NA,NA,,2009
+KY849755_2010-06-29,NA,KY849755,contact author for access,DENV-2,NA,Laos,contact author for access,contact author for access,NA,NA,,2010
+KY849758_2009-10-14,NA,KY849758,contact author for access,DENV-2,NA,Laos,contact author for access,contact author for access,NA,NA,,2009
+KY849759_2008-12-06,NA,KY849759,contact author for access,DENV-2,NA,Laos,contact author for access,contact author for access,NA,NA,,2008
+KY849765_2009-11-06,NA,KY849765,contact author for access,DENV-2,NA,Laos,contact author for access,contact author for access,NA,NA,,2009
+KY849766_2010-04-29,NA,KY849766,contact author for access,DENV-2,NA,Laos,contact author for access,contact author for access,NA,NA,,2010
+KY849768_2010-08-13,NA,KY849768,contact author for access,DENV-2,NA,Laos,contact author for access,contact author for access,NA,NA,,2010
+KY923048_2015-07-31,NA,KY923048,contact author for access,DENV-2,NA,Malaysia,contact author for access,contact author for access,NA,NA,,2015
+LC128301_2016-01-15,NA,LC128301,contact author for access,DENV-1,NA,Philippines,contact author for access,contact author for access,NA,NA,,2016
+LC410183_2017-04-15,NA,LC410183,contact author for access,DENV-1,NA,Thailand,contact author for access,contact author for access,NA,NA,,2017
+LC410185_2016-11-15,NA,LC410185,contact author for access,DENV-2,NA,Thailand,contact author for access,contact author for access,NA,NA,,2016
+LC410186_2016-12-15,NA,LC410186,contact author for access,DENV-2,NA,Thailand,contact author for access,contact author for access,NA,NA,,2016
+LC410187_2017-01-15,NA,LC410187,contact author for access,DENV-2,NA,Thailand,contact author for access,contact author for access,NA,NA,,2017
+LC410188_2017-02-15,NA,LC410188,contact author for access,DENV-2,NA,Thailand,contact author for access,contact author for access,NA,NA,,2017
+LC410189_2016-10-15,NA,LC410189,contact author for access,DENV-2,NA,Thailand,contact author for access,contact author for access,NA,NA,,2016
+LC410191_2017-02-15,NA,LC410191,contact author for access,DENV-2,NA,Thailand,contact author for access,contact author for access,NA,NA,,2017
+LC652827_2015-11-15,NA,LC652827,contact author for access,DENV-1,NA,Thailand,contact author for access,contact author for access,NA,NA,,2015
+LC652828_2015-11-15,NA,LC652828,contact author for access,DENV-1,NA,Thailand,contact author for access,contact author for access,NA,NA,,2015
+MF033196_2011-10-15,NA,MF033196,contact author for access,DENV-1,NA,Singapore,contact author for access,contact author for access,NA,NA,,2011
+MF033217_2014-05-15,NA,MF033217,contact author for access,DENV-1,NA,Singapore,contact author for access,contact author for access,NA,NA,,2014
+MF033221_2014-07-15,NA,MF033221,contact author for access,DENV-1,NA,Singapore,contact author for access,contact author for access,NA,NA,,2014
+MF033232_2015-03-15,NA,MF033232,contact author for access,DENV-1,NA,Singapore,contact author for access,contact author for access,NA,NA,,2015
+MF033234_2015-02-15,NA,MF033234,contact author for access,DENV-1,NA,Singapore,contact author for access,contact author for access,NA,NA,,2015
+MF033240_2015-11-15,NA,MF033240,contact author for access,DENV-1,NA,Singapore,contact author for access,contact author for access,NA,NA,,2015
+MF033253_2016-05-15,NA,MF033253,contact author for access,DENV-1,NA,Singapore,contact author for access,contact author for access,NA,NA,,2016
+MF033255_2016-08-15,NA,MF033255,contact author for access,DENV-1,NA,Singapore,contact author for access,contact author for access,NA,NA,,2016
+MG877552_2012-07-31,NA,MG877552,contact author for access,DENV-1,NA,Laos,contact author for access,contact author for access,NA,NA,,2012
+MG877556_2013-07-31,NA,MG877556,contact author for access,DENV-1,NA,Thailand,contact author for access,contact author for access,NA,NA,,2013
+MH823207_2015-07-31,NA,MH823207,contact author for access,DENV-1,NA,Indonesia,contact author for access,contact author for access,NA,NA,,2015
+MH823208_2014-07-31,NA,MH823208,contact author for access,DENV-2,NA,Indonesia,contact author for access,contact author for access,NA,NA,,2014
+MH888331_2014-08-15,NA,MH888331,contact author for access,DENV-2,NA,Thailand,contact author for access,contact author for access,NA,NA,,2014
+MK411558_2016-02-20,NA,MK411558,contact author for access,DENV-2,NA,Indonesia,contact author for access,contact author for access,NA,NA,,2016
+MK411559_2016-02-23,NA,MK411559,contact author for access,DENV-2,NA,Indonesia,contact author for access,contact author for access,NA,NA,,2016
+MK506264_2007-06-15,NA,MK506264,contact author for access,DENV-2,NA,Thailand,contact author for access,contact author for access,NA,NA,,2007
+MN448637_2010-09-14,NA,MN448637,contact author for access,DENV-1,NA,Thailand,contact author for access,contact author for access,NA,NA,,2010
+MN448650_2011-06-14,NA,MN448650,contact author for access,DENV-1,NA,Thailand,contact author for access,contact author for access,NA,NA,,2011
+MN448677_2011-11-09,NA,MN448677,contact author for access,DENV-1,NA,Thailand,contact author for access,contact author for access,NA,NA,,2011
+MN448693_2012-10-02,NA,MN448693,contact author for access,DENV-1,NA,Thailand,contact author for access,contact author for access,NA,NA,,2012
+MN448695_2012-11-05,NA,MN448695,contact author for access,DENV-1,NA,Thailand,contact author for access,contact author for access,NA,NA,,2012
+MN448729_2012-05-15,NA,MN448729,contact author for access,DENV-2,NA,Thailand,contact author for access,contact author for access,NA,NA,,2012
+MN448738_2012-05-01,NA,MN448738,contact author for access,DENV-2,NA,Thailand,contact author for access,contact author for access,NA,NA,,2012
+MN448796_2010-12-13,NA,MN448796,contact author for access,DENV-2,NA,Thailand,contact author for access,contact author for access,NA,NA,,2010
+MN448807_2011-08-22,NA,MN448807,contact author for access,DENV-2,NA,Thailand,contact author for access,contact author for access,NA,NA,,2011
+MN448808_2011-05-03,NA,MN448808,contact author for access,DENV-2,NA,Thailand,contact author for access,contact author for access,NA,NA,,2011
+MN448877_2009-11-11,NA,MN448877,contact author for access,DENV-2,NA,Thailand,contact author for access,contact author for access,NA,NA,,2009
+MN448905_2009-11-30,NA,MN448905,contact author for access,DENV-2,NA,Thailand,contact author for access,contact author for access,NA,NA,,2009
+MN448906_2011-05-12,NA,MN448906,contact author for access,DENV-2,NA,Thailand,contact author for access,contact author for access,NA,NA,,2011
+MN448907_2009-11-03,NA,MN448907,contact author for access,DENV-2,NA,Thailand,contact author for access,contact author for access,NA,NA,,2009
+MN448908_2010-08-17,NA,MN448908,contact author for access,DENV-2,NA,Thailand,contact author for access,contact author for access,NA,NA,,2010
+MN448925_2010-10-05,NA,MN448925,contact author for access,DENV-2,NA,Thailand,contact author for access,contact author for access,NA,NA,,2010
+MN912111_2017-07-06,NA,MN912111,contact author for access,DENV-1,NA,Vietnam,contact author for access,contact author for access,NA,NA,,2017
+MN912142_2017-07-12,NA,MN912142,contact author for access,DENV-1,NA,Vietnam,contact author for access,contact author for access,NA,NA,,2017
+MN912166_2017-07-18,NA,MN912166,contact author for access,DENV-1,NA,Vietnam,contact author for access,contact author for access,NA,NA,,2017
+MT397277_2015-11-15,NA,MT397277,contact author for access,DENV-1,NA,Thailand,contact author for access,contact author for access,NA,NA,,2015
+MT832033_2015-07-31,NA,MT832033,contact author for access,DENV-1,NA,Philippines,contact author for access,contact author for access,NA,NA,,2015
+MT832034_2015-07-31,NA,MT832034,contact author for access,DENV-1,NA,Philippines,contact author for access,contact author for access,NA,NA,,2015
+MT832037_2012-07-31,NA,MT832037,contact author for access,DENV-1,NA,Philippines,contact author for access,contact author for access,NA,NA,,2012
+MT832039_2012-07-31,NA,MT832039,contact author for access,DENV-1,NA,Philippines,contact author for access,contact author for access,NA,NA,,2012
+MT832044_2013-07-31,NA,MT832044,contact author for access,DENV-1,NA,Philippines,contact author for access,contact author for access,NA,NA,,2013
+MT832045_2013-07-31,NA,MT832045,contact author for access,DENV-1,NA,Philippines,contact author for access,contact author for access,NA,NA,,2013
+MT832048_2013-07-31,NA,MT832048,contact author for access,DENV-1,NA,Philippines,contact author for access,contact author for access,NA,NA,,2013
+MT832052_2012-07-31,NA,MT832052,contact author for access,DENV-1,NA,Philippines,contact author for access,contact author for access,NA,NA,,2012
+MT832053_2014-07-31,NA,MT832053,contact author for access,DENV-2,NA,Philippines,contact author for access,contact author for access,NA,NA,,2014
+MT832054_2014-07-31,NA,MT832054,contact author for access,DENV-2,NA,Philippines,contact author for access,contact author for access,NA,NA,,2014
+MT832057_2015-07-31,NA,MT832057,contact author for access,DENV-2,NA,Philippines,contact author for access,contact author for access,NA,NA,,2015
+MT832058_2015-07-31,NA,MT832058,contact author for access,DENV-2,NA,Philippines,contact author for access,contact author for access,NA,NA,,2015
+MT832060_2014-07-31,NA,MT832060,contact author for access,DENV-2,NA,Philippines,contact author for access,contact author for access,NA,NA,,2014
+MT832067_2013-07-31,NA,MT832067,contact author for access,DENV-2,NA,Philippines,contact author for access,contact author for access,NA,NA,,2013
+MT832073_2013-07-31,NA,MT832073,contact author for access,DENV-2,NA,Philippines,contact author for access,contact author for access,NA,NA,,2013
+MT832075_2013-07-31,NA,MT832075,contact author for access,DENV-2,NA,Philippines,contact author for access,contact author for access,NA,NA,,2013
+MW186240_2019-10-15,NA,MW186240,contact author for access,DENV-2,NA,Singapore,contact author for access,contact author for access,NA,NA,,2019
+MW265664_2016-04-06,NA,MW265664,contact author for access,DENV-1,DENV-1,Cambodia,contact author for access,contact author for access,NA,NA,Mondul Kiri,2016
+MW265665_2016-08-07,NA,MW265665,contact author for access,DENV-1,DENV-1,Cambodia,contact author for access,contact author for access,NA,NA,Tboung Khmum,2016
+MW265666_2016-08-22,NA,MW265666,contact author for access,DENV-1,DENV-1,Cambodia,contact author for access,contact author for access,NA,NA,Siem Reap,2016
+MW265667_2016-02-09,NA,MW265667,contact author for access,DENV-1,DENV-1,Cambodia,contact author for access,contact author for access,NA,NA,Siem Reap,2016
+MW265668_2011-05-23,NA,MW265668,contact author for access,DENV-1,DENV-1,Cambodia,contact author for access,contact author for access,NA,NA,Battambang,2011
+MW265669_2011-02-06,NA,MW265669,contact author for access,DENV-1,DENV-1,Cambodia,contact author for access,contact author for access,NA,NA,Prey Veng,2011
+MW265670_2012-01-19,NA,MW265670,contact author for access,DENV-1,DENV-1,Cambodia,contact author for access,contact author for access,NA,NA,Phnom Penh,2012
+MW265671_2012-04-29,NA,MW265671,contact author for access,DENV-1,DENV-1,Cambodia,contact author for access,contact author for access,NA,NA,Battambang,2012
+MW265672_2013-01-28,NA,MW265672,contact author for access,DENV-1,DENV-1,Cambodia,contact author for access,contact author for access,NA,NA,Phnom Penh,2013
+MW265673_2014-05-22,NA,MW265673,contact author for access,DENV-1,DENV-1,Cambodia,contact author for access,contact author for access,NA,NA,Phnom Penh,2014
+MW265674_2014-06-25,NA,MW265674,contact author for access,DENV-1,DENV-1,Cambodia,contact author for access,contact author for access,NA,NA,Takeo,2014
+MW265675_2014-08-07,NA,MW265675,contact author for access,DENV-1,DENV-1,Cambodia,contact author for access,contact author for access,NA,NA,Kampong Speu,2014
+MW265676_2014-11-25,NA,MW265676,contact author for access,DENV-1,DENV-1,Cambodia,contact author for access,contact author for access,NA,NA,Phnom Penh,2014
+MW265677_2015-06-19,NA,MW265677,contact author for access,DENV-1,DENV-1,Cambodia,contact author for access,contact author for access,NA,NA,Battambang,2015
+MW265678_2015-09-28,NA,MW265678,contact author for access,DENV-1,DENV-1,Cambodia,contact author for access,contact author for access,NA,NA,Siem Reap,2015
+MW265679_2015-10-06,NA,MW265679,contact author for access,DENV-1,DENV-1,Cambodia,contact author for access,contact author for access,NA,NA,Siem Reap,2015
+MW362472_2005-11-15,NA,MW362472,contact author for access,DENV-1,NA,Thailand,contact author for access,contact author for access,NA,NA,,2005
+MW512341_2004-07-31,NA,MW512341,contact author for access,DENV-2,NA,Singapore,contact author for access,contact author for access,NA,NA,,2004
+MW512345_2007-07-31,NA,MW512345,contact author for access,DENV-2,NA,Singapore,contact author for access,contact author for access,NA,NA,,2007
+MW512354_2009-07-31,NA,MW512354,contact author for access,DENV-2,NA,Singapore,contact author for access,contact author for access,NA,NA,,2009
+MW512355_2009-07-31,NA,MW512355,contact author for access,DENV-2,NA,Singapore,contact author for access,contact author for access,NA,NA,,2009
+MW512356_2009-07-31,NA,MW512356,contact author for access,DENV-2,NA,Singapore,contact author for access,contact author for access,NA,NA,,2009
+MW512357_2010-07-31,NA,MW512357,contact author for access,DENV-2,NA,Singapore,contact author for access,contact author for access,NA,NA,,2010
+MW512359_2010-07-31,NA,MW512359,contact author for access,DENV-2,NA,Singapore,contact author for access,contact author for access,NA,NA,,2010
+MW512367_2011-07-31,NA,MW512367,contact author for access,DENV-2,NA,Singapore,contact author for access,contact author for access,NA,NA,,2011
+MW512377_2012-07-31,NA,MW512377,contact author for access,DENV-2,NA,Singapore,contact author for access,contact author for access,NA,NA,,2012
+MW512391_2013-07-31,NA,MW512391,contact author for access,DENV-2,NA,Singapore,contact author for access,contact author for access,NA,NA,,2013
+MW512417_2014-07-31,NA,MW512417,contact author for access,DENV-2,NA,Singapore,contact author for access,contact author for access,NA,NA,,2014
+MW512418_2014-07-31,NA,MW512418,contact author for access,DENV-2,NA,Singapore,contact author for access,contact author for access,NA,NA,,2014
+MW512428_2014-07-31,NA,MW512428,contact author for access,DENV-2,NA,Singapore,contact author for access,contact author for access,NA,NA,,2014
+MW512440_2015-07-31,NA,MW512440,contact author for access,DENV-2,NA,Singapore,contact author for access,contact author for access,NA,NA,,2015
+MW512442_2015-07-31,NA,MW512442,contact author for access,DENV-2,NA,Singapore,contact author for access,contact author for access,NA,NA,,2015
+MW512445_2015-07-31,NA,MW512445,contact author for access,DENV-2,NA,Singapore,contact author for access,contact author for access,NA,NA,,2015
+MW512451_2016-07-31,NA,MW512451,contact author for access,DENV-2,NA,Singapore,contact author for access,contact author for access,NA,NA,,2016
+MW512452_2016-07-31,NA,MW512452,contact author for access,DENV-2,NA,Singapore,contact author for access,contact author for access,NA,NA,,2016
+MW512462_2016-07-31,NA,MW512462,contact author for access,DENV-2,NA,Singapore,contact author for access,contact author for access,NA,NA,,2016
+MW512475_2017-07-31,NA,MW512475,contact author for access,DENV-2,NA,Singapore,contact author for access,contact author for access,NA,NA,,2017
+MW512478_2017-07-31,NA,MW512478,contact author for access,DENV-2,NA,Singapore,contact author for access,contact author for access,NA,NA,,2017
+MW512480_2018-07-31,NA,MW512480,contact author for access,DENV-2,NA,Singapore,contact author for access,contact author for access,NA,NA,,2018
+MW512481_2018-07-31,NA,MW512481,contact author for access,DENV-2,NA,Singapore,contact author for access,contact author for access,NA,NA,,2018
+MW512484_2018-07-31,NA,MW512484,contact author for access,DENV-2,NA,Singapore,contact author for access,contact author for access,NA,NA,,2018
+MW512490_2019-07-31,NA,MW512490,contact author for access,DENV-2,NA,Singapore,contact author for access,contact author for access,NA,NA,,2019
+MW512493_2019-07-31,NA,MW512493,contact author for access,DENV-2,NA,Singapore,contact author for access,contact author for access,NA,NA,,2019
+MW788981_2018-09-15,NA,MW788981,contact author for access,DENV-2,NA,Myanmar,contact author for access,contact author for access,NA,NA,,2018
+MW788982_2018-08-15,NA,MW788982,contact author for access,DENV-2,NA,Myanmar,contact author for access,contact author for access,NA,NA,,2018
+MW788983_2019-09-15,NA,MW788983,contact author for access,DENV-2,NA,Myanmar,contact author for access,contact author for access,NA,NA,,2019
+MW788985_2019-09-15,NA,MW788985,contact author for access,DENV-2,NA,Myanmar,contact author for access,contact author for access,NA,NA,,2019
+MW788987_2019-06-15,NA,MW788987,contact author for access,DENV-2,NA,Myanmar,contact author for access,contact author for access,NA,NA,,2019
+MW793678_2017-07-15,NA,MW793678,contact author for access,DENV-1,NA,Myanmar,contact author for access,contact author for access,NA,NA,,2017
+MW793682_2018-09-15,NA,MW793682,contact author for access,DENV-1,NA,Myanmar,contact author for access,contact author for access,NA,NA,,2018
+MW793683_2017-07-15,NA,MW793683,contact author for access,DENV-1,NA,Myanmar,contact author for access,contact author for access,NA,NA,,2017
+MW793692_2019-10-15,NA,MW793692,contact author for access,DENV-1,NA,Myanmar,contact author for access,contact author for access,NA,NA,,2019
+MW793695_2018-08-15,NA,MW793695,contact author for access,DENV-1,NA,Myanmar,contact author for access,contact author for access,NA,NA,,2018
+MW793701_2018-07-15,NA,MW793701,contact author for access,DENV-1,NA,Myanmar,contact author for access,contact author for access,NA,NA,,2018
+MW793705_2019-05-15,NA,MW793705,contact author for access,DENV-1,NA,Myanmar,contact author for access,contact author for access,NA,NA,,2019
+MW793706_2019-04-15,NA,MW793706,contact author for access,DENV-1,NA,Myanmar,contact author for access,contact author for access,NA,NA,,2019
+MW793708_2017-07-15,NA,MW793708,contact author for access,DENV-1,NA,Myanmar,contact author for access,contact author for access,NA,NA,,2017
+MW945780_2002-07-31,NA,MW945780,contact author for access,DENV-1,NA,Thailand,contact author for access,contact author for access,NA,NA,,2002
+MW945789_2006-07-31,NA,MW945789,contact author for access,DENV-1,NA,Thailand,contact author for access,contact author for access,NA,NA,,2006
+MW945792_2003-07-31,NA,MW945792,contact author for access,DENV-1,NA,Thailand,contact author for access,contact author for access,NA,NA,,2003
+MW945816_2010-07-31,NA,MW945816,contact author for access,DENV-1,NA,Thailand,contact author for access,contact author for access,NA,NA,,2010
+MW945856_2005-07-31,NA,MW945856,contact author for access,DENV-1,NA,Myanmar,contact author for access,contact author for access,NA,NA,,2005
+MW945887_2007-07-31,NA,MW945887,contact author for access,DENV-1,NA,Thailand,contact author for access,contact author for access,NA,NA,,2007
+MW945895_2000-07-31,NA,MW945895,contact author for access,DENV-1,NA,Thailand,contact author for access,contact author for access,NA,NA,,2000
+MW945929_2006-07-31,NA,MW945929,contact author for access,DENV-1,NA,Thailand,contact author for access,contact author for access,NA,NA,,2006
+MW945943_2014-07-31,NA,MW945943,contact author for access,DENV-1,NA,Thailand,contact author for access,contact author for access,NA,NA,,2014
+MW945945_2014-07-31,NA,MW945945,contact author for access,DENV-1,NA,Thailand,contact author for access,contact author for access,NA,NA,,2014
+MW945992_2000-07-31,NA,MW945992,contact author for access,DENV-1,NA,Thailand,contact author for access,contact author for access,NA,NA,,2000
+MW946000_2001-07-31,NA,MW946000,contact author for access,DENV-1,NA,Thailand,contact author for access,contact author for access,NA,NA,,2001
+MW946009_2002-07-31,NA,MW946009,contact author for access,DENV-1,NA,Thailand,contact author for access,contact author for access,NA,NA,,2002
+MW946025_2004-07-31,NA,MW946025,contact author for access,DENV-1,NA,Thailand,contact author for access,contact author for access,NA,NA,,2004
+MW946034_2002-07-31,NA,MW946034,contact author for access,DENV-1,NA,Thailand,contact author for access,contact author for access,NA,NA,,2002
+MW946039_2005-07-31,NA,MW946039,contact author for access,DENV-1,NA,Thailand,contact author for access,contact author for access,NA,NA,,2005
+MW946075_2010-07-31,NA,MW946075,contact author for access,DENV-1,NA,Thailand,contact author for access,contact author for access,NA,NA,,2010
+MW946081_2004-07-31,NA,MW946081,contact author for access,DENV-1,NA,Thailand,contact author for access,contact author for access,NA,NA,,2004
+MW946129_2014-07-31,NA,MW946129,contact author for access,DENV-1,NA,Thailand,contact author for access,contact author for access,NA,NA,,2014
+MW946172_2011-07-31,NA,MW946172,contact author for access,DENV-1,NA,Thailand,contact author for access,contact author for access,NA,NA,,2011
+MW946174_2006-07-31,NA,MW946174,contact author for access,DENV-1,NA,Thailand,contact author for access,contact author for access,NA,NA,,2006
+MW946207_2000-07-31,NA,MW946207,contact author for access,DENV-1,NA,Thailand,contact author for access,contact author for access,NA,NA,,2000
+MW946211_2003-07-31,NA,MW946211,contact author for access,DENV-1,NA,Thailand,contact author for access,contact author for access,NA,NA,,2003
+MW946240_2013-07-31,NA,MW946240,contact author for access,DENV-1,NA,Thailand,contact author for access,contact author for access,NA,NA,,2013
+MW946242_2013-07-31,NA,MW946242,contact author for access,DENV-1,NA,Thailand,contact author for access,contact author for access,NA,NA,,2013
+MW946255_2005-07-31,NA,MW946255,contact author for access,DENV-2,NA,Thailand,contact author for access,contact author for access,NA,NA,,2005
+MW946285_2006-07-31,NA,MW946285,contact author for access,DENV-2,NA,Thailand,contact author for access,contact author for access,NA,NA,,2006
+MW946289_2002-07-31,NA,MW946289,contact author for access,DENV-2,NA,Thailand,contact author for access,contact author for access,NA,NA,,2002
+MW946307_2000-07-31,NA,MW946307,contact author for access,DENV-2,NA,Thailand,contact author for access,contact author for access,NA,NA,,2000
+MW946309_2004-07-31,NA,MW946309,contact author for access,DENV-2,NA,Thailand,contact author for access,contact author for access,NA,NA,,2004
+MW946312_2000-07-31,NA,MW946312,contact author for access,DENV-2,NA,Thailand,contact author for access,contact author for access,NA,NA,,2000
+MW946314_2013-07-31,NA,MW946314,contact author for access,DENV-2,NA,Thailand,contact author for access,contact author for access,NA,NA,,2013
+MW946323_2013-07-31,NA,MW946323,contact author for access,DENV-2,NA,Thailand,contact author for access,contact author for access,NA,NA,,2013
+MW946329_2004-07-31,NA,MW946329,contact author for access,DENV-2,NA,Thailand,contact author for access,contact author for access,NA,NA,,2004
+MW946341_2000-07-31,NA,MW946341,contact author for access,DENV-2,NA,Thailand,contact author for access,contact author for access,NA,NA,,2000
+MW946345_2008-07-31,NA,MW946345,contact author for access,DENV-2,NA,Malaysia,contact author for access,contact author for access,NA,NA,,2008
+MW946353_2004-07-31,NA,MW946353,contact author for access,DENV-2,NA,Thailand,contact author for access,contact author for access,NA,NA,,2004
+MW946359_2014-07-31,NA,MW946359,contact author for access,DENV-2,NA,Thailand,contact author for access,contact author for access,NA,NA,,2014
+MW946370_2006-07-31,NA,MW946370,contact author for access,DENV-2,NA,Thailand,contact author for access,contact author for access,NA,NA,,2006
+MW946388_2003-07-31,NA,MW946388,contact author for access,DENV-2,NA,Thailand,contact author for access,contact author for access,NA,NA,,2003
+MW946398_2003-07-31,NA,MW946398,contact author for access,DENV-2,NA,Thailand,contact author for access,contact author for access,NA,NA,,2003
+MW946406_2007-07-31,NA,MW946406,contact author for access,DENV-2,NA,Thailand,contact author for access,contact author for access,NA,NA,,2007
+MW946433_2007-07-31,NA,MW946433,contact author for access,DENV-2,NA,Thailand,contact author for access,contact author for access,NA,NA,,2007
+MW946448_2005-07-31,NA,MW946448,contact author for access,DENV-2,NA,Thailand,contact author for access,contact author for access,NA,NA,,2005
+MW946449_2014-07-31,NA,MW946449,contact author for access,DENV-2,NA,Thailand,contact author for access,contact author for access,NA,NA,,2014
+MW946466_2003-07-31,NA,MW946466,contact author for access,DENV-2,NA,Thailand,contact author for access,contact author for access,NA,NA,,2003
+MW946517_2005-07-31,NA,MW946517,contact author for access,DENV-2,NA,Thailand,contact author for access,contact author for access,NA,NA,,2005
+MW946535_2002-07-31,NA,MW946535,contact author for access,DENV-2,NA,Thailand,contact author for access,contact author for access,NA,NA,,2002
+MW946559_2006-07-31,NA,MW946559,contact author for access,DENV-2,NA,Thailand,contact author for access,contact author for access,NA,NA,,2006
+MW946573_2013-07-31,NA,MW946573,contact author for access,DENV-2,NA,Thailand,contact author for access,contact author for access,NA,NA,,2013
+MW946577_2012-07-31,NA,MW946577,contact author for access,DENV-2,NA,Thailand,contact author for access,contact author for access,NA,NA,,2012
+MW946600_2002-07-31,NA,MW946600,contact author for access,DENV-2,NA,Thailand,contact author for access,contact author for access,NA,NA,,2002
+MZ636802_2019-11-24,NA,MZ636802,contact author for access,DENV-2,NA,Thailand,contact author for access,contact author for access,NA,NA,,2019
+MZ857223_2006-07-31,NA,MZ857223,contact author for access,DENV-1,NA,Indonesia,contact author for access,contact author for access,NA,NA,,2006
+MZ976858_2019-07-07,100-0653,MZ976858,contact author for access,DENV-4,DENV-4,Cambodia,contact author for access,contact author for access,9,female,,2019
+MZ976859_2019-08-07,109-0051,MZ976859,contact author for access,DENV-4,DENV-4,Cambodia,contact author for access,contact author for access,8,female,,2019
+MZ976860_2020-08-03,109-0342,MZ976860,contact author for access,DENV-4,DENV-4,Cambodia,contact author for access,contact author for access,12,male,,2020
+OK159935_2019-08-19,100-0752,OK159935,contact author for access,DENV-1,DENV-1,Cambodia,contact author for access,contact author for access,3,male,,2019
+OK159936_2019-07-23,100-0052,OK159936,contact author for access,DENV-1,DENV-1,Cambodia,contact author for access,contact author for access,6,female,,2019
+OK159937_2019-08-26,100-0632,OK159937,contact author for access,DENV-1,DENV-1,Cambodia,contact author for access,contact author for access,4,female,,2019
+OK159938_2019-07-08,100-0702,OK159938,contact author for access,DENV-1,DENV-1,Cambodia,contact author for access,contact author for access,5,female,,2019
+OK159939_2019-07-20,100-0682,OK159939,contact author for access,DENV-1,DENV-1,Cambodia,contact author for access,contact author for access,7,male,,2019
+OK159940_2019-07-12,100-0658,OK159940,contact author for access,DENV-1,DENV-1,Cambodia,contact author for access,contact author for access,5,male,,2019
+OK159941_2019-06-24,100-0618,OK159941,contact author for access,DENV-1,DENV-1,Cambodia,contact author for access,contact author for access,7,male,,2019
+OK159942_2019-06-22,100-0608,OK159942,contact author for access,DENV-1,DENV-1,Cambodia,contact author for access,contact author for access,5,male,,2019
+OK159943_2019-06-14,100-0562,OK159943,contact author for access,DENV-1,DENV-1,Cambodia,contact author for access,contact author for access,9,male,,2019
+OK159944_2019-04-02,100-0479,OK159944,contact author for access,DENV-1,DENV-1,Cambodia,contact author for access,contact author for access,3,male,,2019
+OK159945_2019-05-24,100-0418,OK159945,contact author for access,DENV-1,DENV-1,Cambodia,contact author for access,contact author for access,9,female,,2019
+OK159946_2019-08-15,109-0078,OK159946,contact author for access,DENV-1,DENV-1-clade-2,Cambodia,contact author for access,contact author for access,5,female,,2019
+OK159947_2019-08-14,109-0074,OK159947,contact author for access,DENV-1,DENV-1,Cambodia,contact author for access,contact author for access,5,male,,2019
+OK159948_2019-08-11,109-0073,OK159948,contact author for access,DENV-1,DENV-1,Cambodia,contact author for access,contact author for access,7,male,,2019
+OK159949_2019-08-09,109-0068,OK159949,contact author for access,DENV-1,DENV-1,Cambodia,contact author for access,contact author for access,8,female,,2019
+OK159950_2019-08-08,109-0057,OK159950,contact author for access,DENV-1,DENV-1,Cambodia,contact author for access,contact author for access,6,male,,2019
+OK159951_2019-08-08,109-0056,OK159951,contact author for access,DENV-1,DENV-1,Cambodia,contact author for access,contact author for access,4,male,,2019
+OK159952_2019-08-07,109-0052,OK159952,contact author for access,DENV-1,DENV-1,Cambodia,contact author for access,contact author for access,7,female,,2019
+OK159953_2019-08-07,109-0050,OK159953,contact author for access,DENV-1,DENV-1,Cambodia,contact author for access,contact author for access,23,male,,2019
+OK159954_2019-08-06,109-0048,OK159954,contact author for access,DENV-1,DENV-1,Cambodia,contact author for access,contact author for access,13,female,,2019
+OK159955_2019-08-01,109-0042,OK159955,contact author for access,DENV-1,DENV-1,Cambodia,contact author for access,contact author for access,3,male,,2019
+OK159956_2019-07-31,109-0032,OK159956,contact author for access,DENV-1,DENV-1,Cambodia,contact author for access,contact author for access,15,male,,2019
+OK159957_2019-07-30,109-0030,OK159957,contact author for access,DENV-1,DENV-1-clade-2,Cambodia,contact author for access,contact author for access,4,female,,2019
+OK159958_2019-07-24,109-0007,OK159958,contact author for access,DENV-1,DENV-1,Cambodia,contact author for access,contact author for access,14,male,,2019
+OK159959_2019-07-23,109-0002,OK159959,contact author for access,DENV-1,DENV-1,Cambodia,contact author for access,contact author for access,37,female,,2019
+OK159960_2020-02-18,109-0236,OK159960,contact author for access,DENV-1,DENV-1,Cambodia,contact author for access,contact author for access,4,male,,2020
+OK159961_2020-02-03,109-0230,OK159961,contact author for access,DENV-1,DENV-1,Cambodia,contact author for access,contact author for access,10,female,,2020
+OK159962_2019-08-15,100-0623,OK159962,contact author for access,DENV-1,DENV-1,Cambodia,contact author for access,contact author for access,9,male,,2019
+OK159963_2019-07-21,100-0734,OK159963,contact author for access,DENV-1,DENV-1,Cambodia,contact author for access,contact author for access,6,male,,2019
+OK159964_2019-08-08,100-0692,OK159964,contact author for access,DENV-1,DENV-1,Cambodia,contact author for access,contact author for access,6,male,,2019
+OK159965_2019-06-13,100-0661,OK159965,contact author for access,DENV-1,DENV-1,Cambodia,contact author for access,contact author for access,8,female,,2019
+OK159966_2019-05-31,100-0599,OK159966,contact author for access,DENV-1,DENV-1,Cambodia,contact author for access,contact author for access,8,male,,2019
+OK159967_2019-07-04,100-0422,OK159967,contact author for access,DENV-1,DENV-1,Cambodia,contact author for access,contact author for access,4,female,,2019
+OK159968_2019-03-15,100-0222,OK159968,contact author for access,DENV-1,DENV-1-clade-2,Cambodia,contact author for access,contact author for access,7,male,,2019
+OK159969_2019-07-26,100-0154,OK159969,contact author for access,DENV-1,DENV-1,Cambodia,contact author for access,contact author for access,3,male,,2019
+OK159970_2019-08-21,109-0085,OK159970,contact author for access,DENV-1,DENV-1,Cambodia,contact author for access,contact author for access,18,female,,2019
+OK159971_2019-08-18,109-0081,OK159971,contact author for access,DENV-1,DENV-1,Cambodia,contact author for access,contact author for access,8,female,,2019
+OK159972_2019-08-18,109-0080,OK159972,contact author for access,DENV-1,DENV-1,Cambodia,contact author for access,contact author for access,14,female,,2019
+OK159973_2019-08-08,109-0055,OK159973,contact author for access,DENV-1,DENV-1,Cambodia,contact author for access,contact author for access,14,female,,2019
+OK159974_2019-08-01,109-0034,OK159974,contact author for access,DENV-1,DENV-1,Cambodia,contact author for access,contact author for access,1,male,,2019
+OK159975_2019-07-26,109-0022,OK159975,contact author for access,DENV-1,DENV-1,Cambodia,contact author for access,contact author for access,14,male,,2019
+OK159976_2019-07-25,109-0014,OK159976,contact author for access,DENV-1,DENV-1,Cambodia,contact author for access,contact author for access,10,male,,2019
+OL411495_2020-07-13,109-0316,OL411495,contact author for access,DENV-1,DENV-1-clade-2,Cambodia,contact author for access,contact author for access,34,male,,2020
+OL411496_2019-07-02,100-0642,OL411496,contact author for access,DENV-1,DENV-1,Cambodia,contact author for access,contact author for access,9,female,,2019
+OL411497_2020-03-04,109-0245,OL411497,contact author for access,DENV-1,DENV-1,Cambodia,contact author for access,contact author for access,12,male,,2020
+OL411498_2019-08-11,109-0067,OL411498,contact author for access,DENV-1,DENV-1,Cambodia,contact author for access,contact author for access,7,male,,2019
+OL411499_2019-07-01,100-0610,OL411499,contact author for access,DENV-1,DENV-1,Cambodia,contact author for access,contact author for access,6,male,,2019
+OL412140_2019-08-28,100-0622,OL412140,contact author for access,DENV-1,DENV-1,Cambodia,contact author for access,contact author for access,2,male,,2019
+OL412678_2019-07-25,109-0011,OL412678,contact author for access,DENV-1,DENV-1,Cambodia,contact author for access,contact author for access,6,female,,2019
+OL412703_2019-08-09,109-0060,OL412703,contact author for access,DENV-1,DENV-1,Cambodia,contact author for access,contact author for access,2,female,,2019
+OL412740_2019-07-30,100-0670,OL412740,contact author for access,DENV-2,Cosmopolitan,Cambodia,contact author for access,contact author for access,5,female,,2019
+OL414717_2019-07-02,100-0430,OL414717,contact author for access,DENV-2,Cosmopolitan,Cambodia,contact author for access,contact author for access,3,female,,2019
+OL414718_2019-07-29,100-0160,OL414718,contact author for access,DENV-2,Cosmopolitan,Cambodia,contact author for access,contact author for access,7,male,,2019
+OL414719_2019-07-25,100-0156,OL414719,contact author for access,DENV-2,Asian-1,Cambodia,contact author for access,contact author for access,9,male,,2019
+OL414720_2019-07-25,100-0068,OL414720,contact author for access,DENV-2,Asian-1,Cambodia,contact author for access,contact author for access,8,male,,2019
+OL414721_2019-07-25,100-0067,OL414721,contact author for access,DENV-2,Asian-1,Cambodia,contact author for access,contact author for access,6,female,,2019
+OL414722_2019-08-22,109-0093,OL414722,contact author for access,DENV-2,Cosmopolitan,Cambodia,contact author for access,contact author for access,9,female,,2019
+OL414723_2019-08-21,109-0087,OL414723,contact author for access,DENV-2,Cosmopolitan,Cambodia,contact author for access,contact author for access,7,male,,2019
+OL414724_2019-08-20,109-0086,OL414724,contact author for access,DENV-2,Cosmopolitan,Cambodia,contact author for access,contact author for access,4,male,,2019
+OL414725_2019-08-09,109-0059,OL414725,contact author for access,DENV-2,Cosmopolitan,Cambodia,contact author for access,contact author for access,13,male,,2019
+OL414726_2019-08-07,109-0053,OL414726,contact author for access,DENV-2,Cosmopolitan,Cambodia,contact author for access,contact author for access,15,female,,2019
+OL414727_2019-08-06,109-0049,OL414727,contact author for access,DENV-2,Cosmopolitan,Cambodia,contact author for access,contact author for access,5,female,,2019
+OL414728_2019-07-29,109-0023,OL414728,contact author for access,DENV-2,Asian-1,Cambodia,contact author for access,contact author for access,12,female,,2019
+OL414729_2019-07-25,109-0019,OL414729,contact author for access,DENV-2,Asian-1,Cambodia,contact author for access,contact author for access,2,female,,2019
+OL414730_2019-07-24,109-0003,OL414730,contact author for access,DENV-2,Cosmopolitan,Cambodia,contact author for access,contact author for access,2,male,,2019
+OL414732_2020-08-28,109-0376,OL414732,contact author for access,DENV-2,Cosmopolitan,Cambodia,contact author for access,contact author for access,3,male,,2020
+OL414733_2020-08-10,109-0350,OL414733,contact author for access,DENV-2,Cosmopolitan,Cambodia,contact author for access,contact author for access,13,male,,2020
+OL414734_2020-06-30,109-0298,OL414734,contact author for access,DENV-2,Asian-1,Cambodia,contact author for access,contact author for access,10,female,,2020
+OL414735_2020-06-18,109-0295,OL414735,contact author for access,DENV-2,Asian-1,Cambodia,contact author for access,contact author for access,7,male,,2020
+OL414736_2020-06-17,109-0294,OL414736,contact author for access,DENV-2,Cosmopolitan,Cambodia,contact author for access,contact author for access,8,female,,2020
+OL414737_2019-06-20,100-0477,OL414737,contact author for access,DENV-2,Cosmopolitan,Cambodia,contact author for access,contact author for access,5,female,,2019
+OL414738_2019-07-19,100-0428,OL414738,contact author for access,DENV-2,Cosmopolitan,Cambodia,contact author for access,contact author for access,3,female,,2019
+OL414739_2019-07-23,100-0427,OL414739,contact author for access,DENV-2,Cosmopolitan,Cambodia,contact author for access,contact author for access,9,male,,2019
+OL414740_2019-06-27,100-0405,OL414740,contact author for access,DENV-2,Cosmopolitan,Cambodia,contact author for access,contact author for access,4,female,,2019
+OL414741_2019-07-23,100-0277,OL414741,contact author for access,DENV-2,Cosmopolitan,Cambodia,contact author for access,contact author for access,9,female,,2019
+OL414742_2019-06-23,100-0153,OL414742,contact author for access,DENV-2,Cosmopolitan,Cambodia,contact author for access,contact author for access,9,female,,2019
+OL414743_2019-04-04,100-0072,OL414743,contact author for access,DENV-2,Asian-1,Cambodia,contact author for access,contact author for access,4,male,,2019
+OL414744_2019-07-15,100-0039,OL414744,contact author for access,DENV-2,Asian-1,Cambodia,contact author for access,contact author for access,7,male,,2019
+OL414745_2019-08-06,109-0045,OL414745,contact author for access,DENV-2,Cosmopolitan,Cambodia,contact author for access,contact author for access,11,male,,2019
+OL414746_2020-06-16,109-0292,OL414746,contact author for access,DENV-2,Cosmopolitan,Cambodia,contact author for access,contact author for access,11,female,,2020
+OL414747_2019-08-20,100-0034,OL414747,contact author for access,DENV-2,Cosmopolitan,Cambodia,contact author for access,contact author for access,9,male,,2019
+OL414749_2020-06-17,109-0293,OL414749,contact author for access,DENV-2,Cosmopolitan,Cambodia,contact author for access,contact author for access,13,male,,2020
+OL414750_2020-07-05,109-0304,OL414750,contact author for access,DENV-2,Cosmopolitan,Cambodia,contact author for access,contact author for access,10,male,,2020
+OL414751_2020-07-14,109-0318,OL414751,contact author for access,DENV-2,Cosmopolitan,Cambodia,contact author for access,contact author for access,10,male,,2020
+OL414752_2020-07-29,109-0334,OL414752,contact author for access,DENV-2,Cosmopolitan,Cambodia,contact author for access,contact author for access,32,female,,2020
+OL414753_2020-08-09,109-0352,OL414753,contact author for access,DENV-2,Cosmopolitan,Cambodia,contact author for access,contact author for access,9,male,,2020
+OL414754_2020-08-10,109-0353,OL414754,contact author for access,DENV-2,Cosmopolitan,Cambodia,contact author for access,contact author for access,17,female,,2020
+OL414755_2020-08-13,109-0363,OL414755,contact author for access,DENV-2,Cosmopolitan,Cambodia,contact author for access,contact author for access,14,male,,2020
+OL414756_2020-08-29,109-0377,OL414756,contact author for access,DENV-2,Cosmopolitan,Cambodia,contact author for access,contact author for access,8,female,,2020
+OL414757_2020-09-01,109-0384,OL414757,contact author for access,DENV-2,Cosmopolitan,Cambodia,contact author for access,contact author for access,10,female,,2020
+OL414758_2020-09-23,109-0408,OL414758,contact author for access,DENV-2,Cosmopolitan,Cambodia,contact author for access,contact author for access,13,male,,2020
+OL414759_2019-06-28,100-0432,OL414759,contact author for access,DENV-2,Cosmopolitan,Cambodia,contact author for access,contact author for access,9,male,,2019
+OL414760_2019-08-16,100-0215,OL414760,contact author for access,DENV-2,Cosmopolitan,Cambodia,contact author for access,contact author for access,3,female,,2019
+OL414761_2019-07-26,109-0020,OL414761,contact author for access,DENV-2,Asian-1,Cambodia,contact author for access,contact author for access,12,male,,2019
+OL414762_2019-07-23,109-0001,OL414762,contact author for access,DENV-2,Cosmopolitan,Cambodia,contact author for access,contact author for access,5,male,,2019
+OL414763_2019-08-02,109-0039,OL414763,contact author for access,DENV-2,Cosmopolitan,Cambodia,contact author for access,contact author for access,12,male,,2019
+OL414764_2020-08-27,109-0372,OL414764,contact author for access,DENV-2,Cosmopolitan,Cambodia,contact author for access,contact author for access,6,female,,2020
+OL414765_2020-08-10,109-0349,OL414765,contact author for access,DENV-2,Cosmopolitan,Cambodia,contact author for access,contact author for access,12,male,,2020
+OL420733_2019-07-25,109-0008,OL420733,contact author for access,DENV-2,Cosmopolitan,Cambodia,contact author for access,contact author for access,7,male,,2019
+OL435143_2020-08-11,109-0358,OL435143,contact author for access,DENV-2,Cosmopolitan,Cambodia,contact author for access,contact author for access,9,male,,2020
+OM033409_2019-09-12,109-0129,OM033409,contact author for access,DENV-1,DENV-1,Cambodia,contact author for access,contact author for access,12,female,,2019
+OM281569_2018-12-15,NA,OM281569,contact author for access,DENV-1,NA,Cambodia,contact author for access,contact author for access,NA,NA,,2018
+OM281572_2018-12-15,NA,OM281572,contact author for access,DENV-1,NA,Thailand,contact author for access,contact author for access,NA,NA,,2018
+OM281574_2018-12-15,NA,OM281574,contact author for access,DENV-1,NA,Cambodia,contact author for access,contact author for access,NA,NA,,2018
+OM281575_2019-12-15,NA,OM281575,contact author for access,DENV-1,DENV-1,Cambodia,contact author for access,contact author for access,NA,NA,,2019
+OM281576_2019-12-15,NA,OM281576,contact author for access,DENV-1,DENV-1,Cambodia,contact author for access,contact author for access,NA,NA,,2019
+OM281577_2019-12-15,NA,OM281577,contact author for access,DENV-1,DENV-1,Cambodia,contact author for access,contact author for access,NA,NA,,2019
+OM281578_2019-12-15,NA,OM281578,contact author for access,DENV-1,DENV-1,Cambodia,contact author for access,contact author for access,NA,NA,,2019
+OM281579_2019-12-15,NA,OM281579,contact author for access,DENV-1,DENV-1,Cambodia,contact author for access,contact author for access,NA,NA,,2019
+OM281580_2019-12-15,NA,OM281580,contact author for access,DENV-1,DENV-1,Cambodia,contact author for access,contact author for access,NA,NA,,2019
+OM281581_2019-12-15,NA,OM281581,contact author for access,DENV-1,DENV-1,Cambodia,contact author for access,contact author for access,NA,NA,,2019
+OM281582_2019-12-15,NA,OM281582,contact author for access,DENV-1,DENV-1,Cambodia,contact author for access,contact author for access,NA,NA,,2019
+OM281583_2019-12-15,NA,OM281583,contact author for access,DENV-1,DENV-1,Cambodia,contact author for access,contact author for access,NA,NA,,2019
+OM281584_2019-12-15,NA,OM281584,contact author for access,DENV-1,DENV-1,Cambodia,contact author for access,contact author for access,NA,NA,,2019
+OM281585_2019-12-15,NA,OM281585,contact author for access,DENV-1,NA,Thailand,contact author for access,contact author for access,NA,NA,,2019
+OM281587_2019-12-15,NA,OM281587,contact author for access,DENV-1,DENV-1,Cambodia,contact author for access,contact author for access,NA,NA,,2019
+OM281588_2019-12-15,NA,OM281588,contact author for access,DENV-1,DENV-1,Cambodia,contact author for access,contact author for access,NA,NA,,2019
+OM281589_2019-12-15,NA,OM281589,contact author for access,DENV-1,NA,Philippines,contact author for access,contact author for access,NA,NA,,2019
+OM281590_2019-12-15,NA,OM281590,contact author for access,DENV-1,DENV-1,Cambodia,contact author for access,contact author for access,NA,NA,,2019
+OM281591_2019-12-15,NA,OM281591,contact author for access,DENV-1,DENV-1,Cambodia,contact author for access,contact author for access,NA,NA,,2019
+OM281592_2019-12-15,NA,OM281592,contact author for access,DENV-1,DENV-1,Cambodia,contact author for access,contact author for access,NA,NA,,2019
+OM281593_2019-12-15,NA,OM281593,contact author for access,DENV-1,NA,Thailand,contact author for access,contact author for access,NA,NA,,2019
+OM281597_2019-12-15,NA,OM281597,contact author for access,DENV-1,NA,Philippines,contact author for access,contact author for access,NA,NA,,2019
+OM281599_2020-12-15,NA,OM281599,contact author for access,DENV-1,NA,Philippines,contact author for access,contact author for access,NA,NA,,2020
+ON038478_2003-05-24,NA,ON038478,contact author for access,DENV-1,NA,Thailand,contact author for access,contact author for access,NA,NA,,2003
+ON038482_2005-01-30,NA,ON038482,contact author for access,DENV-1,NA,Thailand,contact author for access,contact author for access,NA,NA,,2005
+ON038483_2009-05-13,NA,ON038483,contact author for access,DENV-1,NA,Thailand,contact author for access,contact author for access,NA,NA,,2009
+ON038484_2009-12-14,NA,ON038484,contact author for access,DENV-1,NA,Thailand,contact author for access,contact author for access,NA,NA,,2009
+ON046271_2004-11-20,NA,ON046271,contact author for access,DENV-1,NA,Thailand,contact author for access,contact author for access,NA,NA,,2004
+ON046272_2009-12-10,NA,ON046272,contact author for access,DENV-1,NA,Thailand,contact author for access,contact author for access,NA,NA,,2009
+ON853797_2018-07-13,NA,ON853797,contact author for access,DENV-2,Asian-1,Cambodia,contact author for access,contact author for access,NA,NA,,2018
+ON867003_2019-05-24,NA,ON867003,contact author for access,DENV-1,DENV-1,Cambodia,contact author for access,contact author for access,NA,NA,,2019
+ON885253_2019-07-02,NA,ON885253,contact author for access,DENV-2,NA,Philippines,contact author for access,contact author for access,NA,NA,,2019
+ON887284_2019-07-08,NA,ON887284,contact author for access,DENV-2,Cosmopolitan,Cambodia,contact author for access,contact author for access,NA,NA,,2019
+ON890479_2019-05-31,NA,ON890479,contact author for access,DENV-2,Asian-1,Cambodia,contact author for access,contact author for access,NA,NA,,2019
+ON907577_2019-06-13,NA,ON907577,contact author for access,DENV-1,DENV-1,Cambodia,contact author for access,contact author for access,NA,NA,,2019
+ON907581_2019-07-02,NA,ON907581,contact author for access,DENV-2,NA,Philippines,contact author for access,contact author for access,NA,NA,,2019
+ON908216_2019-08-26,NA,ON908216,contact author for access,DENV-1,NA,Philippines,contact author for access,contact author for access,NA,NA,,2019
+ON908218_2019-05-24,NA,ON908218,contact author for access,DENV-1,DENV-1,Cambodia,contact author for access,contact author for access,NA,NA,,2019
+ON908219_2019-06-13,NA,ON908219,contact author for access,DENV-1,DENV-1,Cambodia,contact author for access,contact author for access,NA,NA,,2019
+ON908224_2019-07-08,NA,ON908224,contact author for access,DENV-2,Cosmopolitan,Cambodia,contact author for access,contact author for access,NA,NA,,2019
+ON908230_2019-05-31,NA,ON908230,contact author for access,DENV-2,Asian-1,Cambodia,contact author for access,contact author for access,NA,NA,,2019
+ON911333_2019-06-13,NA,ON911333,contact author for access,DENV-1,DENV-1,Cambodia,contact author for access,contact author for access,NA,NA,,2019
+OP410985_2010-03-15,NA,OP410985,contact author for access,DENV-1,NA,Singapore,contact author for access,contact author for access,NA,NA,,2010
+OP410986_2016-02-15,NA,OP410986,contact author for access,DENV-1,NA,Singapore,contact author for access,contact author for access,NA,NA,,2016
+OP410988_2019-05-15,NA,OP410988,contact author for access,DENV-1,NA,Singapore,contact author for access,contact author for access,NA,NA,,2019
+OP410991_2017-10-15,NA,OP410991,contact author for access,DENV-2,NA,Singapore,contact author for access,contact author for access,NA,NA,,2017
+OP895913_2017-01-15,NA,OP895913,contact author for access,DENV-1,NA,Malaysia,contact author for access,contact author for access,NA,NA,,2017
+OP895914_2017-02-15,NA,OP895914,contact author for access,DENV-1,NA,Thailand,contact author for access,contact author for access,NA,NA,,2017
+OP895915_2019-03-15,NA,OP895915,contact author for access,DENV-1,NA,Thailand,contact author for access,contact author for access,NA,NA,,2019
+OP895918_2019-04-15,NA,OP895918,contact author for access,DENV-2,Cosmopolitan,Cambodia,contact author for access,contact author for access,NA,NA,,2019
+OP895919_2018-11-15,NA,OP895919,contact author for access,DENV-2,NA,Malaysia,contact author for access,contact author for access,NA,NA,,2018
+OP909734_2020-01-15,NA,OP909734,contact author for access,DENV-2,NA,Singapore,contact author for access,contact author for access,NA,NA,,2020
+OP999336_2020-09-04,109-0389,OP999336,contact author for access,DENV-2,Cosmopolitan,Cambodia,contact author for access,contact author for access,13,female,,2020
+OQ028219_2020-01-15,NA,OQ028219,contact author for access,DENV-2,NA,Vietnam,contact author for access,contact author for access,NA,NA,,2020
+OQ028220_2019-08-14,NA,OQ028220,contact author for access,DENV-2,NA,Vietnam,contact author for access,contact author for access,NA,NA,,2019
+OQ028232_2020-03-02,NA,OQ028232,contact author for access,DENV-2,NA,Vietnam,contact author for access,contact author for access,NA,NA,,2020
+OQ426584_2019-02-13,NA,OQ426584,contact author for access,DENV-1,NA,Vietnam,contact author for access,contact author for access,NA,NA,,2019
+OQ426603_2019-02-22,NA,OQ426603,contact author for access,DENV-1,NA,Vietnam,contact author for access,contact author for access,NA,NA,,2019
+OQ426622_2019-01-07,NA,OQ426622,contact author for access,DENV-1,NA,Vietnam,contact author for access,contact author for access,NA,NA,,2019
+OQ426645_2016-11-28,NA,OQ426645,contact author for access,DENV-1,NA,Vietnam,contact author for access,contact author for access,NA,NA,,2016
+OQ426646_2016-11-29,NA,OQ426646,contact author for access,DENV-1,NA,Vietnam,contact author for access,contact author for access,NA,NA,,2016
+OQ426647_2016-12-07,NA,OQ426647,contact author for access,DENV-1,NA,Vietnam,contact author for access,contact author for access,NA,NA,,2016
+OQ426682_2018-09-25,NA,OQ426682,contact author for access,DENV-1,NA,Vietnam,contact author for access,contact author for access,NA,NA,,2018
+OQ426719_2018-11-19,NA,OQ426719,contact author for access,DENV-1,NA,Vietnam,contact author for access,contact author for access,NA,NA,,2018
+OQ426735_2018-11-22,NA,OQ426735,contact author for access,DENV-1,NA,Vietnam,contact author for access,contact author for access,NA,NA,,2018
+OQ426779_2018-12-10,NA,OQ426779,contact author for access,DENV-2,NA,Vietnam,contact author for access,contact author for access,NA,NA,,2018
+OQ426801_2018-09-18,NA,OQ426801,contact author for access,DENV-2,NA,Vietnam,contact author for access,contact author for access,NA,NA,,2018
+OQ426897_2019-03-06,NA,OQ426897,contact author for access,DENV-2,NA,Vietnam,contact author for access,contact author for access,NA,NA,,2019
+OQ426905_2019-04-18,NA,OQ426905,contact author for access,DENV-2,NA,Vietnam,contact author for access,contact author for access,NA,NA,,2019
+OQ426940_2018-10-29,NA,OQ426940,contact author for access,DENV-2,NA,Vietnam,contact author for access,contact author for access,NA,NA,,2018
+OQ652965_2018-09-15,NA,OQ652965,contact author for access,DENV-2,NA,Myanmar,contact author for access,contact author for access,NA,NA,,2018
+OQ674509_2019-08-09,100-0390,OQ674509,contact author for access,DENV-2,Cosmopolitan,Cambodia,contact author for access,contact author for access,9,female,,2019
+OQ678009_2019-08-27,100-0652,OQ678009,contact author for access,DENV-1,DENV-1,Cambodia,contact author for access,contact author for access,9,male,,2019
+OQ678012_2019-09-13,109-0128,OQ678012,contact author for access,DENV-2,Asian-1,Cambodia,contact author for access,contact author for access,14,male,,2019
+OQ678015_2019-10-21,109-0142,OQ678015,contact author for access,DENV-4,DENV-4,Cambodia,contact author for access,contact author for access,14,male,,2019
+OQ678017_2019-10-30,109-0145,OQ678017,contact author for access,DENV-2,Cosmopolitan,Cambodia,contact author for access,contact author for access,14,male,,2019
+OQ678018_2020-02-16,100-0245,OQ678018,contact author for access,DENV-1,DENV-1,Cambodia,contact author for access,contact author for access,3,male,,2020
+OQ678059_2019-10-31,109-0147,OQ678059,contact author for access,DENV-2,Cosmopolitan,Cambodia,contact author for access,contact author for access,8,female,,2019
+OQ678060_2019-11-26,109-0169,OQ678060,contact author for access,DENV-1,DENV-1,Cambodia,contact author for access,contact author for access,3,male,,2019
+OQ678061_2019-12-17,109-0181,OQ678061,contact author for access,DENV-1,DENV-1,Cambodia,contact author for access,contact author for access,8,male,,2019
+OQ678099_2019-12-26,109-0195 ,OQ678099,contact author for access,DENV-1,DENV-1,Cambodia,contact author for access,contact author for access,6,male,,2019
+OQ678101_2020-06-03,109-0284,OQ678101,contact author for access,DENV-2,Cosmopolitan,Cambodia,contact author for access,contact author for access,9,male,,2020
+OQ678102_2020-07-30,109-0338,OQ678102,contact author for access,DENV-2,Cosmopolitan,Cambodia,contact author for access,contact author for access,5,female,,2020
+OQ678244_2019-08-30,100-0747,OQ678244,contact author for access,DENV-1,DENV-1,Cambodia,contact author for access,contact author for access,6,male,,2019
+OQ678252_2019-12-20,109-0187,OQ678252,contact author for access,DENV-1,DENV-1,Cambodia,contact author for access,contact author for access,8,female,,2019
+OQ683856_2019-11-08,100-0587,OQ683856,contact author for access,DENV-1,DENV-1,Cambodia,contact author for access,contact author for access,6,male,,2019
+OQ683880_2020-07-31,109-0340,OQ683880,contact author for access,DENV-1,DENV-1,Cambodia,contact author for access,contact author for access,8,male,,2020
+OQ683881_2020-06-02,109-0283,OQ683881,contact author for access,DENV-2,Cosmopolitan,Cambodia,contact author for access,contact author for access,29,male,,2020
+OQ821330_2019-07-17,NA,OQ821330,contact author for access,DENV-1,DENV-1,Cambodia,contact author for access,contact author for access,NA,NA,,2019
+OQ821493_2019-07-31,NA,OQ821493,contact author for access,DENV-2,NA,Philippines,contact author for access,contact author for access,NA,NA,,2019
+OQ832627_2020-09-15,NA,OQ832627,contact author for access,DENV-2,NA,Vietnam,contact author for access,contact author for access,NA,NA,,2020
+OR389025_2009-07-31,NA,OR389025,contact author for access,DENV-2,NA,Malaysia,contact author for access,contact author for access,NA,NA,,2009
+OR389026_2009-07-31,NA,OR389026,contact author for access,DENV-2,NA,Malaysia,contact author for access,contact author for access,NA,NA,,2009
+OR389030_2003-07-31,NA,OR389030,contact author for access,DENV-2,NA,Vietnam,contact author for access,contact author for access,NA,NA,,2003
+PP234930_2019-07-01,NA,PP234930,contact author for access,DENV-2,NA,Thailand,contact author for access,contact author for access,NA,NA,,2019
+PP234933_2019-07-01,NA,PP234933,contact author for access,DENV-2,NA,Thailand,contact author for access,contact author for access,NA,NA,,2019
+PP234935_2018-07-01,NA,PP234935,contact author for access,DENV-2,NA,Thailand,contact author for access,contact author for access,NA,NA,,2018
+PP234966_2018-07-01,NA,PP234966,contact author for access,DENV-2,NA,Indonesia,contact author for access,contact author for access,NA,NA,,2018
+PP269822_2011-08-24,NA,PP269822,contact author for access,DENV-2,NA,Vietnam,contact author for access,contact author for access,NA,NA,,2011
+PP269823_2012-05-16,NA,PP269823,contact author for access,DENV-2,NA,Vietnam,contact author for access,contact author for access,NA,NA,,2012
+PP269827_2012-05-24,NA,PP269827,contact author for access,DENV-2,NA,Vietnam,contact author for access,contact author for access,NA,NA,,2012
+PP269833_2012-11-20,NA,PP269833,contact author for access,DENV-2,NA,Vietnam,contact author for access,contact author for access,NA,NA,,2012
+PP269836_2015-08-26,NA,PP269836,contact author for access,DENV-2,NA,Vietnam,contact author for access,contact author for access,NA,NA,,2015
+PP269846_2011-10-31,NA,PP269846,contact author for access,DENV-2,NA,Vietnam,contact author for access,contact author for access,NA,NA,,2011
+PP269847_2011-11-08,NA,PP269847,contact author for access,DENV-2,NA,Vietnam,contact author for access,contact author for access,NA,NA,,2011
+PP269851_2013-03-28,NA,PP269851,contact author for access,DENV-2,NA,Vietnam,contact author for access,contact author for access,NA,NA,,2013
+PP269856_2014-11-03,NA,PP269856,contact author for access,DENV-2,NA,Vietnam,contact author for access,contact author for access,NA,NA,,2014
+PP269858_2014-11-07,NA,PP269858,contact author for access,DENV-2,NA,Vietnam,contact author for access,contact author for access,NA,NA,,2014
+PP269859_2014-11-30,NA,PP269859,contact author for access,DENV-2,NA,Vietnam,contact author for access,contact author for access,NA,NA,,2014
+PP269860_2013-07-17,NA,PP269860,contact author for access,DENV-2,NA,Vietnam,contact author for access,contact author for access,NA,NA,,2013
+PP269867_2013-10-11,NA,PP269867,contact author for access,DENV-2,NA,Vietnam,contact author for access,contact author for access,NA,NA,,2013
+PP269903_2022-06-21,NA,PP269903,contact author for access,DENV-2,NA,Vietnam,contact author for access,contact author for access,NA,NA,,2022
+PP269909_2022-12-01,NA,PP269909,contact author for access,DENV-2,NA,Vietnam,contact author for access,contact author for access,NA,NA,,2022
+PP269913_2022-06-08,NA,PP269913,contact author for access,DENV-2,NA,Vietnam,contact author for access,contact author for access,NA,NA,,2022
+PP269923_2015-11-23,NA,PP269923,contact author for access,DENV-2,NA,Vietnam,contact author for access,contact author for access,NA,NA,,2015
+PP269924_2015-12-01,NA,PP269924,contact author for access,DENV-2,NA,Vietnam,contact author for access,contact author for access,NA,NA,,2015
+PP269925_2016-10-25,NA,PP269925,contact author for access,DENV-2,NA,Vietnam,contact author for access,contact author for access,NA,NA,,2016
+PP269926_2016-12-09,NA,PP269926,contact author for access,DENV-2,NA,Vietnam,contact author for access,contact author for access,NA,NA,,2016
+PP269927_2016-12-22,NA,PP269927,contact author for access,DENV-2,NA,Vietnam,contact author for access,contact author for access,NA,NA,,2016
+PP269930_2017-04-12,NA,PP269930,contact author for access,DENV-2,NA,Vietnam,contact author for access,contact author for access,NA,NA,,2017
+PP269931_2017-04-13,NA,PP269931,contact author for access,DENV-2,NA,Vietnam,contact author for access,contact author for access,NA,NA,,2017
+PP269935_2017-08-25,NA,PP269935,contact author for access,DENV-2,NA,Vietnam,contact author for access,contact author for access,NA,NA,,2017
+PP396279_2021-12-16,109-1034,PP396279,contact author for access,DENV-2,Cosmopolitan,Cambodia,contact author for access,contact author for access,12,male,NA,2021
+PP396280_2021-11-29,109-0998,PP396280,contact author for access,DENV-2,Cosmopolitan,Cambodia,contact author for access,contact author for access,8,female,NA,2021
+PP396732_2022-02-14,109-1230,PP396732,contact author for access,DENV-4,DENV-4,Cambodia,contact author for access,contact author for access,7,female,"Idseq-Phnom Penh, National Pediatric Hospital",2022
+PP406368_2022-01-18,109-1123,PP406368,contact author for access,DENV-2,Cosmopolitan,Cambodia,contact author for access,contact author for access,14,female,NA,2022
+PP406369_2022-02-16,109-1240,PP406369,contact author for access,DENV-2,Cosmopolitan,Cambodia,contact author for access,contact author for access,5,male,NA,2022
+PP406370_2022-02-22,109-1272,PP406370,contact author for access,DENV-2,Cosmopolitan,Cambodia,contact author for access,contact author for access,12,female,NA,2022
+PP406371_2022-02-23,109-1281,PP406371,contact author for access,DENV-2,Cosmopolitan,Cambodia,contact author for access,contact author for access,12,female,NA,2022
+PP406372_2022-04-06,109-1458,PP406372,contact author for access,DENV-2,Cosmopolitan,Cambodia,contact author for access,contact author for access,12,male,NA,2022
+PP406373_2022-04-06,109-1462,PP406373,contact author for access,DENV-2,Cosmopolitan,Cambodia,contact author for access,contact author for access,3,male,"Idseq-Phnom Penh, National Pediatric Hospital",2022
+PP406374_2022-04-20,109-1546,PP406374,contact author for access,DENV-2,Cosmopolitan,Cambodia,contact author for access,contact author for access,13,male,NA,2022
+PP406375_2022-05-17,109-1724,PP406375,contact author for access,DENV-2,Cosmopolitan,Cambodia,contact author for access,contact author for access,2,male,NA,2022
+PP406376_2022-05-18,109-1733,PP406376,contact author for access,DENV-2,Cosmopolitan,Cambodia,contact author for access,contact author for access,1,male,NA,2022
+PP406447_2022-05-23,109-1751,PP406447,contact author for access,DENV-2,Cosmopolitan,Cambodia,contact author for access,contact author for access,12,female,NA,2022
+PP406448_2022-05-23,109-1752,PP406448,contact author for access,DENV-2,Cosmopolitan,Cambodia,contact author for access,contact author for access,9,female,NA,2022
+PP406449_2022-05-23,109-1758,PP406449,contact author for access,DENV-2,Cosmopolitan,Cambodia,contact author for access,contact author for access,9,female,NA,2022
+PP406450_2022-05-23,109-1759,PP406450,contact author for access,DENV-2,Cosmopolitan,Cambodia,contact author for access,contact author for access,13,female,NA,2022
+PP406451_2022-05-23,109-1760,PP406451,contact author for access,DENV-2,Cosmopolitan,Cambodia,contact author for access,contact author for access,10,male,NA,2022
+PP406452_2022-05-26,109-1787,PP406452,contact author for access,DENV-2,Cosmopolitan,Cambodia,contact author for access,contact author for access,12,female,NA,2022
+PP406453_2022-05-26,109-1796,PP406453,contact author for access,DENV-2,Cosmopolitan,Cambodia,contact author for access,contact author for access,12,female,NA,2022
+PP406454_2022-05-30,109-1806,PP406454,contact author for access,DENV-2,Cosmopolitan,Cambodia,contact author for access,contact author for access,4,male,NA,2022
+PP406455_2022-05-30,109-1815,PP406455,contact author for access,DENV-2,Cosmopolitan,Cambodia,contact author for access,contact author for access,13,female,NA,2022
+PP411227_2022-06-01,109-1833,PP411227,contact author for access,DENV-2,Cosmopolitan,Cambodia,contact author for access,contact author for access,10,male,NA,2022
+PP411228_2022-06-01,109-1835,PP411228,contact author for access,DENV-2,Cosmopolitan,Cambodia,contact author for access,contact author for access,10,female,NA,2022
+PP411229_2022-06-01,109-1837,PP411229,contact author for access,DENV-2,Cosmopolitan,Cambodia,contact author for access,contact author for access,10,female,NA,2022
+PP411230_2022-06-07,109-1848,PP411230,contact author for access,DENV-2,Cosmopolitan,Cambodia,contact author for access,contact author for access,7,male,NA,2022
+PP411231_2022-06-07,109-1851,PP411231,contact author for access,DENV-2,Cosmopolitan,Cambodia,contact author for access,contact author for access,6,male,NA,2022
+PP411232_2022-06-07,109-1852,PP411232,contact author for access,DENV-2,Cosmopolitan,Cambodia,contact author for access,contact author for access,5,female,NA,2022
+PP411233_2022-06-07,109-1855,PP411233,contact author for access,DENV-2,Cosmopolitan,Cambodia,contact author for access,contact author for access,5,male,NA,2022
+PP411234_2022-06-07,109-1863,PP411234,contact author for access,DENV-2,Cosmopolitan,Cambodia,contact author for access,contact author for access,11,male,NA,2022
+PP411235_2022-06-07,109-1864,PP411235,contact author for access,DENV-2,Cosmopolitan,Cambodia,contact author for access,contact author for access,3,female,NA,2022
+PP411249_2022-06-10,109-1880,PP411249,contact author for access,DENV-2,Cosmopolitan,Cambodia,contact author for access,contact author for access,13,female,NA,2022
+PP411250_2022-06-10,109-1882,PP411250,contact author for access,DENV-2,Cosmopolitan,Cambodia,contact author for access,contact author for access,7,female,NA,2022
+PP411251_2022-06-16,109-1911,PP411251,contact author for access,DENV-2,Cosmopolitan,Cambodia,contact author for access,contact author for access,31,female,"Idseq-Phnom Penh, NMCHC",2022
+PP411252_2022-06-20,109-1925,PP411252,contact author for access,DENV-2,Cosmopolitan,Cambodia,contact author for access,contact author for access,13,female,NA,2022
+PP411253_2022-06-23,109-1954,PP411253,contact author for access,DENV-2,Cosmopolitan,Cambodia,contact author for access,contact author for access,6,male,"Idseq-Phnom Penh, National Pediatric Hospital",2022
+PP411254_2022-06-27,109-1972,PP411254,contact author for access,DENV-2,Cosmopolitan,Cambodia,contact author for access,contact author for access,9,female,"Idseq-Phnom Penh, National Pediatric Hospital",2022
+PP411255_2022-06-29,109-1990,PP411255,contact author for access,DENV-2,Asian-1,Cambodia,contact author for access,contact author for access,22,female,"Idseq-Phnom Penh, NMCHC",2022
+PP411256_2022-07-01,109-2002,PP411256,contact author for access,DENV-2,Cosmopolitan,Cambodia,contact author for access,contact author for access,9,female,NA,2022
+PP411257_2022-07-05,109-2015,PP411257,contact author for access,DENV-2,Cosmopolitan,Cambodia,contact author for access,contact author for access,6,female,NA,2022
+PP439574_2021-08-31,109-0773,PP439574,contact author for access,DENV-2,Cosmopolitan,Cambodia,contact author for access,contact author for access,1,female,NA,2021
+PP439575_2021-09-24,109-0806,PP439575,contact author for access,DENV-2,Cosmopolitan,Cambodia,contact author for access,contact author for access,13,female,NA,2021
+PP439576_2021-05-19,109-0678,PP439576,contact author for access,DENV-2,Cosmopolitan,Cambodia,contact author for access,contact author for access,13,male,NA,2021
+PP439577_2021-06-12,109-0705,PP439577,contact author for access,DENV-2,Cosmopolitan,Cambodia,contact author for access,contact author for access,10,male,NA,2021
+PP439578_2021-06-24,109-0723,PP439578,contact author for access,DENV-2,Cosmopolitan,Cambodia,contact author for access,contact author for access,7,male,NA,2021
+PP439579_2021-07-07,109-0734,PP439579,contact author for access,DENV-2,Cosmopolitan,Cambodia,contact author for access,contact author for access,16,female,NA,2021
+PP439580_2021-10-12,109-0836,PP439580,contact author for access,DENV-2,Cosmopolitan,Cambodia,contact author for access,contact author for access,13,female,NA,2021
+PP439581_2022-07-06,109-2031,PP439581,contact author for access,DENV-2,Cosmopolitan,Cambodia,contact author for access,contact author for access,6,male,NA,2022
+PP439582_2022-07-07,109-2032,PP439582,contact author for access,DENV-2,Cosmopolitan,Cambodia,contact author for access,contact author for access,6,male,NA,2022
+PP446688_2022-07-07,109-2034,PP446688,contact author for access,DENV-2,Cosmopolitan,Cambodia,contact author for access,contact author for access,9,male,NA,2022
+PP446689_2022-07-15,109-2071,PP446689,contact author for access,DENV-2,Cosmopolitan,Cambodia,contact author for access,contact author for access,9,male,NA,2022
+PP446690_2022-07-18,109-2079,PP446690,contact author for access,DENV-2,Cosmopolitan,Cambodia,contact author for access,contact author for access,9,male,NA,2022
+PP446691_2022-07-22,109-2116,PP446691,contact author for access,DENV-2,Cosmopolitan,Cambodia,contact author for access,contact author for access,1,female,"Idseq-Phnom Penh, National Pediatric Hospital",2022
+PP446692_2022-09-05,109-2325,PP446692,contact author for access,DENV-2,Cosmopolitan,Cambodia,contact author for access,contact author for access,11,female,"Idseq-Phnom Penh, National Pediatric Hospital",2022
+PP446693_2022-10-06,109-2425,PP446693,contact author for access,DENV-2,Cosmopolitan,Cambodia,contact author for access,contact author for access,11,male,NA,2022
+PP446694_2022-10-10,109-2430,PP446694,contact author for access,DENV-2,Cosmopolitan,Cambodia,contact author for access,contact author for access,5,female,"Idseq-Phnom Penh, National Pediatric Hospital",2022
+PP447197_2022-05-16,109-1707,PP447197,contact author for access,DENV-4,DENV-4,Cambodia,contact author for access,contact author for access,12,female,NA,2022
+PP447198_2022-07-01,109-2001,PP447198,contact author for access,DENV-4,DENV-4,Cambodia,contact author for access,contact author for access,14,male,NA,2022
+PP447199_2022-07-08,109-2038,PP447199,contact author for access,DENV-4,DENV-4,Cambodia,contact author for access,contact author for access,19,male,NA,2022
+PP447200_2022-09-27,109-2396,PP447200,contact author for access,DENV-4,DENV-4,Cambodia,contact author for access,contact author for access,23,female,"Idseq-Phnom Penh, NMCHC",2022
+PP469533_2022-05-30,109-1816,PP469533,contact author for access,DENV-2,Cosmopolitan,Cambodia,contact author for access,contact author for access,12,female,NA,2022
+PP469534_2022-08-24,109-2279,PP469534,contact author for access,DENV-2,Cosmopolitan,Cambodia,contact author for access,contact author for access,15,female,NA,2022
+PP470598_2022-06-10,DENS-093,PP470598,contact author for access,DENV-2,Cosmopolitan,Cambodia,contact author for access,contact author for access,3,female,NDCP - lat long is centroid of the province; Kampong Speu,2022
+PP470599_2022-06-02,DENS-124,PP470599,contact author for access,DENV-2,Cosmopolitan,Cambodia,contact author for access,contact author for access,18,male,NDCP - lat long is centroid of the province; Svay Reang,2022
+PP470600_2022-07-01,DENS-OB-145,PP470600,contact author for access,DENV-2,Cosmopolitan,Cambodia,contact author for access,contact author for access,17,male,NDCP - lat long is centroid of the province; Pursat,2022
+PP470601_2022-07-23,DENS-167,PP470601,contact author for access,DENV-2,Cosmopolitan,Cambodia,contact author for access,contact author for access,16,male,NDCP - lat long is centroid of the province; Svay Reang,2022
+PP470602_2022-08-15,DENS-177,PP470602,contact author for access,DENV-2,Cosmopolitan,Cambodia,contact author for access,contact author for access,11,female,NDCP - lat long is centroid of the province; Kampong Speu,2022
+PP470603_2022-08-04,DENS-187,PP470603,contact author for access,DENV-2,Cosmopolitan,Cambodia,contact author for access,contact author for access,16,male,NDCP - lat long is centroid of the province; Svay Reang,2022
+PP470671_2021-05-29,DENS-OB-067,PP470671,contact author for access,DENV-1,DENV-1,Cambodia,contact author for access,contact author for access,2.5,female,NDCP - lat long is centroid of the province; Ratanakiri,2021
+PP470672_2021-05-29,DENS-OB-068,PP470672,contact author for access,DENV-1,DENV-1,Cambodia,contact author for access,contact author for access,30,male,NDCP - lat long is centroid of the province; Ratanakiri,2021
+PP470673_2021-05-30,DENS-OB-070,PP470673,contact author for access,DENV-1,DENV-1,Cambodia,contact author for access,contact author for access,16,male,NDCP - lat long is centroid of the province; Ratanakiri,2021
+OR389020_2009-07-31,NA,OR389020,contact author for access,DENV-2,DENV-2,Cambodia,contact author for access,contact author for access,NA,NA,NA,2009
