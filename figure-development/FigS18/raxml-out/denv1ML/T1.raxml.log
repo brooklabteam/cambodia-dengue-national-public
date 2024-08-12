@@ -1,0 +1,47 @@
+
+RAxML-NG v. 1.1.0-master released on 22.06.2022 by The Exelixis Lab.
+Developed by: Alexey M. Kozlov and Alexandros Stamatakis.
+Contributors: Diego Darriba, Tomas Flouri, Benoit Morel, Sarah Lutteropp, Ben Bettisworth.
+Latest version: https://github.com/amkozlov/raxml-ng
+Questions/problems/suggestions? Please visit: https://groups.google.com/forum/#!forum/raxml
+
+System: Intel(R) Xeon(R) CPU E5-2680 v4 @ 2.40GHz, 28 cores, 251 GB RAM
+
+RAxML-NG was called at 10-Apr-2024 11:13:17 as follows:
+
+/project2/cbrook/software/raxml-ng/bin/raxml-ng-mpi --check --msa DENV1alignedML.fasta --model GTR+I+G4 --prefix T1
+
+Analysis options:
+  run mode: Alignment validation
+  start tree(s): 
+  random seed: 1712765598
+  SIMD kernels: AVX2
+  parallelization: coarse-grained (auto), PTHREADS (auto)
+
+[00:00:01] Reading alignment from file: DENV1alignedML.fasta
+[00:00:01] Loaded alignment with 226 taxa and 11131 sites
+
+WARNING: Fully undetermined columns found: 2
+
+NOTE: Reduced alignment (with duplicates and gap-only sites/taxa removed) 
+NOTE: was saved to: /home/cbrook/denv1ML/T1.raxml.reduced.phy
+
+Alignment comprises 1 partitions and 11129 sites
+
+Partition 0: noname
+Model: GTR+FO+I+G4m
+Alignment sites: 11129
+Gaps: 4.58 %
+Invariant sites: 54.18 %
+
+
+
+Alignment can be successfully read by RAxML-NG.
+
+
+Execution log saved to: /home/cbrook/denv1ML/T1.raxml.log
+
+Analysis started: 10-Apr-2024 11:13:17 / finished: 10-Apr-2024 11:13:19
+
+Elapsed time: 2.030 seconds
+
