@@ -1,0 +1,49 @@
+"climate_var","province","degrees_of_freedom","stat","p_val"
+"temp","Banteay Meanchey",3.4,19.1,0
+"temp","Battambang",1,29.98,0
+"temp","Kampong Cham",5.65,12.68,0
+"temp","Kampong Chhnang",3.37,9.99,0
+"temp","Kampong Speu",4.08,15.16,0
+"temp","Kampong Thom",3.86,13.05,0
+"temp","Kampot",3.23,1.66,0.189
+"temp","Kandal",2.96,7.81,0
+"temp","Kep",1,0.39,0.534
+"temp","Koh Kong",1,1.22,0.27
+"temp","Kratie",3.76,8.05,0
+"temp","Mondul Kiri",1,0.02,0.884
+"temp","Oddar Meanchey",1.62,12.27,0
+"temp","Pailin",1,0.34,0.561
+"temp","Phnom Penh",2.65,5.98,0
+"temp","Preah Sihanouk",1.21,0.11,0.815
+"temp","Preah Vihear",1.87,7.31,0
+"temp","Prey Veng",1,41.12,0
+"temp","Pursat",1.75,19.79,0
+"temp","Ratanak Kiri",1,9.28,0.002
+"temp","Siem Reap",5.55,9.59,0
+"temp","Stung Treng",1,0.19,0.665
+"temp","Svay Rieng",1,10.08,0.002
+"temp","Takeo",1.91,18.71,0
+"precip","Banteay Meanchey",3.41,15.44,0
+"precip","Battambang",2.72,16.13,0
+"precip","Kampong Cham",4.54,31.01,0
+"precip","Kampong Chhnang",2.29,3.12,0.04
+"precip","Kampong Speu",1,1.54,0.215
+"precip","Kampong Thom",2.23,1.67,0.216
+"precip","Kampot",4.92,11.5,0
+"precip","Kandal",3.22,6.71,0
+"precip","Kep",1,0.01,0.927
+"precip","Koh Kong",1,0.93,0.336
+"precip","Kratie",3.5,3.3,0.009
+"precip","Mondul Kiri",1,0.02,0.886
+"precip","Oddar Meanchey",1.89,7.64,0
+"precip","Pailin",1,0.03,0.872
+"precip","Phnom Penh",1.23,0.07,0.832
+"precip","Preah Sihanouk",1.79,2.86,0.061
+"precip","Preah Vihear",1.5,1.58,0.154
+"precip","Prey Veng",1,1.1,0.294
+"precip","Pursat",5.89,9.58,0
+"precip","Ratanak Kiri",1,1.36,0.243
+"precip","Siem Reap",2.7,15.81,0
+"precip","Stung Treng",1,0.3,0.581
+"precip","Svay Rieng",4.9,24.47,0
+"precip","Takeo",2.46,3.92,0.007

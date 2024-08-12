@@ -1,0 +1,7 @@
+"GAM","smooth","deg_freedom","stat","p_val"
+"anomaly_temp","year",16.8,85.8,0
+"anomaly_temp","biweek",4.99,2747.8,0
+"anomaly_temp","province",23.94,402.3,0
+"anomaly_precip","year",16.04,16.7,0
+"anomaly_precip","biweek",4.98,3300.9,0
+"anomaly_precip","province",23.73,89.1,0
