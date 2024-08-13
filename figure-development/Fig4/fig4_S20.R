@@ -19,8 +19,7 @@ library(geosphere)
 #library(rgeos)
 library(sf)
 library(lubridate)
-
-
+library(ggspatial)
 
 
 #make three timetrees and one map all together
@@ -227,7 +226,9 @@ pCamSummary <- ggplot(cam) +
   coord_sf(xlim=c(102.3,107.63), ylim = c(10.26,15.8)) +
   scale_size_continuous(trans = "log10", name="number of\ngenotyped\ncases") +
   scale_fill_manual(values=sero.cols) + #+name="DENV serotype/\ngenotype", 
-  guides(fill="none")
+  guides(fill="none") +
+  annotation_scale(pad_x = unit(8, "cm"), pad_y = unit(2.7, "cm"),
+                   width_hint=.18, text_cex = .9)
 #       fill=guide_legend(override.aes = list(color="black")))
 
 

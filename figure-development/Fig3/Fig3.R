@@ -7,6 +7,7 @@ library(lmerTest)
 library(ggplot2)
 library(mgcv)
 library(reshape2)
+library(ggspatial)
 
 homewd= "/Users/carabrook/Developer/cambodia-dengue-national-public"
 setwd(homewd)
@@ -189,7 +190,9 @@ Fig3A <- ggplot(cam.merge) +
                       trans="log10",
                       labels=scales::parse_format(),
                       name = "mean age of dengue\ninfection, 2020") +
-  guides(color="none")
+  guides(color="none") +
+  annotation_scale(pad_x = unit(7.5, "cm"), pad_y = unit(2, "cm"),
+                   width_hint=.18, text_cex = .9)
 
 
 Fig3AB <- cowplot::plot_grid(Fig3A, Fig3B, nrow=1, ncol=2, labels = c("A", "B"), label_size = 22)
